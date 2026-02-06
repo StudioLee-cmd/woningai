@@ -6,7 +6,7 @@ export interface IReviewPackage {
     features: string[];
     highlight?: boolean;
     buttonText: string;
-    buttonLink: string; // Placeholder for Mollie link
+    buttonLink: string;
 }
 
 export const reviewPackages: IReviewPackage[] = [
@@ -14,49 +14,53 @@ export const reviewPackages: IReviewPackage[] = [
         id: 'small',
         name: 'Start Pakket',
         price: 179,
-        description: 'Perfect om te beginnen met reviews verzamelen.',
+        description: 'Alles om direct te starten met het verzamelen van reviews.',
         features: [
-            'Stickers voor op de deur (met QR)',
-            'NFC tas (opent review URL)',
-            'Bordje voor op het bureau',
-            'Samenwerking met Google Reviews',
-            'Exclusief voor jouw niche'
+            '2x NFC Deurstickers (Dubbelzijdig)',
+            '1x NFC Balie Display (Acryl)',
+            '50x Review Visitekaartjes (QR)',
+            'Digitale Email Handtekening',
+            'Toegang tot Review Dashboard',
+            'Google Review Link Shortener'
         ],
         highlight: false,
         buttonText: 'Bestel Nu',
-        buttonLink: '#' // TODO: Add Mollie Link
+        buttonLink: '#'
     },
     {
         id: 'large',
-        name: 'Groei Pakket',
+        name: 'Dominantie Pakket',
         price: 279,
-        description: 'Alles dubbel voor maximale zichtbaarheid.',
+        description: 'Maximale zichtbaarheid voor jouw bedrijf.',
         features: [
-            'Dubbele hoeveelheid stickers',
-            '2x NFC tas',
-            '2x Bordje voor op het bureau',
-            'Eigen dashboard toegang',
-            'Mockup generator toegang',
-            'Beste keuze voor MKB'
+            '5x NFC Deurstickers (Weerbestendig)',
+            '3x NFC Balie Displays (Premium Wood/Acryl)',
+            '250x Review Flyers (A5 formaat)',
+            '10x NFC Review Cards (Personeel)',
+            'Social Media Review Templates (Canva)',
+            'Maandelijkse Review Rapportage',
+            'Prioriteit Support & Setup',
+            'Gratis Design Consult'
         ],
         highlight: true,
         buttonText: 'Bestel Nu',
-        buttonLink: '#' // TODO: Add Mollie Link
+        buttonLink: '#'
     },
     {
         id: 'custom',
         name: 'Custom / Agency',
-        price: 0, // 0 indicates "On Request" or handled differently in UI
-        description: 'Voor grote organisaties of specifieke wensen.',
+        price: 0,
+        description: 'Voor franchises, ketens of specifieke whitelabel wensen.',
         features: [
-            'Alles op maat gemaakt',
-            'White-label opties',
-            'Volume korting',
-            'Persoonlijke support',
-            'Gratis introductie call'
+            'Volledige Whitelabel Opties',
+            'Bulk Hardware (100+ stuks)',
+            'Custom API Integraties',
+            'Multi-Locatie Dashboard',
+            'Training voor Personeel',
+            'Dedicated Account Manager'
         ],
         highlight: false,
-        buttonText: 'Vraag Offerte',
+        buttonText: 'Plan Strategie Call',
         buttonLink: 'https://calendly.com/tim-studiolee'
     }
 ];

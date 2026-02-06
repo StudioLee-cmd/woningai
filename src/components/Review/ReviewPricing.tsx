@@ -38,8 +38,14 @@ const ReviewPricing = () => {
                             <p className="text-gray-500 mb-6 min-h-[50px]">{pkg.description}</p>
 
                             <div className="mb-8">
-                                <span className="text-4xl font-black text-gray-900">€{pkg.price}</span>
-                                {pkg.price > 0 && <span className="text-gray-500"> / eenmalig</span>}
+                                {pkg.price > 0 ? (
+                                    <>
+                                        <span className="text-4xl font-black text-gray-900">€{pkg.price}</span>
+                                        <span className="text-gray-500"> / eenmalig</span>
+                                    </>
+                                ) : (
+                                    <span className="text-4xl font-black text-gray-900">Maatwerk</span>
+                                )}
                             </div>
 
                             <ul className="space-y-4 mb-8">

@@ -65,38 +65,38 @@ const FallingText = () => {
         });
 
         const allWords = [
-            // HERO USPs (DAKDEKKER EDITION)
-            "Meer Winst per Dak 🏠",
-            "Alles-in-1 Systeem 🛠️",
-            "Nooit Meer Gemiste Oproepen 📞",
-            "Je Werkbonnen op Orde 📋",
+            // HERO USPs (MAKELAAR EDITION)
+            "Meer Woningen, Meer Omzet 🏘️",
+            "Alles-in-1 Systeem 📱",
+            "Nooit Meer Gemiste Leads 📅",
+            "Je Woningportfolio op Orde 🏠",
             "Ondernemen Zonder Zorgen 🚀",
-            "Je Kantoor in je Broekzak 📱",
+            "Je Makelaarskantoor in je Broekzak 📱",
             "Jouw AI Receptioniste 🤖",
-            "Je Cijfers Waterdicht 💧",
-            "Geen Gedoe Met Facturen 🧾",
+            "Stop Omzetlekkages 💸",
+            "Geen Gedoe Met Documenten 🧾",
             "Alle Tools in 1 App 📱",
             "Meer Vrijheid, Minder Stress 🧘",
             "100% Jouw Eigen Stijl 🎨",
             "Klanten & AI in 1 Systeem 🤝",
-            "Volgeboekte Agenda 📈",
-            "Offertes die scoren 📝",
-            "Slapende klanten wakker schudden ⏰",
+            "Volgeboekte Bezichtigingen 📈",
+            "Klanten die je aanbevelen 🪃",
+            "Slapende leads wakker schudden ⏰",
 
-            // DAKDEKKER PUNS & FUN
-            "Minder kantoor, meer dak op 🏠",
-            "Tijd voor koffie & je klus ☕",
+            // MAKELAAR PUNS & FUN
+            "Minder bezichtigen, meer verdienen 🏠",
+            "Tijd voor koffie & je Funda-app ☕",
             "Laat de telefoon maar rinkelen (AI pakt op) 📞",
-            "Laat de AI je planning doen 🤖",
-            "Sleutelen, niet telefoneren 🔨",
-            "Geen lekkage in je planning 📅",
-            "Geknipt voor Jouw Business ✂️",
-            "Jij de vakman, AI de rest 👷‍♂️",
-            "Van dakdekker naar top-ondernemer 🚀",
-            "Handen in het haar? Nergens voor nodig! 👐",
-            "Meer omzet in minder tijd ⏳",
-            "Altijd scherp, net als je tools 🔪",
-            "Strakke planning, blije klanten 📅",
+            "Laat de AI je leads binnenhalen 🤖",
+            "Verkopen, niet telefoneren 🏡",
+            "Geen leegstand in je planning 📅",
+            "Tuin op het zuiden? AI doet de rest 🌞",
+            "Jij de sleutel, AI het gedoe 🔑",
+            "Van makelaar naar top-ondernemer 🚀",
+            "Woning te koop? Markt te gek? AI helpt 🏘️",
+            "Meer bezichtigingen in minder tijd ⏳",
+            "Altijd scherp, net als je onderhandelingen 💼",
+            "Strakke presentatie, strakke planning 🏠",
             "Eindelijk rustig lunchen 🥪"
         ];
 

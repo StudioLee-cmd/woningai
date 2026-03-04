@@ -1,12 +1,12 @@
 export const siteDetails = {
-    siteName: 'Dakdekker AI',
-    siteUrl: 'https://dakdekkerai.nl/',
+    siteName: 'WoningAI',
+    siteUrl: 'https://woningai.nl/',
     metadata: {
-        title: 'Dakdekker AI - De slimme assistent voor jouw dakdekkersbedrijf',
-        description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. Dakdekker AI regelt je agenda, telefoon en administratie volledig automatisch.',
+        title: 'WoningAI - AI Telefoniste & Automatisering voor Makelaars',
+        description: 'WoningAI helpt makelaars groeien met AI. Van automatische telefoonbeantwoording tot slimme planning & opvolging van leads.',
     },
     language: 'nl-nl',
     locale: 'nl-NL',
-    siteLogo: '/images/logo-transparent.png', // Transparent logo for dark mode support
+    siteLogo: '/images/logo.png',
     googleAnalyticsId: '', // e.g. G-XXXXXXX,
 }

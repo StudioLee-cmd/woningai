@@ -1,5 +1,5 @@
 export const heroDetails = {
-    heading: 'De grootste kans voor dakdekkers sinds de uitvinding van de dakpan.',
-    subheading: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. Dakdekker AI regelt je agenda, telefoon en administratie volledig automatisch. Zo kan jij ongestoord doen waar je goed in bent: het dak op.',
-    centerImageSrc: '/images/hero-mockup.webp',
+    heading: 'De grootste kans voor makelaars sinds de uitvinding van Funda.',
+    subheading: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. WoningAI regelt je agenda, telefoon en opvolging volledig automatisch. Zo kan jij ongestoord doen waar je goed in bent: huizen verkopen.',
+    centerImageSrc: '/images/hero-image.png',
 }

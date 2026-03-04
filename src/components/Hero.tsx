@@ -63,19 +63,19 @@ const Hero: React.FC = () => {
                             style={{ x: xLeft, opacity, display: 'inline-block' }}
                             className="mr-2"
                         >
-                            De grootste kans voor&nbsp;<Highlight color="primary">salons</Highlight>
+                            De grootste kans voor&nbsp;<Highlight color="primary">makelaars</Highlight>
                         </motion.span>
                         <br className="hidden md:block" />
                         <motion.span
                             style={{ x: xRight, opacity, display: 'inline-block' }}
                         >
-                            sinds de uitvinding van de
+                            sinds de uitvinding van
                         </motion.span>
                         <br className="hidden md:block" />
                         <motion.span
                             style={{ x: xLeft, opacity, display: 'inline-block' }}
                         >
-                            <Highlight color="secondary">nagellak</Highlight>.
+                            <Highlight color="secondary">Funda</Highlight>.
                         </motion.span>
                     </h1>
                 </motion.div>

@@ -38,4 +38,4 @@ Tevreden verkopers en kopers zijn bereid een review te schrijven — maar alleen
 
 ## Conclusie
 
-Makelaars die AI inzetten, presenteren beter, reageren sneller en sluiten meer transacties. Meer weten? Ga naar [woningai.nl](https://woningai.nl).
+Makelaars die AI inzetten, presenteren beter, reageren sneller en sluiten meer transacties. Meer weten? Ga naar [woningai.nl](https://www.woningai.nl).

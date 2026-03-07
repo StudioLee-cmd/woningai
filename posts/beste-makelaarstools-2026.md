@@ -67,4 +67,4 @@ Als makelaar draait alles om snelheid: snel reageren op leads, snel een bezichti
 - **CRM en portalen?** Realworks regelt woningbeheer en Funda-koppelingen.
 - **Meer leads en bereikbaarheid?** [WoningAI](/) combineert AI-chatbot, Voice AI, reviews en vindbaarheid — als aanvulling op je CRM.
 
-Benieuwd wat WoningAI voor jouw makelaarskantoor kan betekenen? [Neem contact op](/contact).
+Benieuwd wat WoningAI voor jouw makelaarskantoor kan betekenen? [Plan een gratis gesprek](https://calendly.com/tim-studiolee).

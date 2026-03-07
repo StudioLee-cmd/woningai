@@ -97,7 +97,7 @@ Jij sluit deals. Wij zorgen dat klanten jou vinden:
 - **SEO-pagina's** per dienst en werkgebied
 - **Maandrapportage** over aanvragen en leads
 
-**Plan een gratis gesprek via woningai.nl.**
+**Plan een gratis gesprek via [woningai.nl](https://www.woningai.nl).**
 
 ---
 

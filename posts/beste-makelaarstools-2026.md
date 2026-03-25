@@ -43,7 +43,7 @@ Als makelaar draait alles om snelheid: snel reageren op leads, snel een bezichti
 
 [WoningAI](/) is een AI-systeem dat makelaars helpt met de marketing- en communicatiekant: leadopvolging, automatische reviews via WhatsApp, AI-chatbot voor woningvragen, Voice AI-telefonist en optimalisatie voor Google én AI-zoekmachines.
 
-**Sterkste punt:** Alles wat buiten het CRM valt op autopilot: leadopvolging via WhatsApp, automatische reviews, AI-chatbot die woningvragen beantwoordt, Voice AI die de telefoon opneemt, en [betere vindbaarheid op Google](/blog/hoe-makelaars-meer-leads-krijgen-via-google). Custom booking app voor bezichtigingen.
+**Sterkste punt:** Alles wat buiten het CRM valt op autopilot: leadopvolging via WhatsApp, automatische reviews, AI-chatbot die woningvragen beantwoordt, Voice AI die de telefoon opneemt, en [betere vindbaarheid op Google](/blog/hoe-ai-makelaars-helpt). Custom booking app voor bezichtigingen.
 
 **Nadeel:** Geen woningbeheer of Funda-koppeling — voor listings en portalen blijf je Realworks of vergelijkbaar gebruiken.
 

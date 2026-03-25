@@ -11,7 +11,7 @@ tags: ["Klantbeleving", "Service", "Woningverkoop"]
 
 De makelaarsmarkt is competitief. Tarieven zijn vergelijkbaar, diensten zijn vergelijkbaar — het verschil zit in de beleving. Een verkoper die zich persoonlijk begeleid voelt van eerste gesprek tot sleuteloverdracht, beveelt je aan bij familie en vrienden. Een verkoper die zich als nummer voelt, schrijft een middelmatige review.
 
-Klantbeleving is geen soft begrip — het is direct gekoppeld aan je bedrijfsresultaat. Makelaars met een gemiddelde Google-score van 4,8+ groeien 40% sneller dan makelaars met 4,2. Zorg dat je [online vindbaar](/blog/online-vindbaarheid-makelaars-woningverhuurders) bent, en maak dan van elke klant een ambassadeur.
+Klantbeleving is geen soft begrip — het is direct gekoppeld aan je bedrijfsresultaat. Makelaars met een gemiddelde Google-score van 4,8+ groeien 40% sneller dan makelaars met 4,2. Zorg dat je [online vindbaar](/blog/online-vindbaarheid-voor-makelaars-en-woning-verhuurders) bent, en maak dan van elke klant een ambassadeur.
 
 ## De bezichtiging als eerste indruk
 

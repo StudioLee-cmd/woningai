@@ -18,7 +18,7 @@ Branding gaat niet over een mooi logo — het gaat over herkenning, vertrouwen e
 Zonder sterk merk:
 
 - Concurreer je op courtage (race to the bottom)
-- Ben je afhankelijk van [Funda](/blog/funda-vs-woningai-welke-investering-loont) voor leads
+- Ben je afhankelijk van [Funda](/blog/funda-vs-woningai-welke-investering-loont-meer) voor leads
 - Moet je elke klant opnieuw overtuigen
 - Heb je geen natuurlijke doorverwijzingen
 
@@ -36,7 +36,7 @@ Met een sterk merk:
 Claim je buurt. Word dé expert in 2-3 wijken:
 
 - Ken elke straat, elke school, elk restaurant
-- Deel buurtkennis op [social media](/blog/social-media-makelaars-meer-bezichtigingen)
+- Deel buurtkennis op [social media](/blog/social-media-makelaars-bezichtigingen)
 - Schrijf buurtgidsen op je website
 
 ### Visuele identiteit
@@ -44,7 +44,7 @@ Claim je buurt. Word dé expert in 2-3 wijken:
 Consistentie is sleutel:
 
 - Dezelfde kleuren op alle kanalen
-- Professionele [woningfotografie](/blog/woningfotografie-makelaar-betere-fotos)
+- Professionele [woningfotografie](/blog/woningfotografie-makelaar-meer-bezichtigingen)
 - Herkenbare borden bij te koop-woningen
 - Branded open-huizen materialen
 
@@ -52,18 +52,18 @@ Consistentie is sleutel:
 
 | Kanaal | Brandingkans |
 |--------|-------------|
-| [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-makelaar-meer-bezichtigingen) | Reviews, foto's, lokale zichtbaarheid |
+| [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-makelaar-bezichtigingen) | Reviews, foto's, lokale zichtbaarheid |
 | Instagram | Woningpresentaties, buurtcontent |
 | LinkedIn | Professioneel netwerk, marktinzichten |
-| [Email marketing](/blog/email-marketing-makelaars-woningzoekenden) | Marktrapportages, nieuwe woningen |
-| [Website](/blog/makelaarswebsite-conversiemachine) | Portfolio, testimonials, buurtpagina's |
+| [Email marketing](/blog/email-marketing-makelaar-woningzoekenden) | Marktrapportages, nieuwe woningen |
+| [Website](/blog/makelaarswebsite-meer-bezichtigingen) | Portfolio, testimonials, buurtpagina's |
 
 ## Van tevreden klant naar ambassadeur
 
 De beste branding komt van je klanten:
 
 - Maak een professionele foto bij de sleuteloverdracht
-- Vraag om een [Google review](/blog/meer-google-reviews-makelaarskantoor-automatisch)
+- Vraag om een [Google review](/blog/meer-google-reviews-makelaarskantoor)
 - Deel succesverhalen (met toestemming)
 - Stuur een attent cadeau bij de verhuizing
 

@@ -11,7 +11,7 @@ tags: ["website conversie", "makelaar", "bezichtigingen"]
 
 ## Waarom je website je belangrijkste verkoopkanaal is
 
-Woningzoekenden beginnen op [Funda](/blog/funda-vs-woningai), maar ze bezoeken ook je website. Verkopers die een makelaar zoeken, googelen en bekijken je site. In beide gevallen is je website het scharnierpunt: het moment waarop een bezoeker besluit contact op te nemen — of niet.
+Woningzoekenden beginnen op [Funda](/blog/woningai-vs-binnendienst), maar ze bezoeken ook je website. Verkopers die een makelaar zoeken, googelen en bekijken je site. In beide gevallen is je website het scharnierpunt: het moment waarop een bezoeker besluit contact op te nemen — of niet.
 
 De meeste makelaarswebsites zien er professioneel uit maar converteren slecht. Ze tonen woningen en teamfoto's maar missen de elementen die bezoekers aanzetten tot actie.
 
@@ -20,7 +20,7 @@ De meeste makelaarswebsites zien er professioneel uit maar converteren slecht. Z
 Een woningzoeker maakt drie stappen:
 
 1. **Orienterend zoeken**: browsen op Funda en makelaarswebsites, vergelijken
-2. **Verdiepen**: specifieke woningen bekijken, de makelaar evalueren, [reviews](/blog/meer-google-reviews-makelaar) lezen
+2. **Verdiepen**: specifieke woningen bekijken, de makelaar evalueren, [reviews](/blog/meer-google-reviews-makelaarskantoor) lezen
 3. **Actie ondernemen**: bezichtiging aanvragen, bellen, mailen
 
 Je website moet al deze stappen ondersteunen. De fout die veel makelaars maken: ze focussen op stap 1 (mooie woningen tonen) maar vergeten stap 3 (makkelijk contact opnemen).
@@ -39,11 +39,11 @@ Je website moet al deze stappen ondersteunen. De fout die veel makelaars maken: 
 
 Elke woningpagina moet meer doen dan foto's tonen:
 
-**[Professionele fotografie](/blog/woningfotografie-makelaar)**. Dit is de basis — slechte foto's verliezen bezoekers direct.
+**[Professionele fotografie](/blog/woningfotografie-makelaar-meer-bezichtigingen)**. Dit is de basis — slechte foto's verliezen bezoekers direct.
 
 **Buurtinformatie**. Scholen, winkels, parken, OV-verbindingen. Woningzoekenden kopen niet alleen een huis maar een buurt.
 
-**[Social proof](/blog/social-proof-makelaar)**. Toon reviews op je woningpagina's: "Verkocht boven de vraagprijs — uitstekende begeleiding." Dit overtuigt verkopers om jou als makelaar te kiezen.
+**[Social proof](/blog/social-proof-makelaar-reviews-succesverhalen)**. Toon reviews op je woningpagina's: "Verkocht boven de vraagprijs — uitstekende begeleiding." Dit overtuigt verkopers om jou als makelaar te kiezen.
 
 **Duidelijke prijsinformatie**. Vraagprijs, servicekosten, bijzonderheden — transparantie wekt vertrouwen.
 

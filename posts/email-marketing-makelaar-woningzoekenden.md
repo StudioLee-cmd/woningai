@@ -35,7 +35,7 @@ Elke groep krijgt andere content. Een actieve zoeker wil weten welke woningen er
 
 **Voor verkopers:**
 - Marktrapportage: gemiddelde verkoopprijzen in de regio
-- [Woningfotografie](/blog/woningfotografie-makelaar) tips: hoe maak je je huis verkoopklaar?
+- [Woningfotografie](/blog/woningfotografie-makelaar-meer-bezichtigingen) tips: hoe maak je je huis verkoopklaar?
 - [Energielabel](/blog/energielabel-woningverkoop-verduurzaming) impact op verkoopprijs
 - Succesvolle verkopen: "[social proof](/blog/social-proof-makelaar-reviews-succesverhalen)" via casestudies
 
@@ -67,7 +67,7 @@ Social proof is cruciaal in de makelaardij. Integreer reviews in je e-mails:
 - **Te vaak mailen**: wekelijks is het maximum voor actieve zoekers, maandelijks voor de rest
 - **Niet personaliseren**: een mail over appartementen naar iemand die een huis zoekt, is irritant
 - **Geen call-to-action**: elke mail moet een duidelijke volgende stap hebben
-- **[Leadgeneratie](/blog/geen-lead-meer-missen-makelaar) en marketing verwarren**: lead-opvolging is verkoop, nieuwsbrieven zijn relatie
+- **[Leadgeneratie](/blog/woningfotografie-makelaar-meer-bezichtigingen) en marketing verwarren**: lead-opvolging is verkoop, nieuwsbrieven zijn relatie
 
 ## Aan de slag
 

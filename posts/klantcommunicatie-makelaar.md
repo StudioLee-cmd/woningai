@@ -31,7 +31,7 @@ Bezichtigingen zijn het moment waarop klanten hun beslissing vormen. Communiceer
 - **Bereid de klant voor** — stuur vooraf de plattegrond en buurtinformatie
 - **Follow-up na elke bezichtiging** — bel dezelfde avond of de volgende ochtend. Vraag niet alleen "en, wat vond je ervan?" maar geef context: vergelijkbare woningen, markttrends, verwachte concurrentie
 
-Lees ook hoe je [het maximale haalt uit open huizen dagen](/blog/open-huizen-dag-makelaar-bezichtigingsmoment).
+Lees ook hoe je [het maximale haalt uit open huizen dagen](/blog/open-huizen-dag-makelaar-maximaal-resultaat).
 
 ### Fase 3: Onderhandeling
 
@@ -81,7 +81,7 @@ Investeer in je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-makelaar-b
 
 ## Laat communicatie professioneel regelen
 
-Geen tijd om al deze communicatiemomenten zelf te beheren? Met een managed service besteed je slechts **15 minuten per maand** aan een kort gesprek. Communicatiestrategieën, [email marketing](/blog/email-marketing-makelaars-woningzoekenden), online zichtbaarheid — het wordt voor je opgepakt.
+Geen tijd om al deze communicatiemomenten zelf te beheren? Met een managed service besteed je slechts **15 minuten per maand** aan een kort gesprek. Communicatiestrategieën, [email marketing](/blog/email-marketing-makelaar-woningzoekenden), online zichtbaarheid — het wordt voor je opgepakt.
 
 De Groei-of-Geld-Terug Garantie maakt het risicovloos: geen groei? Geld terug. Het risico ligt 100% bij ons.
 
@@ -91,4 +91,4 @@ De Groei-of-Geld-Terug Garantie maakt het risicovloos: geen groei? Geld terug. H
 
 De makelaar die in elke fase van het koopproces proactief communiceert, wint het vertrouwen van de klant en de doorverwijzingen die daaruit voortkomen. Het verschil zit niet in de woningen die je verkoopt, maar in hoe je de klant begeleidt. Van eerste contact tot nazorg — elke interactie telt.
 
-Lees ook hoe je [AI inzet voor slimmere advertenties](/blog/ai-makelaars-slimmer-adverteren) en hoe je met [woningfotografie meer bezichtigingen krijgt](/blog/woningfotografie-makelaar-betere-fotos).
+Lees ook hoe je [AI inzet voor slimmere advertenties](/blog/ai-voor-makelaars-slimmer-adverteren-meer-bezichtigingen) en hoe je met [woningfotografie meer bezichtigingen krijgt](/blog/woningfotografie-makelaar-meer-bezichtigingen).

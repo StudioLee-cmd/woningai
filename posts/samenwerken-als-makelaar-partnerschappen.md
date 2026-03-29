@@ -7,8 +7,6 @@ image: "/images/blog/samenwerken-als-makelaar-partnerschappen.png"
 tags: ["samenwerkingen", "makelaar", "groei"]
 ---
 
-# Samenwerken als makelaar: partnerschappen die meer bezichtigingen opleveren
-
 Een woningtransactie raakt tientallen professionals: hypotheekadviseur, notaris, taxateur, bouwkundig inspecteur, aannemer, verhuizer. Als makelaar sta je in het centrum van dit netwerk. De vraag is: benut je dat netwerk actief?
 
 ## Waarom samenwerkingen cruciaal zijn voor makelaars
@@ -55,7 +53,7 @@ Kopers willen weten wat een verbouwing kost. Een bouwkundig inspecteur die jou v
 
 ## Online versterken
 
-Vermeld je partners op je [website](/blog/makelaarswebsite-conversiemachine). "Onze vertrouwde partners" met links naar hun websites versterkt je vindbaarheid en professionaliteit. Deel [succesverhalen](/blog/mond-tot-mondreclame-makelaar) waarin je samenwerkingen een rol speelden op [social media](/blog/social-media-makelaars-bezichtigingen).
+Vermeld je partners op je [website](/blog/makelaarswebsite-meer-bezichtigingen). "Onze vertrouwde partners" met links naar hun websites versterkt je vindbaarheid en professionaliteit. Deel [succesverhalen](/blog/mond-tot-mondreclame-makelaar) waarin je samenwerkingen een rol speelden op [social media](/blog/social-media-makelaars-bezichtigingen).
 
 ## Meten en evalueren
 

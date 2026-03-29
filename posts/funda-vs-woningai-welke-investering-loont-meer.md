@@ -7,8 +7,6 @@ image: "/images/blog/funda-vs-woningai-welke-investering-loont-meer.png"
 tags: ["Tools", "Vergelijking", "Makelaars"]
 ---
 
-
-
 Funda is het grootste woningplatform van Nederland. Elke makelaar staat erop. Maar Funda is een advertentiekanaal — geen groeistrategie. WoningAI pakt het anders aan.
 
 ## Wat is Funda?

@@ -7,8 +7,6 @@ image: "/images/blog/branding-makelaar.png"
 tags: ["branding", "makelaar", "merkopbouw"]
 ---
 
-# Branding als makelaar: zo word je het bekendste kantoor in je regio
-
 De makelaarsbranche is competitief. In elke stad concurreren tientallen kantoren om dezelfde woningverkopers. Het verschil tussen een kantoor dat groeit en een dat stilstaat? Branding.
 
 Branding gaat niet over een mooi logo — het gaat over herkenning, vertrouwen en top-of-mind zijn wanneer iemand zijn huis wil verkopen.

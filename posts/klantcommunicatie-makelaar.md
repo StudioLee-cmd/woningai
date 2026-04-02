@@ -5,6 +5,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klantcommunicatie-makelaar.png"
 tags: ["Klantcommunicatie", "Makelaar", "Groei"]
+cluster: "klantcommunicatie"
 ---
 
 Een woning kopen of verkopen is een van de grootste financiële beslissingen in iemands leven. Klanten zijn nerveus, onzeker en zoeken bevestiging. De makelaar die op elk moment de juiste communicatie biedt, wint niet alleen het vertrouwen van die klant — maar ook de doorverwijzingen die eruit voortkomen.

@@ -5,6 +5,7 @@ date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beste-makelaarstools-2026.png"
 tags: ["Software", "Vergelijking", "Tools"]
+cluster: "software-vergelijking"
 ---
 
 Als makelaar draait alles om snelheid: snel reageren op leads, snel een bezichtiging plannen, snel een woning online zetten. Welke tools helpen jou als makelaar om efficiënter te werken én meer te verkopen in 2026?

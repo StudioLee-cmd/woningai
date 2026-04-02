@@ -5,6 +5,7 @@ date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-voor-makelaars-slimmer-adverteren-meer-bezichtigingen.png"
 tags: ["AI", "Automatisering", "Makelaars"]
+cluster: "ai-automatisering"
 ---
 
 De woningmarkt beweegt snel. Kopers en huurders verwachten direct respons, professionele presentaties en slimme communicatie. Makelaars die AI inzetten, kunnen die verwachtingen waarmaken — zonder meer uren te draaien.

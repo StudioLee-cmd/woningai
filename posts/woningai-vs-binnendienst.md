@@ -5,6 +5,7 @@ date: "2026-01-25"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/woningai-vs-binnendienst.png"
 tags: ["Efficiëntie", "Besparingen", "Opschalen"]
+cluster: ""
 ---
 
 Groei als makelaar betekent vaak meer drukte op de binnendienst. Er komt een punt waarop je overweegt iemand extra aan te nemen voor de telefoon en de agenda. Maar in de huidige markt is dat een enorme vaste last en een groot risico.

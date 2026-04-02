@@ -5,6 +5,7 @@ date: "2026-03-13"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/woningfotografie-makelaar-meer-bezichtigingen.png"
 tags: ["Fotografie", "Verkoop", "Marketing"]
+cluster: "woningfotografie"
 ---
 
 Een woning wordt in de eerste 20 seconden beoordeeld. Niet bij de bezichtiging — op Funda. De hoofdfoto bepaalt of iemand doorklikt of doorscrollt. En toch presenteren veel makelaars woningen met foto's die er donker, rommelig of onprofessioneel uitzien. Het resultaat: minder klikken, minder bezichtigingen, langere verkooptijden.

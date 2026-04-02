@@ -5,6 +5,7 @@ date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-vindbaarheid-voor-makelaars-en-woning-verhuurders.png"
 tags: ["Vindbaarheid", "Google", "Makelaars", "Verhuur"]
+cluster: "vindbaarheid"
 ---
 
 ## Wie een woning zoekt, gaat naar Google

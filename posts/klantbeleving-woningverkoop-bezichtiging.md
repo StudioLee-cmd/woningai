@@ -5,6 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klantbeleving-woningverkoop-bezichtiging.png"
 tags: ["Klantbeleving", "Service", "Woningverkoop"]
+cluster: "klantbeleving"
 ---
 
 ## Waarom klantbeleving het verschil maakt

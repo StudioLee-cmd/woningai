@@ -5,6 +5,7 @@ date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/funda-alternatief-makelaars-eigen-leads.png"
 tags: ["Leads", "Marketing"]
+cluster: ""
 ---
 
 Funda is fantastisch voor bereik — maar het maakt je ook afhankelijk. Elke lead loopt via hun platform, je betaalt per vermelding en je hebt nauwelijks controle over hoe je kantoor zich presenteert. Wat als je daarnaast ook zelf leads kunt genereren via je eigen kanalen?

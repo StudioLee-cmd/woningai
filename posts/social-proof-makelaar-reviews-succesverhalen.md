@@ -5,6 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/social-proof-makelaar-reviews-succesverhalen.png"
 tags: ["Social proof", "Reviews", "Marketing"]
+cluster: "social proof"
 ---
 
 ## Wat is social proof en waarom werkt het

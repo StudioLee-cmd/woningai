@@ -5,6 +5,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-makelaar-partnerschappen.png"
 tags: ["samenwerkingen", "makelaar", "groei"]
+cluster: "samenwerkingen"
 ---
 
 Een woningtransactie raakt tientallen professionals: hypotheekadviseur, notaris, taxateur, bouwkundig inspecteur, aannemer, verhuizer. Als makelaar sta je in het centrum van dit netwerk. De vraag is: benut je dat netwerk actief?

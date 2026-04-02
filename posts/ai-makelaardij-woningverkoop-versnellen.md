@@ -5,6 +5,7 @@ date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-makelaardij-woningverkoop-versnellen.png"
 tags: ["Makelaar", "AI", "Woningverkoop", "PropTech"]
+cluster: "AI makelaardij"
 ---
 
 ## De makelaardij verandert — AI is de katalysator

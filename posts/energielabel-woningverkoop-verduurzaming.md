@@ -5,6 +5,7 @@ date: "2026-03-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/energielabel-woningverkoop-verduurzaming.png"
 tags: ["Energielabel", "Verduurzaming", "Woningmarkt"]
+cluster: "energielabel"
 ---
 
 Het energielabel is de afgelopen jaren uitgegroeid van een formaliteit tot een serieuze factor bij woningverkoop. Kopers kijken steeds bewuster naar de energiekosten van een woning. Een huis met label A verkoopt sneller en voor een hogere prijs dan een vergelijkbaar huis met label G. Als makelaar is het slim om op deze trend in te spelen.

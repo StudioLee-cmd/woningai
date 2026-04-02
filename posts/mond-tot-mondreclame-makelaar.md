@@ -5,6 +5,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mondreclame-makelaar.png"
 tags: ["mond-tot-mond", "makelaar", "marketing"]
+cluster: "mond-tot-mondreclame"
 ---
 
 "Ken je een goede makelaar?" Het is de meest gestelde vraag wanneer iemand besluit te verkopen. Het antwoord komt van buren, collega's en familieleden die recent hebben verkocht. Die doorverwijzing is de meest waardevolle lead die je als makelaar kunt krijgen.

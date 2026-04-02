@@ -5,6 +5,7 @@ date: "2026-03-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/seizoensmarketing-makelaar-verkoopseizoen.png"
 tags: ["seizoenswerk", "makelaar", "marketing"]
+cluster: "seizoenswerk"
 ---
 
 De woningmarkt draait het hele jaar door, maar niet elk seizoen is gelijk. In het voorjaar komen de meeste woningen op de markt. In de winter daalt het aanbod. Slimme makelaars passen hun marketing aan op deze patronen en halen er maximaal resultaat uit.

@@ -5,6 +5,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/branding-makelaar.png"
 tags: ["branding", "makelaar", "merkopbouw"]
+cluster: "branding"
 ---
 
 De makelaarsbranche is competitief. In elke stad concurreren tientallen kantoren om dezelfde woningverkopers. Het verschil tussen een kantoor dat groeit en een dat stilstaat? Branding.

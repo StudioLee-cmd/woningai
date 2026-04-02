@@ -5,6 +5,7 @@ date: "2025-12-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-ai-makelaars-helpt.png"
 tags: ["AI", "Makelaardij", "Automatisering"]
+cluster: ""
 ---
 
 Het runnen van een makelaarskantoor anno 2026 is topsport. Je bent niet alleen de specialist die huizen verkoopt, maar je bent ook planner, telefoniste, marketingmanager en klantenservice in één. Veel makelaars die wij spreken, zijn de hele dag onderweg voor bezichtigingen, maar als ze eerlijk kijken, zijn ze 's avonds nog uren bezig met randzaken. Ruis in de vorm van eindeloze telefoontjes, Funda-leads opvolgen en agenda's beheren.

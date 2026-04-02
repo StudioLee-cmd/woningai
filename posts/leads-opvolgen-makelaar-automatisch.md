@@ -5,6 +5,7 @@ date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-makelaar-automatisch.png"
 tags: ["Makelaar", "Leadopvolging", "Automatisering"]
+cluster: "lead-opvolging"
 ---
 
 ## Het probleem dat makelaars miljoenen kost

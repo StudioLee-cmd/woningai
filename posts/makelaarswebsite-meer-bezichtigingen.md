@@ -7,6 +7,7 @@ image: "/images/blog/makelaarswebsite-meer-bezichtigingen.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["website conversie", "makelaar", "bezichtigingen"]
+cluster: "website-conversie"
 ---
 
 ## Waarom je website je belangrijkste verkoopkanaal is

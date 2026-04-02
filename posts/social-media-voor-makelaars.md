@@ -5,6 +5,7 @@ date: "2026-01-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/social-media-voor-makelaars.png"
 tags: ["Social Media", "Content", "Vastgoedmarketing"]
+cluster: ""
 ---
 
 Je hebt prachtige woningfoto's laten maken. Je hebt die trotse "Verkocht" sticker op het bord geplakt. Je maakt een foto met je telefoon voor de statistieken... en daar blijft het bij. Je hebt geen tijd om een pakkende caption te bedenken of de juiste hashtags te zoeken.

@@ -5,6 +5,7 @@ date: "2026-02-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/de-toekomst-of-de-makelaardij.png"
 tags: ["Toekomst", "Visie", "Digitalisatie"]
+cluster: ""
 ---
 
 We horen het vaak: "Gaat AI de makelaar vervangen?" Het antwoord is een simpel 'Nee'. Een emotioneel proces als het kopen of verkopen van een thuis vereist menselijk contact, empathie en onderhandelingsskills.

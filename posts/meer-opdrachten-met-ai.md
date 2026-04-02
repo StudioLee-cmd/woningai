@@ -5,6 +5,7 @@ date: "2025-12-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/meer-opdrachten-met-ai.png"
 tags: ["Marketing", "Reviews", "Vastgoed"]
+cluster: ""
 ---
 
 Als een verkoper een makelaar zoekt, wat is het eerste dat ze doen? Ze bekijken Google reviews. Heeft een kantoor 3,8 sterren? Dan bellen ze de buurman met 4,8 sterren. In de makelaardij is vertrouwen het allerbelangrijkste goed. Jouw online reputatie bepaalt of die felbegeerde verkoopopdracht naar jou gaat of naar de concurrent.

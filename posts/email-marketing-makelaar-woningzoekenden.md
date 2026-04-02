@@ -7,6 +7,7 @@ image: "/images/blog/email-marketing-makelaar-woningzoekenden.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["email marketing", "makelaar", "leadnurturing"]
+cluster: "email-marketing"
 ---
 
 ## Waarom makelaars email marketing nodig hebben

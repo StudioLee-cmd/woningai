@@ -1,7 +1,7 @@
 ---
 title: "Funda alternatief voor makelaars: eigen leads genereren"
 excerpt: "Minder afhankelijk van Funda? Genereer eigen leads met je makelaar website. Tips voor meer bezichtigingsaanvragen."
-date: "2026-04-01"
+date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/funda-alternatief-makelaars-eigen-leads.png"
 tags: ["Leads", "Marketing"]

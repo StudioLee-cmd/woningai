@@ -68,6 +68,6 @@ Na twee keer niet verschijnen: weiger nieuwe bezichtigingsaanvragen of stel een 
 
 ## Conclusie
 
-No-shows bij bezichtigingen voorkom je door vooraf te kwalificeren, automatische herinneringen te sturen en het makkelijk te maken om te verzetten. De combinatie vermindert lege bezichtigingen en verhoogt de kwaliteit van je bezoekers.
+No-shows bij bezichtigingen voorkom je door vooraf te kwalificeren, [automatische herinneringen](/chatbot) te sturen en het makkelijk te maken om te verzetten. De combinatie vermindert lege bezichtigingen en verhoogt de kwaliteit van je bezoekers.
 
 Benieuwd hoe WoningAI je bezichtigingsplanning en kopercommunicatie automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt het — jij verkoopt huizen.

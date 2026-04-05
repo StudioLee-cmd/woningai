@@ -40,6 +40,16 @@ Elke lead krijgt automatisch een welkomstbericht, een bezichtigingsuitnodiging e
 ### Facturatie bij afhandeling
 Zodra een deal is gesloten, genereert het systeem automatisch de courtage-factuur op basis van de verkoopprijs.
 
+
+
+## Automatiseren: zo doe je het zonder extra moeite
+
+Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als makelaar.
+
+Een [AI chatbot](/chatbot) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [AI telefonist](/voice-ai) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+
 ## Conclusie
 
 Administratie is noodzakelijk maar hoeft niet handmatig. Met de juiste tools automatiseer je het repetitieve werk en besteed je je tijd aan wat echt telt: klanten helpen en deals sluiten.

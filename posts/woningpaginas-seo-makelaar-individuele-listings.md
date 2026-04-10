@@ -59,4 +59,4 @@ Die verkochte pagina's bouwen samen een netwerk van lokale content dat je autori
 
 Elke woningpagina die je optimaliseert, is een stap dichter bij onafhankelijkheid van Funda. Je bouwt je eigen verkeer, je eigen leads, je eigen [vindbaarheid](/seo). Het kost wat extra werk per woning, maar het rendement is een groeiende stroom direct verkeer.
 
-Wil je weten hoe je je woningpagina's optimaliseert voor Google? Vraag een [gratis scan](/gratis-scan) aan.
+Professionele [SEO voor makelaars](/seo) combineert woningpagina-optimalisatie met technische verbeteringen. Wil je weten hoe je je woningpagina's optimaliseert voor Google? Vraag een [gratis scan](/gratis-scan) aan.

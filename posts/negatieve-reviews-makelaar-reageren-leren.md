@@ -61,4 +61,4 @@ Vraag na elke succesvolle transactie om een review. Automatiseer dit via een Wha
 
 Negatieve reviews zijn onvermijdelijk. Hoe je ermee omgaat, bepaalt of ze je reputatie schaden of versterken. Reageer kalm, professioneel en empathisch. Los het probleem op. En verzamel actief positieve reviews zodat het totaalplaatje klopt.
 
-Wil je weten hoe je review-management automatiseert voor jouw makelaardij? Vraag een [gratis scan](/gratis-scan) aan en ontvang een persoonlijk plan.
+Automatische [review-verzoeken](/reviews) zorgen dat positieve reviews de negatieve overstemmen. Wil je weten hoe je review-management automatiseert voor jouw makelaardij? Vraag een [gratis scan](/gratis-scan) aan en ontvang een persoonlijk plan.

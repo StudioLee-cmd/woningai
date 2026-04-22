@@ -2,11 +2,11 @@
 title: "Administratie als makelaar automatiseren: minder papierwerk, meer bezichtigingen"
 excerpt: "Koopovereenkomsten, taxaties, NVM-registraties — de administratie van een makelaar is eindeloos. Zo automatiseer je het."
 date: "2026-04-05"
+cluster: "administratie"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/administratie-makelaar-automatiseren.jpg"
 tags: ["Administratie", "Makelaar", "Automatisering"]
 ---
-
 ## 40% van je tijd gaat op aan papierwerk
 
 Als makelaar is je dag gevuld met bezichtigingen, acquisitiegesprekken en onderhandelingen. Maar tussendoor: contracten opmaken, taxatierapporten verwerken, NVM-registraties bijwerken, facturen versturen, dossiers ordenen.

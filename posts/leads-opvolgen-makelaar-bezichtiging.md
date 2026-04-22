@@ -2,11 +2,11 @@
 title: "Leads opvolgen als makelaar: van aanvraag naar bezichtiging"
 excerpt: "Te veel kijkers die niet doorzetten? Leer hoe je als makelaar je lead-opvolging verbetert en meer bezichtigingen omzet in verkopen."
 date: "2026-04-04"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-makelaar-bezichtiging.jpg"
 tags: ["Leads", "Opvolging", "Makelaar"]
 ---
-
 ## De makelaar die het snelst belt, wint
 
 In de vastgoedmarkt is snelheid alles. Een potentiële koper die een bezichtiging aanvraagt, doet dat bij gemiddeld 2-3 makelaars tegelijk. De makelaar die het snelst reageert met een concreet voorstel — een datum, een tijd, een locatie — krijgt de bezichtiging. De rest krijgt een "ik heb al een afspraak."

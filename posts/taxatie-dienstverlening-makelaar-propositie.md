@@ -2,11 +2,11 @@
 title: "Taxaties aanbieden als makelaar: een losse propositie"
 excerpt: "Taxaties zijn voor veel makelaars een bijzaak van het verkoopproces. Met een aparte dienst verdient de gemiddelde makelaar €15.000-€40.000 extra per jaar."
 date: "2026-04-21"
+cluster: "specialisatie"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/taxatie-dienstverlening-makelaar-propositie.jpg"
 tags: ["Makelaar", "Taxatie", "Specialisatie", "Recurring revenue"]
 ---
-
 De meeste makelaars verdienen aan taxaties als bijproduct. Een klant wil een huis verkopen, je maakt een taxatierapport omdat het onderdeel is van de courtage-afspraak, en dat is dat. Wat veel makelaars missen: taxatie is een eigen propositie waar veel meer vraag naar is dan de verkoop-gerelateerde taxaties. Hypotheekadviseurs, erfgenamen, scheidingen, WOZ-bezwaren, nalatenschappen — allemaal situaties waarin iemand een onafhankelijke taxatie nodig heeft zonder een verkoopintentie.
 
 Deze gids behandelt concreet hoe je taxatie als losse dienst aanbiedt. Welke klantgroepen ervoor betalen, hoe je de prijsstructuur opzet, hoe je marketing richt, en welke voorwaarden er zijn voor de certificering. Makelaars die dit systematisch aanpakken verdienen tussen de €15.000 en €40.000 extra per jaar bovenop hun verkoop-omzet, met hogere marges en een veel voorspelbaarder planning.

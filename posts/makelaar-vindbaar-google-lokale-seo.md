@@ -2,11 +2,11 @@
 title: "Makelaar beter vindbaar op Google: lokale SEO die werkt"
 excerpt: "Als makelaar afhankelijk van Funda? Ontdek hoe lokale SEO je eigen vindbaarheid versterkt en je direct meer woningzoekers bereikt."
 date: "2026-04-07"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/makelaar-vindbaar-google-lokale-seo.jpg"
 tags: ["SEO", "Makelaar", "Vindbaarheid"]
 ---
-
 ## Voorbij Funda: waarom je eigen vindbaarheid als makelaar cruciaal is
 
 De meeste makelaars zijn zichtbaar op Funda. Logisch, daar zoeken kopers en verkopers. Maar Funda is niet je eigen platform. Je betaalt voor zichtbaarheid, je deelt de ruimte met concurrenten, en de regels veranderen wanneer Funda dat wil.

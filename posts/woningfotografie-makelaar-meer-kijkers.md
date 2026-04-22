@@ -2,11 +2,11 @@
 title: "Woningfotografie als makelaar: zo krijg je meer kijkers"
 excerpt: "Goede woningfoto's trekken meer kijkers op Funda. Ontdek welke foto's werken en welke fouten je moet vermijden als makelaar."
 date: "2026-04-18"
+cluster: "woningfotografie"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/woningfotografie-makelaar-meer-kijkers.jpg"
 tags: ["Fotografie", "Woningen", "Funda"]
 ---
-
 ## De eerste indruk is de foto
 
 Op Funda bepaalt de hoofdfoto of een woningzoeker doorklikt of doorscrolt. Die ene foto is het verschil tussen tien bezichtigingen en nul. Toch plaatsen veel makelaars nog steeds donkere, scheve foto's die met een telefoon zijn gemaakt vanuit de verkeerde hoek.

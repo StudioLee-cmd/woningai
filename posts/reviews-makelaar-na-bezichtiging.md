@@ -2,11 +2,11 @@
 title: "Reviews als makelaar: zo verzamel je ze automatisch na elke bezichtiging"
 excerpt: "De sleuteloverdracht is het perfecte moment voor een review. Zo automatiseer je het als makelaar."
 date: "2026-04-15"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-makelaar-na-bezichtiging.jpg"
 tags: ["Reviews", "Makelaar", "Automatisering"]
 ---
-
 De sleuteloverdracht is achter de rug. Je kopers stralen, de verkopers zijn opgelucht, en jij hebt weer een succesvolle deal gesloten. Precies dit moment is goud waard voor je online reputatie. Maar als je niet vraagt, schrijft niemand een review.
 
 Makelaars staan voor een unieke uitdaging: je hebt minder klanten per jaar dan een kapper of loodgieter, maar elke klant heeft een intense ervaring. Die combinatie maakt reviews extra waardevol en tegelijk extra moeilijk te verzamelen als je het niet systematisch aanpakt.

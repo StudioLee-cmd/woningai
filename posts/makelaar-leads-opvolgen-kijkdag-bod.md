@@ -2,11 +2,11 @@
 title: "Leads opvolgen als makelaar: van bezichtiging naar bod"
 excerpt: "De eerste 24 uur na een bezichtiging zijn cruciaal. Lees hoe je leads systematisch opvolgt en biedingen uitlokt zonder opdringerig te zijn."
 date: "2026-04-08"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/makelaar-leads-opvolgen-kijkdag-bod.jpg"
 tags: ["Lead opvolging", "Makelaar", "Bezichtiging"]
 ---
-
 ## Waarom de eerste 24 uur na een bezichtiging cruciaal zijn
 
 Een echtpaar bezichtigt een huis op zaterdagochtend. Ze lopen rond, maken foto's, stellen vragen, lopen weer naar buiten. Op het tuinpad zegt de man tegen zijn vrouw: "Ja, ik vind 'm wel mooi, maar ik weet niet". Op dat moment is hun beslissing nog 50/50. Wat in de uren daarna gebeurt bepaalt of ze gaan bieden of niet.

@@ -2,11 +2,11 @@
 title: "SEO voor makelaars: meer woningzoekers via Google"
 excerpt: "Woningzoekers beginnen hun zoektocht op Google, niet op Funda. Ontdek hoe SEO je als makelaar meer directe bezichtigingen oplevert."
 date: "2026-04-03"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/seo-voor-makelaars-meer-woningzoekers.jpg"
 tags: ["SEO", "Vindbaarheid", "Makelaar", "Google"]
 ---
-
 ## Waarom SEO belangrijker wordt dan Funda
 
 Funda is de marktplaats waar woningen staan. Maar steeds meer woningzoekers beginnen hun zoektocht op Google: "makelaar [stad]", "huis kopen [wijk]", "wat is mijn huis waard". Als jij daar verschijnt met relevante content, trek je kopers en verkopers aan voordat ze op Funda zijn.

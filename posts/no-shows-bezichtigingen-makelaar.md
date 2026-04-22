@@ -2,11 +2,11 @@
 title: "No-shows bij bezichtigingen voorkomen"
 excerpt: "Potentiële kopers die niet komen opdagen bij bezichtigingen kosten je als makelaar tijd en kansen. Leer hoe je no-shows vermindert en je conversie verhoogt."
 date: "2026-04-03"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-bezichtigingen-makelaar.jpg"
 tags: ["No-shows", "Bezichtigingen", "Makelaar", "Planning"]
 ---
-
 ## Het probleem met no-shows bij bezichtigingen
 
 Als makelaar plan je bezichtigingen rond de agenda's van verkopers, kopers en jezelf. Een no-show verstoort niet alleen jouw planning — de verkoper heeft zijn huis opgeruimd, de hond naar de buren gebracht en vrij genomen van werk. Dat respectloos overkomen van een niet-verschijnende koper valt op jou terug.

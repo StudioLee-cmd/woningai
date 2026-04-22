@@ -2,11 +2,11 @@
 title: "Bezichtiging no-show: zo voorkom je dat kopers wegblijven"
 excerpt: "Bezichtigingen ingepland maar niemand komt opdagen? Ontdek waarom kopers wegblijven en hoe je als makelaar no-shows bij bezichtigingen voorkomt."
 date: "2026-04-11"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/bezichtiging-no-show-voorkomen-makelaar.jpg"
 tags: ["No-shows", "Bezichtigingen", "Groei"]
 ---
-
 ## Het frustrerende patroon van lege bezichtigingen
 
 Je hebt de woning netjes klaargemaakt, de verlichting staat aan, het ruikt naar verse koffie. De bezichtiging staat gepland om 14:00. Om 14:15 is er nog niemand. Om 14:30 weet je het zeker: ze komen niet. Weer een no-show.

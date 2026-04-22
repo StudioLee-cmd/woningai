@@ -2,11 +2,11 @@
 title: "Als makelaar beter vindbaar in Google: lokale SEO die werkt"
 excerpt: "De meeste huizenkopers beginnen hun zoektocht online. Ontdek hoe je als makelaar bovenaan verschijnt in Google."
 date: "2026-04-06"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/makelaar-vindbaar-google.jpg"
 tags: ["SEO", "Makelaar", "Vindbaarheid"]
 ---
-
 ## Funda is niet de enige plek waar kopers zoeken
 
 Ja, Funda is dominant in de Nederlandse woningmarkt. Maar voordat kopers op Funda zoeken naar een specifieke woning, zoeken ze op Google naar een makelaar. "Makelaar [stad]", "beste makelaar [regio]", "huis verkopen [stad]" zijn veelgezochte termen met weinig concurrentie van individuele makelaars.

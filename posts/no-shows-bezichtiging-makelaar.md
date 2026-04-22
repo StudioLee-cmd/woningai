@@ -2,11 +2,11 @@
 title: "No-shows bij bezichtigingen voorkomen: tips voor makelaars"
 excerpt: "Bezichtiging gepland, niemand komt opdagen. Zo voorkom je no-shows bij woningbezichtigingen met automatische herinneringen."
 date: "2026-04-05"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-bezichtiging-makelaar.jpg"
 tags: ["No-shows", "Makelaar", "Bezichtigingen"]
 ---
-
 ## Het lege huis, de wachtende makelaar
 
 Je hebt de sleutels opgehaald, het huis klaarstaan gezet, bent erheen gereden — en de kijker komt niet opdagen. Geen bericht, geen excuus. Weer een half uur weg.

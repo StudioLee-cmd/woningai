@@ -2,11 +2,11 @@
 title: "Lead scoring makelaar: welke aanvraag bel je eerst?"
 excerpt: "Niet elke Funda-aanvraag is gelijk. Leer hoe je leads scoort op HOT, WARM of KOUD zodat je de kansrijkste kopers en verkopers als eerste belt."
 date: "2026-04-16"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lead-scoring-makelaar-hot-warm-koud.jpg"
 tags: ["Makelaar", "Lead scoring", "Conversie"]
 ---
-
 ## Niet elke lead is een lead — waarom je ze moet rangschikken
 
 Maandagmorgen, je opent je e-mail. 14 nieuwe aanvragen sinds vrijdag: 6 via Funda, 4 via Jaap, 3 via je eigen website, 1 via een reactie op een Instagram-story. Sommige zijn van mensen die concreet hun woning willen verkopen binnen drie maanden. Andere zijn buurmeisjes die "even rondkijken wat hun huis nu waard is". Allebei tellen ze als lead, maar ze hebben geen seconde gelijk recht op jouw eerste telefoontje.

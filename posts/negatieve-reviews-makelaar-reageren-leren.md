@@ -2,11 +2,11 @@
 title: "Negatieve reviews als makelaar: reageren, leren en je reputatie beschermen"
 excerpt: "Een negatieve review hoeft je makelaardij niet te schaden. Zo reageer je professioneel en draai je kritiek om in vertrouwen."
 date: "2026-04-09"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/negatieve-reviews-makelaar-reageren-leren.jpg"
 tags: ["Reviews", "Makelaar", "Reputatie"]
 ---
-
 ## Waarom een negatieve review niet het einde is
 
 Je opent Google en ziet het: een 1-sterren review van een ontevreden verkoper. Je maag krimpt. Maanden werk aan je online reputatie, en nu dit. Het voelt persoonlijk, het voelt oneerlijk, en je eerste reactie is verdedigen of negeren.

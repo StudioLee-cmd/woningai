@@ -2,11 +2,11 @@
 title: "Makelaarswerk automatiseren: 15 uur per week besparen"
 excerpt: "Makelaars besteden het grootste deel van hun tijd aan administratie. Ontdek welke processen je kunt automatiseren en hoeveel tijd je terugwint."
 date: "2026-04-06"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/makelaar-automatisering-tijdbesparing.jpg"
 tags: ["Automatisering", "Makelaar", "Tijdbesparing"]
 ---
-
 ## De paradox van het makelaarsvak
 
 Je verdient je geld met bezichtigingen, onderhandelingen en het sluiten van deals. Maar het overgrote deel van je werkweek gaat op aan e-mails beantwoorden, foto's uploaden naar Funda, afspraken inplannen, documenten opstellen en administratie bijhouden.

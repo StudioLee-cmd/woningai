@@ -2,11 +2,11 @@
 title: "Woningpagina's die ranken: SEO voor individuele woningaanbiedingen als makelaar"
 excerpt: "Elke woning die je verkoopt verdient een eigen geoptimaliseerde pagina. Zo rank je op '[type woning] [stad]' en trek je kopers."
 date: "2026-04-10"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/woningpaginas-seo-makelaar-individuele-listings.jpg"
 tags: ["Vindbaarheid", "Makelaar", "SEO"]
 ---
-
 ## Waarom elke woning een eigen pagina verdient
 
 De meeste makelaars plaatsen hun woningen op Funda en hopen op het beste. De woningpagina op de eigen website is een kopie van de Funda-tekst, zonder SEO-optimalisatie, zonder unieke content, zonder strategie.

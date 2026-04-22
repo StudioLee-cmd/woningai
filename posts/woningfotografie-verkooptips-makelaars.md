@@ -2,11 +2,11 @@
 title: "Woningfotografie die verkoopt: 7 tips voor makelaars"
 excerpt: "Goede foto's verkopen woningen sneller. Ontdek 7 praktische tips voor woningfotografie die meer bezichtigingen en snellere verkoop opleveren."
 date: "2026-04-14"
+cluster: "woningfotografie"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/woningfotografie-verkooptips-makelaars.jpg"
 tags: ["Woningfotografie", "Makelaar Tips", "Verkoop"]
 ---
-
 ## De eerste indruk begint online
 
 Negen van de tien woningzoekers begint op Funda. En op Funda bepaalt de eerste foto of iemand doorklikt of doorscrollt. Uit onderzoek blijkt dat woningen met professionele foto's gemiddeld 32 procent meer bezichtigingen krijgen dan woningen met amateurbeelden.

@@ -2,11 +2,11 @@
 title: "Makelaar doorverwijs-netwerk: 5 bronnen voor referrals"
 excerpt: "Waar komen echte makelaar-referrals vandaan? Niet van blije ex-klanten die spontaan vertellen, maar uit vijf structureel opgezette bronnen die elk jaar 30-50 nieuwe opdrachten opleveren."
 date: "2026-04-22"
+cluster: "mond-tot-mondreclame"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/makelaar-doorverwijs-netwerk-referrals-bronnen.jpg"
 tags: ["Makelaar", "Referrals", "Netwerk", "Leadgeneratie"]
 ---
-
 De meeste makelaars denken dat mond-tot-mondreclame iets is wat vanzelf gebeurt: je doet goed werk, klant is tevreden, klant vertelt het op verjaardagen. In de praktijk is dat zelden waar. Een tevreden verkoper van een huis vertelt er gemiddeld 1,2 personen over in het eerste jaar. Een ontevreden klant vertelt het er 6 tot 9. De netto mond-tot-mondreclame voor een gemiddelde makelaar is vrijwel nul tot licht negatief, ondanks de beste intenties.
 
 De makelaars die wél structureel referrals binnenhalen doen iets anders. Ze behandelen mond-tot-mondreclame niet als spontane bonus, maar als systematische kanaalstrategie met vijf concrete bronnen. Die bronnen zijn voorspelbaar, schaalbaar en gezamenlijk goed voor 30-50 nieuwe opdrachten per jaar, de helft tot een derde van de volledige jaarportefeuille van een middelgrote makelaardij.

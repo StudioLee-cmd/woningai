@@ -2,11 +2,11 @@
 title: "Woningfotografie die verkoopt: 5 fouten die makelaars maken"
 excerpt: "Slechte foto's kosten je kijkers en biedingen. Ontdek de 5 meest gemaakte fouten bij woningfotografie en hoe je ze als makelaar voorkomt."
 date: "2026-04-14"
+cluster: "woningfotografie"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/woningfotografie-fouten-makelaars.jpg"
 tags: ["Woningfotografie", "Makelaar Tips", "Verkoop"]
 ---
-
 ## De eerste indruk is een foto
 
 95 procent van de woningzoekers begint online. Ze scrollen door Funda, bekijken de foto's en beslissen binnen drie seconden of ze doorklikken of doorscrollen. Die drie seconden worden bepaald door je foto's, niet door je beschrijving.

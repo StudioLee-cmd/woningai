@@ -2,6 +2,8 @@ import { IMenuItem, ISocials } from "@/types";
 
 export const footerDetails: {
     subheading: string;
+    services: IMenuItem[];
+    general: IMenuItem[];
     quickLinks: IMenuItem[];
     email: string;
     telephone: string;
@@ -12,22 +14,38 @@ export const footerDetails: {
     legalName: string;
 } = {
     subheading: "Focus op de verkoop, wij op de rest. Wij regelen je telefoontjes, planning en opvolging, zodat jij kunt doen waar je goed in bent.",
-    quickLinks: [
-        { text: "Functies", url: "/#features" },
-        { text: "Tarieven", url: "/tarieven" },
-        { text: "Gratis Scan", url: "/gratis-scan" },
-        { text: "Blog", url: "/blog" },
+    services: [
         { text: "Chatbot voor Makelaars", url: "/chatbot" },
         { text: "Voice AI voor Makelaars", url: "/voice-ai" },
         { text: "SEO voor Makelaars", url: "/seo" },
-        { text: "Social Media", url: "/social-media" },
-        { text: "Reviews", url: "/reviews" },
-        { text: "Review Pakket", url: "/review-pakket" }
+        { text: "Social Media voor Makelaars", url: "/social-media" },
+        { text: "Reviews voor Makelaars", url: "/reviews" },
+        { text: "Review Pakket", url: "/review-pakket" },
+        { text: "CRM voor Makelaars", url: "/crm" },
+    ],
+    general: [
+        { text: "Tarieven", url: "/tarieven" },
+        { text: "Gratis Scan", url: "/gratis-scan" },
+        { text: "Gratis Website", url: "/gratis-website" },
+        { text: "Blog", url: "/blog" },
+    ],
+    quickLinks: [
+        { text: "Chatbot voor Makelaars", url: "/chatbot" },
+        { text: "Voice AI voor Makelaars", url: "/voice-ai" },
+        { text: "SEO voor Makelaars", url: "/seo" },
+        { text: "Social Media voor Makelaars", url: "/social-media" },
+        { text: "Reviews voor Makelaars", url: "/reviews" },
+        { text: "Review Pakket", url: "/review-pakket" },
+        { text: "CRM voor Makelaars", url: "/crm" },
+        { text: "Tarieven", url: "/tarieven" },
+        { text: "Gratis Scan", url: "/gratis-scan" },
+        { text: "Gratis Website", url: "/gratis-website" },
+        { text: "Blog", url: "/blog" },
     ],
     email: 'tim@woningai.nl',
     telephone: '+31612345678',
     socials: {
-        instagram: 'https://www.instagram.com',
+instagram: 'https://www.instagram.com',
         linkedin: 'https://www.linkedin.com',
     },
     kvk: '98933353',

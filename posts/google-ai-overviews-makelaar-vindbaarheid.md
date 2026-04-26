@@ -1,6 +1,6 @@
 ---
 title: "Google AI Overviews voor makelaars"
-excerpt: "Google AI Overviews tonen samenvattingen boven zoekresultaten en veranderen hoe huizenkopers makelaars vinden. Wat dit betekent voor je vindbaarheid en wat je nu doet."
+excerpt: "Google AI Overviews tonen samenvattingen boven zoekresultaten en veranderen hoe huizenkopers makelaars vinden. Wat dat betekent en wat je nu doet."
 date: "2026-04-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-ai-overviews-makelaar-vindbaarheid.jpg"

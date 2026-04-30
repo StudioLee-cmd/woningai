@@ -1,7 +1,7 @@
 ---
 title: "Aankoopmakelaardij toevoegen aan je verkoopkantoor: rendement en valkuilen"
 slug: aankoopmakelaardij-toevoegen-makelaarskantoor-rendement
-date: 2026-04-30
+date: 2026-04-29
 excerpt: "Hoe rendabel is aankoopmakelaardij naast je verkoopactiviteit? Cijfers per opdracht, courtage versus vast tarief, doelgroepen en de twee scenario's waarin het niet werkt."
 image: "/images/blog/aankoopmakelaardij-toevoegen-makelaarskantoor-rendement.jpg"
 authorSlug: "tim-van-der-lee"

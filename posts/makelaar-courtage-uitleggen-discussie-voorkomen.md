@@ -1,5 +1,5 @@
 ---
-title: "Courtage als makelaar uitleggen: zo voorkom je discussie over je tarief"
+title: "Courtage uitleggen als makelaar: voorkom discussie"
 slug: makelaar-courtage-uitleggen-discussie-voorkomen
 date: "2026-05-01"
 excerpt: "Courtage uitleggen kost veel makelaars klanten. Een helder model voorkomt prijsdiscussie en levert 35% hogere conversie op nieuwe opdrachten."

@@ -2,7 +2,7 @@
 title: "Koude leads opwarmen als makelaar: de opvolging die niemand doet"
 excerpt: "De meeste makelaars geven koude leads op na één telefoontje. Ontdek hoe je met slimme opvolging toch nog verkopen binnenhaalt."
 date: "2026-04-17"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/koude-leads-opwarmen-makelaar.jpg"
 tags: ["Leads", "Opvolging", "Verkoop"]

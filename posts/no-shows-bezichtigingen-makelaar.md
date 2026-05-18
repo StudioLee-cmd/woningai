@@ -2,7 +2,7 @@
 title: "No-shows bij bezichtigingen voorkomen"
 excerpt: "Potentiële kopers die niet komen opdagen bij bezichtigingen kosten je als makelaar tijd en kansen. Leer hoe je no-shows vermindert en je conversie verhoogt."
 date: "2026-04-03"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-bezichtigingen-makelaar.jpg"
 tags: ["No-shows", "Bezichtigingen", "Makelaar", "Planning"]

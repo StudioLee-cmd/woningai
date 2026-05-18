@@ -2,7 +2,7 @@
 title: "Lead scoring makelaar: welke aanvraag bel je eerst?"
 excerpt: "Niet elke Funda-aanvraag is gelijk. Leer hoe je leads scoort op HOT, WARM of KOUD zodat je de kansrijkste kopers en verkopers als eerste belt."
 date: "2026-04-16"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lead-scoring-makelaar-hot-warm-koud.jpg"
 tags: ["Makelaar", "Lead scoring", "Conversie"]

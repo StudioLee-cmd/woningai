@@ -2,7 +2,7 @@
 title: "Leads opvolgen als makelaar: van aanvraag naar bezichtiging"
 excerpt: "Te veel kijkers die niet doorzetten? Leer hoe je als makelaar je lead-opvolging verbetert en meer bezichtigingen omzet in verkopen."
 date: "2026-04-04"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-makelaar-bezichtiging.jpg"
 tags: ["Leads", "Opvolging", "Makelaar"]

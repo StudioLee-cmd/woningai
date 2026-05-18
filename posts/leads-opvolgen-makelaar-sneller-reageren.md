@@ -2,7 +2,7 @@
 title: "Leads opvolgen als makelaar: snelheid wint de verkoop"
 excerpt: "De snelste makelaar wint de klant. Ontdek hoe je als makelaar sneller reageert op aanvragen en meer woningen verkoopt."
 date: "2026-04-12"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-makelaar-sneller-reageren.jpg"
 tags: ["Leads", "Snelheid", "Groei"]

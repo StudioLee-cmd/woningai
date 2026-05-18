@@ -2,7 +2,7 @@
 title: "Bezichtiging no-shows voorkomen als makelaar"
 excerpt: "Bezichtigingen waar niemand opdaagt kosten je een uur per keer. Met automatische bevestigingen en een slim systeem verlaag je no-shows met de helft."
 date: "2026-04-19"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/bezichtiging-no-shows-voorkomen-makelaar.jpg"
 tags: ["Planning", "No-shows", "Tips"]

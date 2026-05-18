@@ -2,7 +2,7 @@
 title: "Woningfotografie als makelaar: zo krijg je meer kijkers"
 excerpt: "Goede woningfoto's trekken meer kijkers op Funda. Ontdek welke foto's werken en welke fouten je moet vermijden als makelaar."
 date: "2026-04-18"
-cluster: "woningfotografie"
+cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/woningfotografie-makelaar-meer-kijkers.jpg"
 tags: ["Fotografie", "Woningen", "Funda"]

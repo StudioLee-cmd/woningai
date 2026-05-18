@@ -5,7 +5,7 @@ date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/open-huizen-dag-makelaar-maximaal-resultaat.png"
 tags: ["Makelaar", "Open Huizen", "Bezichtigingen"]
-cluster: "open-huizen"
+cluster: "automatisering"
 ---
 
 ## De open huizen dag: meer dan een open deur

@@ -5,7 +5,7 @@ date: "2026-04-23"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/woningfotografie-makelaar-6-keuzes.jpg"
 tags: ["Fotografie", "Makelaar", "Verkoop"]
-cluster: "woningfotografie"
+cluster: "website"
 ---
 
 Twee identieke huizen, dezelfde straat, dezelfde vraagprijs. De ene staat 92 dagen te koop, de andere 14. Verschil? De foto's. Het is bewezen: woningen met professionele foto's krijgen 60 procent meer kijkers, verkopen 30 procent sneller, en bereiken vaak 3-5 procent hogere verkoopprijs.

@@ -2,7 +2,7 @@
 title: "Reviews als makelaar: zo verzamel je ze automatisch na elke bezichtiging"
 excerpt: "De sleuteloverdracht is het perfecte moment voor een review. Zo automatiseer je het als makelaar."
 date: "2026-04-15"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-makelaar-na-bezichtiging.jpg"
 tags: ["Reviews", "Makelaar", "Automatisering"]

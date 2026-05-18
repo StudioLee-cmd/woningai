@@ -2,7 +2,7 @@
 title: "Reviews krijgen van kopers en verkopers: dubbele kans als makelaar"
 excerpt: "De meeste makelaars vragen alleen verkopers om een review. Ontdek waarom je ook kopers moet vragen en hoe je dat slim aanpakt."
 date: "2026-04-17"
-cluster: "review-automatisering"
+cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-kopers-verkopers-makelaar.jpg"
 tags: ["Reviews", "Makelaar", "Reputatie"]

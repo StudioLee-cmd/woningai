@@ -2,7 +2,7 @@
 title: "Woningfotografie die verkoopt: 7 tips voor makelaars"
 excerpt: "Goede foto's verkopen woningen sneller. Ontdek 7 praktische tips voor woningfotografie die meer bezichtigingen en snellere verkoop opleveren."
 date: "2026-04-14"
-cluster: "woningfotografie"
+cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/woningfotografie-verkooptips-makelaars.jpg"
 tags: ["Woningfotografie", "Makelaar Tips", "Verkoop"]

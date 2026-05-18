@@ -5,7 +5,7 @@ date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/makelaar-response-tijd-avond.jpg"
 tags: ["Response-tijd", "Bezichtigingen", "Leads"]
-cluster: "lead-opvolging"
+cluster: "voice-ai"
 ---
 
 Funda's eigen usage-data bevestigt wat makelaars empirisch al jaren weten: 62 procent van alle bezichtigingsverzoeken op een Funda-listing komen tussen 19:00 en 23:30. Mensen scrollen Funda na werk, na kinderen naar bed, bij ontspannen. Ze zien een woning, schieten interesse, sturen een bezichtigingsverzoek. En dan gaan ze ofwel naar de volgende woning of ze wachten af. Het makelaarskantoor dat binnen een uur reageert zit in de shortlist. Het kantoor dat tot maandagochtend wacht — 12 tot 60 uur later — is buitenspel. In diezelfde 60 uur hebben andere kantoren al bezichtigingen gepland, en de potentiële koper heeft zich al aan een andere makelaar gebonden.

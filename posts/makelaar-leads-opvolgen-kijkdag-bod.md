@@ -2,7 +2,7 @@
 title: "Leads opvolgen als makelaar: van bezichtiging naar bod"
 excerpt: "De eerste 24 uur na een bezichtiging zijn cruciaal. Lees hoe je leads systematisch opvolgt en biedingen uitlokt zonder opdringerig te zijn."
 date: "2026-04-08"
-cluster: "lead-opvolging"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/makelaar-leads-opvolgen-kijkdag-bod.jpg"
 tags: ["Lead opvolging", "Makelaar", "Bezichtiging"]

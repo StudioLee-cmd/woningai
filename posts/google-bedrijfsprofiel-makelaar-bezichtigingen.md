@@ -7,7 +7,7 @@ image: "/images/blog/google-bedrijfsprofiel-makelaar-bezichtigingen.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["google bedrijfsprofiel", "makelaar", "lokale vindbaarheid"]
-cluster: "google-bedrijfsprofiel"
+cluster: "vindbaarheid"
 ---
 
 ## Waarom Google Bedrijfsprofiel essentieel is voor makelaars

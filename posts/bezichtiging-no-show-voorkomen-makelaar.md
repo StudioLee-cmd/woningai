@@ -2,7 +2,7 @@
 title: "Bezichtiging no-show: zo voorkom je dat kopers wegblijven"
 excerpt: "Bezichtigingen ingepland maar niemand komt opdagen? Ontdek waarom kopers wegblijven en hoe je als makelaar no-shows bij bezichtigingen voorkomt."
 date: "2026-04-11"
-cluster: "no-shows"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/bezichtiging-no-show-voorkomen-makelaar.jpg"
 tags: ["No-shows", "Bezichtigingen", "Groei"]

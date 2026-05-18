@@ -6,7 +6,7 @@ excerpt: "Een concurrentieanalyse helpt je je makelaar-courtage en aanbod onderb
 image: "/images/blog/concurrentieanalyse-makelaars-6-datapunten.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["Concurrentieanalyse", "Marktonderzoek", "Strategie"]
-cluster: "concurrentieanalyse"
+cluster: "branding"
 ---
 
 Een makelaar in Tilburg ontdekte dat hij standaard 1,3 procent courtage rekende, terwijl de drie grootste lokale concurrenten tussen 1,1 en 1,55 procent zaten. Hij verloor opdrachten aan de goedkoopste bij prijsgevoelige klanten en miste premium-opdrachten omdat zijn aanbod onvoldoende onderscheidend leek voor de hogere markt. Aanleiding voor het inzicht: 30 minuten gerichte concurrentieanalyse. De fix: een twee-tarieven model (basis 1,2 procent, premium 1,5 procent met fotograaf en home-staging) leverde binnen drie maanden 4 extra opdrachten in het premium-segment op.

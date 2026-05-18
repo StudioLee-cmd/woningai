@@ -6,7 +6,7 @@ excerpt: "Hoe je WhatsApp Business professioneel inzet als makelaar: bezichtigin
 image: "/images/blog/whatsapp-business-makelaars-bezichtiging-flow-broadcasts.jpg"
 authorSlug: "tim-van-der-lee"
 tags: ["SMS-WhatsApp", "Klantcommunicatie", "Bezichtiging"]
-cluster: "sms-whatsapp"
+cluster: "automatisering"
 ---
 
 Een woningzoekende krijgt een bezichtiging-bevestiging via e-mail en de e-mail belandt in de spam-map. Hij komt niet opdagen. Een andere woningzoekende krijgt dezelfde bevestiging via WhatsApp, leest het direct, antwoordt binnen 5 minuten, en bevestigt zijn aanwezigheid. Voor makelaars is WhatsApp Business in 2026 niet langer een nice-to-have maar het primaire communicatie-kanaal: 96% open-rate vs 22% voor e-mail, 5-minuten-respons vs 2-3 uur.

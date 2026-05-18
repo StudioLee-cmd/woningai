@@ -2,7 +2,7 @@
 title: "Administratie als makelaar automatiseren: minder papierwerk, meer bezichtigingen"
 excerpt: "Koopovereenkomsten, taxaties, NVM-registraties — de administratie van een makelaar is eindeloos. Zo automatiseer je het."
 date: "2026-04-05"
-cluster: "administratie"
+cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/administratie-makelaar-automatiseren.jpg"
 tags: ["Administratie", "Makelaar", "Automatisering"]

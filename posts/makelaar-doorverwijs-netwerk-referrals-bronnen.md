@@ -1,6 +1,6 @@
 ---
 title: "Makelaar doorverwijs-netwerk: 5 bronnen voor referrals"
-excerpt: "Waar komen echte makelaar-referrals vandaan? Niet van blije ex-klanten die spontaan vertellen, maar uit vijf structureel opgezette bronnen die elk jaar 30-50 nieuwe opdrachten opleveren."
+excerpt: "Waar komen echte makelaar-referrals vandaan? Uit vijf structureel opgezette bronnen die elk jaar 30-50 nieuwe opdrachten opleveren."
 date: "2026-04-22"
 cluster: "branding"
 authorSlug: "tim-van-der-lee"

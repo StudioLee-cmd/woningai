@@ -1,6 +1,7 @@
 ---
 title: "Makelaar response-tijd: waarom 's avonds reageren doorslaggevend is"
-excerpt: "Woningzoekers bekijken Funda 's avonds. Wie binnen een uur reageert op hun bezichtigingsverzoek zit in de shortlist. Dit artikel legt uit hoe je die respons-tijd structureel haalt."
+seoTitle: "Makelaar response-tijd"
+excerpt: "Woningzoekers bekijken Funda 's avonds. Wie binnen een uur reageert op hun bezichtigingsverzoek zit in de shortlist."
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/makelaar-response-tijd-avond.jpg"

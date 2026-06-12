@@ -1,5 +1,6 @@
 ---
 title: "Branding als makelaar: zo word je het bekendste kantoor in je regio"
+seoTitle: "Branding als makelaar"
 excerpt: "Een sterk merk als makelaar zorgt voor meer opdrachten en hogere courtages. Leer hoe je jezelf positioneert als de specialist in jouw regio."
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"

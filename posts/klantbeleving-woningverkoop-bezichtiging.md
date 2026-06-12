@@ -1,6 +1,7 @@
 ---
 title: "Klantbeleving bij woningverkoop: van bezichtiging tot sleuteloverdracht"
-excerpt: "Leer hoe je als makelaar de klantbeleving optimaliseert voor meer reviews, doorverwijzingen en herhaalopdrachten."
+seoTitle: "Klantbeleving bij woningverkoop"
+excerpt: "Leer hoe je als makelaar de klantbeleving optimaliseert voor meer reviews, doorverwijzingen en herhaalopdrachten. Met concrete contactmomenten."
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klantbeleving-woningverkoop-bezichtiging.png"

@@ -1,6 +1,7 @@
 ---
 title: "Hoe AI Makelaars Helpt Bij Het Besparen Van Tijd (En Waarom Je Concurrentie Al Om Is)"
-excerpt: "Ontdek hoe kunstmatige intelligentie de dagelijkse taken van makelaars kan automatiseren. Van bezichtigingen tot lead opvolging: dit is je nieuwe digitale assistent."
+seoTitle: "Hoe AI Makelaars Helpt Bij Het Besparen Van Tijd"
+excerpt: "Ontdek hoe kunstmatige intelligentie de dagelijkse taken van makelaars automatiseert. Van bezichtigingen tot lead opvolging: je digitale assistent."
 date: "2025-12-15"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-ai-makelaars-helpt.png"

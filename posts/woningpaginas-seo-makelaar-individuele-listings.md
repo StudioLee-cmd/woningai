@@ -1,5 +1,6 @@
 ---
 title: "Woningpagina's die ranken: SEO voor individuele woningaanbiedingen als makelaar"
+seoTitle: "Woningpagina's die ranken"
 excerpt: "Elke woning die je verkoopt verdient een eigen geoptimaliseerde pagina. Zo rank je op '[type woning] [stad]' en trek je kopers."
 date: "2026-04-10"
 cluster: "vindbaarheid"

@@ -1,5 +1,6 @@
 ---
 title: "Geen Gemiste Oproepen Meer Tijdens Bezichtigingen: De 24/7 AI Receptioniste"
+seoTitle: "Geen Gemiste Oproepen Meer Tijdens Bezichtigingen"
 excerpt: "Mis nooit meer een potentiële koper omdat je in gesprek bent of een woning presenteert. Onze Voice AI handelt aanvragen direct af, 24 uur per dag."
 date: "2026-01-02"
 authorSlug: "tim-van-der-lee"

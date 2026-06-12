@@ -1,5 +1,6 @@
 ---
 title: "Je makelaarswebsite als conversiemachine: meer bezichtigingen zonder extra advertenties"
+seoTitle: "Je makelaarswebsite als conversiemachine"
 slug: "makelaarswebsite-meer-bezichtigingen"
 date: "2026-03-23"
 excerpt: "Je website trekt bezoekers, maar hoeveel worden er bezichtigingen? Ontdek hoe je je makelaarswebsite optimaliseert voor meer conversie."

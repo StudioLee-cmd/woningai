@@ -1,6 +1,6 @@
 ---
 title: "Energielabel en woningverkoop: waarom verduurzaming verkoopt"
-excerpt: "Ontdek hoe het energielabel de woningmarkt beinvloedt en hoe makelaars hierop kunnen inspelen."
+excerpt: "Ontdek hoe het energielabel de woningmarkt beinvloedt en hoe makelaars hierop kunnen inspelen. Met cijfers, praktijkvoorbeelden en concrete adviezen."
 date: "2026-03-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/energielabel-woningverkoop-verduurzaming.png"

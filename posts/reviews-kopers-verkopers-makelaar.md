@@ -1,5 +1,6 @@
 ---
 title: "Reviews krijgen van kopers en verkopers: dubbele kans als makelaar"
+seoTitle: "Reviews krijgen van kopers en verkopers"
 excerpt: "De meeste makelaars vragen alleen verkopers om een review. Ontdek waarom je ook kopers moet vragen en hoe je dat slim aanpakt."
 date: "2026-04-17"
 cluster: "reviews"

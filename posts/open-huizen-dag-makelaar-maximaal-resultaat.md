@@ -1,5 +1,6 @@
 ---
 title: "Open huizen dag als makelaar: zo haal je het maximale uit elk bezichtigingsmoment"
+seoTitle: "Open huizen dag als makelaar"
 excerpt: "De open huizen dag is je krachtigste verkoopmoment. Zo bereid je het voor, voer je het uit en volg je op voor maximaal resultaat."
 date: "2026-03-12"
 authorSlug: "tim-van-der-lee"

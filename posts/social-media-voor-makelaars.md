@@ -1,5 +1,6 @@
 ---
 title: "Social Media voor Makelaars Zonder Gedoe: Van Foto naar Post in 5 Seconden"
+seoTitle: "Social Media voor Makelaars Zonder Gedoe"
 excerpt: "Toon je nieuwste aanbod en verkochte woningen op Instagram zonder er uren aan te besteden. Stuur je foto naar de AI en wij doen de rest."
 date: "2026-01-15"
 authorSlug: "tim-van-der-lee"

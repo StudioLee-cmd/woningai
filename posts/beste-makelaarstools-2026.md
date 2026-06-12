@@ -1,5 +1,6 @@
 ---
 title: "Beste makelaarstools 2026: software voor makelaars vergeleken"
+seoTitle: "Beste makelaarstools 2026"
 excerpt: "Welke software helpt jouw makelaarskantoor groeien? Een eerlijke vergelijking van de beste tools voor makelaars in 2026."
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"

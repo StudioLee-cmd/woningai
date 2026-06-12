@@ -1,5 +1,6 @@
 ---
 title: "Social media voor makelaars: meer bezichtigingen en snellere verkoop via online marketing"
+seoTitle: "Social media voor makelaars"
 excerpt: "Ontdek hoe makelaars social media inzetten om meer klanten te bereiken. Praktische tips, de beste platforms en slimme AI-tools voor makelaars in 2026."
 date: "2026-03-09"
 authorSlug: "tim-van-der-lee"

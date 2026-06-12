@@ -1,6 +1,6 @@
 ---
 title: "AI voor makelaars: slimmer adverteren en meer bezichtigingen"
-excerpt: "AI helpt makelaars bij woningpresentatie, bezichtigingsplanning en marketing — voor meer leads en snellere transacties."
+excerpt: "AI helpt makelaars bij woningpresentatie, bezichtigingsplanning en marketing — voor meer leads en snellere transacties. Praktisch uitgelegd."
 date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-voor-makelaars-slimmer-adverteren-meer-bezichtigingen.png"

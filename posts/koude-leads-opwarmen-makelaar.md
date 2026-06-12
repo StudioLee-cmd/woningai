@@ -1,5 +1,6 @@
 ---
 title: "Koude leads opwarmen als makelaar: de opvolging die niemand doet"
+seoTitle: "Koude leads opwarmen als makelaar"
 excerpt: "De meeste makelaars geven koude leads op na één telefoontje. Ontdek hoe je met slimme opvolging toch nog verkopen binnenhaalt."
 date: "2026-04-17"
 cluster: "automatisering"

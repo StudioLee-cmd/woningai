@@ -1,6 +1,7 @@
 ---
 title: "Social proof als makelaar: reviews en succesverhalen die verkopen"
-excerpt: "Ontdek hoe je als makelaar met reviews en klantcases potentiële verkopers en kopers overtuigt."
+seoTitle: "Social proof als makelaar"
+excerpt: "Ontdek hoe je als makelaar met reviews en klantcases potentiële verkopers en kopers overtuigt. Van Google reviews tot klantcases: zo zet je ze slim in."
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/social-proof-makelaar-reviews-succesverhalen.png"

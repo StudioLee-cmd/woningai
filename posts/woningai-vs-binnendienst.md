@@ -1,5 +1,6 @@
 ---
 title: "WoningAI vs. Extra Binnendienst: De Kosten en Baten voor Makelaars"
+seoTitle: "WoningAI vs. Extra Binnendienst"
 excerpt: "Waarom zou je tienduizenden euro's per jaar betalen aan extra kantoorondersteuning als AI de repetitieve taken sneller en goedkoper kan?"
 date: "2026-01-25"
 authorSlug: "tim-van-der-lee"

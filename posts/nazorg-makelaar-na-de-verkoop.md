@@ -1,6 +1,6 @@
 ---
 title: "Nazorg als makelaar: waarom het contact na de verkoop telt"
-excerpt: "Ontdek hoe je als makelaar via nazorg langetermijnrelaties opbouwt en meer doorverwijzingen genereert."
+excerpt: "Ontdek hoe je als makelaar via nazorg langetermijnrelaties opbouwt en meer doorverwijzingen genereert. Met concrete contactmomenten en voorbeelden."
 date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nazorg-makelaar-na-de-verkoop.jpg"

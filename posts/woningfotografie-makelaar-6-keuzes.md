@@ -1,5 +1,6 @@
 ---
 title: "Woningfotografie makelaar: 6 keuzes die je verkoopprijs aantoonbaar verhogen"
+seoTitle: "Woningfotografie makelaar"
 excerpt: "Goede woningfoto's verhogen kijkers met 60% en verkoopprijs met 3-5%. Deze 6 keuzes maken het verschil tussen smartphone-foto's en pro-shots."
 date: "2026-04-23"
 authorSlug: "tim-van-der-lee"

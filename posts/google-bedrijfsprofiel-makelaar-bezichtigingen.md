@@ -1,5 +1,6 @@
 ---
 title: "Google Bedrijfsprofiel als makelaar: meer bezichtigingen uit je regio"
+seoTitle: "Google Bedrijfsprofiel als makelaar"
 slug: "google-bedrijfsprofiel-makelaar-bezichtigingen"
 date: "2026-03-22"
 excerpt: "De meeste woningzoekenden beginnen hun zoektocht op Google. Een geoptimaliseerd Google Bedrijfsprofiel zorgt dat jouw kantoor bovenaan verschijnt."

@@ -1,6 +1,7 @@
 ---
 title: "Mond-tot-mondreclame als makelaar: hoe doorverwijzingen je beste leads worden"
-excerpt: "Doorverwijzingen zijn de meest waardevolle leads voor makelaars. Leer hoe je mond-tot-mond actief stimuleert."
+seoTitle: "Mond-tot-mondreclame als makelaar"
+excerpt: "Doorverwijzingen zijn de meest waardevolle leads voor makelaars. Leer hoe je mond-tot-mond actief stimuleert. Met concrete acties."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mondreclame-makelaar.png"

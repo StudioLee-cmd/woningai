@@ -1,6 +1,6 @@
 ---
 title: "Leads opvolgen als makelaar: snelheid wint de verkoop"
-excerpt: "De snelste makelaar wint de klant. Ontdek hoe je als makelaar sneller reageert op aanvragen en meer woningen verkoopt."
+excerpt: "De snelste makelaar wint de klant. Ontdek hoe je als makelaar sneller reageert op aanvragen en meer woningen verkoopt. Met automatisering."
 date: "2026-04-12"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"

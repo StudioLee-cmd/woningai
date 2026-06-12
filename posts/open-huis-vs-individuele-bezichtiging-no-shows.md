@@ -1,5 +1,6 @@
 ---
 title: "Open huis vs individuele bezichtiging: wat werkt tegen no-shows?"
+seoTitle: "Open huis vs individuele bezichtiging"
 excerpt: "Individuele bezichtigingen hebben meer no-shows dan open huizen. Ontdek welke aanpak beter werkt voor jouw woningen en hoe je beide optimaliseert."
 date: "2026-04-12"
 cluster: "automatisering"

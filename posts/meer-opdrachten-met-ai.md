@@ -1,5 +1,6 @@
 ---
 title: "Krijg Automatisch Meer Google Reviews (En domineer de lokale vastgoedmarkt)"
+seoTitle: "Krijg Automatisch Meer Google Reviews"
 excerpt: "Reviews zijn goud waard voor een makelaar. Maar erom vragen wordt vaak vergeten na de overdracht. Laat onze AI dit overnemen en zie je ranking exploderen."
 date: "2025-12-20"
 authorSlug: "tim-van-der-lee"

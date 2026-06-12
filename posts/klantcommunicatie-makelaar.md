@@ -1,5 +1,6 @@
 ---
 title: "Klantcommunicatie als makelaar: van bezichtiging tot sleuteloverdracht"
+seoTitle: "Klantcommunicatie als makelaar"
 excerpt: "Elke fase van het koopproces vraagt om andere communicatie. Ontdek hoe je als makelaar klanten begeleidt van eerste contact tot sleuteloverdracht."
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"

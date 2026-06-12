@@ -1,6 +1,6 @@
 ---
 title: "Als makelaar beter vindbaar in Google: lokale SEO die werkt"
-excerpt: "De meeste huizenkopers beginnen hun zoektocht online. Ontdek hoe je als makelaar bovenaan verschijnt in Google."
+excerpt: "De meeste huizenkopers beginnen hun zoektocht online. Ontdek hoe je als makelaar bovenaan verschijnt in Google. Met lokale SEO-tips."
 date: "2026-04-06"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"

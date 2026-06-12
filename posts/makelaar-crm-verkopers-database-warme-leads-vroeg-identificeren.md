@@ -1,6 +1,7 @@
 ---
 title: "CRM voor makelaars: bouw een verkopers-database die warme leads identificeert vóórdat ze klaar zijn"
-excerpt: "De gemiddelde Nederlander verkoopt zijn huis één keer per 7-10 jaar — meestal 12-24 maanden ná het eerste signaal dat hij erover denkt. Een goed verkopers-CRM vangt die signalen op zodat jij de eerste makelaar bent die belt, niet de zesde."
+seoTitle: "CRM voor makelaars: herken warme leads vroegtijdig"
+excerpt: "De gemiddelde Nederlander verkoopt zijn huis één keer per 7-10 jaar — meestal 12-24 maanden ná het eerste signaal dat hij erover denkt."
 date: "2026-04-25"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"

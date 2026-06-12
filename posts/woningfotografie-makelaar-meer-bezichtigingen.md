@@ -1,6 +1,7 @@
 ---
 title: "Woningfotografie als makelaar: betere foto's, meer bezichtigingen"
-excerpt: "Goede woningfoto's verkopen sneller. Ontdek hoe je als makelaar met betere fotografie meer bezichtigingen genereert."
+seoTitle: "Woningfotografie als makelaar"
+excerpt: "Goede woningfoto's verkopen sneller. Ontdek hoe je als makelaar met betere fotografie meer bezichtigingen genereert. Met praktische tips."
 date: "2026-03-13"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/woningfotografie-makelaar-meer-bezichtigingen.png"

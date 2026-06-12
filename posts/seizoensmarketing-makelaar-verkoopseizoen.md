@@ -1,5 +1,6 @@
 ---
 title: "Seizoensmarketing als makelaar: inspelen op het verkoopseizoen"
+seoTitle: "Seizoensmarketing als makelaar"
 excerpt: "De woningmarkt kent seizoenspatronen. Leer hoe je als makelaar je marketing afstemt op het verkoopseizoen voor maximaal resultaat."
 date: "2026-03-26"
 authorSlug: "tim-van-der-lee"

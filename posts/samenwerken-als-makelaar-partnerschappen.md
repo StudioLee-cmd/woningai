@@ -1,6 +1,7 @@
 ---
 title: "Samenwerken als makelaar: partnerschappen die meer bezichtigingen opleveren"
-excerpt: "Strategische samenwerkingen met hypotheekadviseurs, notarissen en aannemers helpen makelaars aan meer en betere leads."
+seoTitle: "Samenwerken als makelaar"
+excerpt: "Strategische samenwerkingen met hypotheekadviseurs, notarissen en aannemers helpen makelaars aan meer en betere leads. Zo bouw je dat op."
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-makelaar-partnerschappen.png"

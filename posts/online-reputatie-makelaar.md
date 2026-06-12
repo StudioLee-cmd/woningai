@@ -1,6 +1,7 @@
 ---
 title: "Online reputatie als makelaar: reviews die verkopers en kopers overtuigen"
-excerpt: "Je online reputatie bepaalt of verkopers jou kiezen als makelaar. Leer hoe je reviews verzamelt en je imago versterkt."
+seoTitle: "Online reputatie als makelaar"
+excerpt: "Je online reputatie bepaalt of verkopers jou kiezen als makelaar. Leer hoe je reviews verzamelt en je imago versterkt. Stap voor stap."
 date: "2026-03-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-reputatie-makelaar.png"

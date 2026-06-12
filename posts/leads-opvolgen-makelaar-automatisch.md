@@ -1,5 +1,6 @@
 ---
 title: "Geen lead meer missen als makelaar: automatische opvolging die werkt"
+seoTitle: "Geen lead meer missen als makelaar"
 excerpt: "Elke niet-opgevolgd lead is een gemiste verkoop. Ontdek hoe makelaars met automatische opvolging meer woningen verkopen."
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"

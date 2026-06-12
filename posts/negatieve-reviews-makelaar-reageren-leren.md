@@ -1,5 +1,6 @@
 ---
 title: "Negatieve reviews als makelaar: reageren, leren en je reputatie beschermen"
+seoTitle: "Negatieve reviews als makelaar"
 excerpt: "Een negatieve review hoeft je makelaardij niet te schaden. Zo reageer je professioneel en draai je kritiek om in vertrouwen."
 date: "2026-04-09"
 cluster: "reviews"

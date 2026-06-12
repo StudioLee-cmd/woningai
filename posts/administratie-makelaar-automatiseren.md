@@ -1,5 +1,6 @@
 ---
 title: "Administratie als makelaar automatiseren: minder papierwerk, meer bezichtigingen"
+seoTitle: "Administratie als makelaar automatiseren"
 excerpt: "Koopovereenkomsten, taxaties, NVM-registraties — de administratie van een makelaar is eindeloos. Zo automatiseer je het."
 date: "2026-04-05"
 cluster: "automatisering"

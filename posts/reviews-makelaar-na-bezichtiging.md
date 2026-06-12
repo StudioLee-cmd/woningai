@@ -1,6 +1,7 @@
 ---
 title: "Reviews als makelaar: zo verzamel je ze automatisch na elke bezichtiging"
-excerpt: "De sleuteloverdracht is het perfecte moment voor een review. Zo automatiseer je het als makelaar."
+seoTitle: "Reviews als makelaar"
+excerpt: "De sleuteloverdracht is het perfecte moment voor een review. Zo automatiseer je het als makelaar. Met automatische review-verzoeken via WhatsApp en e-mail."
 date: "2026-04-15"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"

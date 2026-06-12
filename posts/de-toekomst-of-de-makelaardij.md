@@ -1,5 +1,6 @@
 ---
 title: "De Toekomst van de Makelaardij: Hoe AI het Vak Verandert (En waarom dat goed nieuws is)"
+seoTitle: "De Toekomst van de Makelaardij: Hoe AI het Vak Verandert"
 excerpt: "AI gaat de makelaar niet vervangen, maar wel de makelaar die geen AI gebruikt. Ontdek hoe jij voorop blijft lopen in een digitaliserende markt."
 date: "2026-02-01"
 authorSlug: "tim-van-der-lee"

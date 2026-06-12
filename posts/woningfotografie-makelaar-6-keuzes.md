@@ -146,7 +146,7 @@ Drie veelvoorkomende fouten:
 
 ## Hoe AI je hier kan helpen
 
-Steeds meer fotografen werken met AI om woningfoto's te enhancen of zelfs styling-suggesties te doen ("verwijder die opgehangen jas digitaal", "vervang het saaie meubilair virtueel"). Voor makelaars die hier op willen voorlopen is dit een interessant gebied. Sommige van deze workflows zijn al beschikbaar in [moderne automatiserings-tools](/automations) waarbij je foto's automatisch geoptimaliseerd én gepubliceerd worden naar Funda + sociale kanalen.
+Steeds meer fotografen werken met AI om woningfoto's te enhancen of zelfs styling-suggesties te doen ("verwijder die opgehangen jas digitaal", "vervang het saaie meubilair virtueel"). Voor makelaars die hier op willen voorlopen is dit een interessant gebied. Sommige van deze workflows zijn al beschikbaar in [moderne automatiserings-tools](/automatisering) waarbij je foto's automatisch geoptimaliseerd én gepubliceerd worden naar Funda + sociale kanalen.
 
 ## Wat dit oplevert in cijfers
 

@@ -69,7 +69,7 @@ Verdeel je 30 minuten als volgt:
 
 De analyse-tabel zelf is niet waardevol; de beslissingen die je eruit trekt wel. Vier typische uitkomsten en de juiste reactie:
 
-- **Je courtage is significant lager dan markt.** Verhoog je courtage in stappen van 0,1-0,2 procent over 6 maanden. Combineer met een propositie-upgrade (premium fotografie, virtuele tour, of home-staging-optie). Voor de bredere prijs-context lees [hoe makelaars hun courtage uitleggen aan klanten zonder discussie](/blog/makelaar-courtage-uitleggen-discussie-voorkomen).
+- **Je courtage is significant lager dan markt.** Verhoog je courtage in stappen van 0,1-0,2 procent over 6 maanden. Combineer met een propositie-upgrade (premium fotografie, virtuele tour, of home-staging-optie). Voor de bredere prijs-context lees hoe makelaars hun courtage uitleggen aan klanten zonder discussie.
 - **Je woningfotografie is dun vergeleken met top-3.** Investeer in betere fotografie of een professionele woningfotograaf. Lees ook [woningfotografie als makelaar: 6 keuzes](/blog/woningfotografie-makelaar-6-keuzes).
 - **Je hebt geen duidelijke USP.** Kies één onderscheidende factor (bijvoorbeeld "100 procent virtuele tours bij elke listing" of "verkoopgarantie binnen 90 dagen"). Communiceer dit op homepage, in elk gesprek met verkopers, en in je marketing.
 - **Concurrenten bieden service die jij niet hebt.** Aankoopbegeleiding, bedrijfsmakelaardij of internationale begeleiding zijn vaak goede uitbreidingen. Overweeg op basis van regio en doelgroep.

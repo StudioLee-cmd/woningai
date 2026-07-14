@@ -284,7 +284,7 @@ export default function ChatbotContent() {
           >
             <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-[var(--card-border)] shadow-xl">
               <Image
-                src="/images/services/chatbot-workflow.jpg"
+                src="/images/services/automatisering-workflow.jpg"
                 alt="Klant chat, makelaar krijgt notificatie"
                 fill
                 className="object-cover"

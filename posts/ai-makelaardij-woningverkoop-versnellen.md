@@ -112,6 +112,6 @@ AI vervangt de makelaar niet — het versterkt elke stap van het verkoopproces. 
 
 Met [WoningAI](/) helpen we makelaars om AI in te zetten voor fotografie, lead-opvolging en marketing. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
 
-Plan een [gratis adviesgesprek](https://calendly.com/tim-studiolee) en ontdek hoe AI jouw makelaardij kan versnellen.
+Plan een [gratis adviesgesprek](https://cal.com/studiolee) en ontdek hoe AI jouw makelaardij kan versnellen.
 
 Lees ook onze andere artikelen over [online groei voor makelaars](/blog).

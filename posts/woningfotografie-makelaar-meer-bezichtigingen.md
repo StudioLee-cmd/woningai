@@ -96,4 +96,4 @@ Lees ook ons artikel over [open huizen dagen maximaal benutten](/blog/open-huize
 
 Woningfotografie is geen bijzaak — het is een van de belangrijkste factoren in het verkoopproces. Investeer in goede foto's, bereid elke shoot zorgvuldig voor, en zet je beelden strategisch in. Het verschil tussen een amateuristisch en een professioneel gepresenteerde woning kan duizenden euro's in verkoopprijs schelen — en weken in verkooptijd.
 
-Wil je hulp bij het versterken van je online presentatie als makelaar? Bekijk wat [WoningAI](/) voor je kan betekenen of [plan een gratis gesprek](https://calendly.com/tim-studiolee).
+Wil je hulp bij het versterken van je online presentatie als makelaar? Bekijk wat [WoningAI](/) voor je kan betekenen of [plan een gratis gesprek](https://cal.com/studiolee).

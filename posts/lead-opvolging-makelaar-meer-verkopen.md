@@ -7,7 +7,6 @@ image: "/images/blog/lead-opvolging-makelaar-meer-verkopen.jpg"
 tags: ["Lead opvolging", "Verkoop", "Groei"]
 cluster: "automatisering"
 ---
-
 ## Waarom makelaars kostbare leads laten liggen
 
 De woningmarkt is competitief. Kopers reageren op meerdere woningen tegelijk, verkopers vergelijken meerdere makelaars. Wie het snelst reageert, wint.
@@ -68,10 +67,12 @@ De aanpak:
 
 Snelheid en professionaliteit winnen mandaten. Prijs komt op de tweede plaats.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/leads-opvolgen-makelaar-bezichtiging" class="text-dark fw-semibold">Leads opvolgen als makelaar: van aanvraag naar bezichtiging</a> →</p></div></div></div>
+
 ## Meer mandaten zonder extra advertenties
 
-Betere lead opvolging levert direct meer mandaten op. Je investeert al in Funda-plaatsingen, een website en misschien Google Ads. Die leads zijn er — je zet ze alleen niet allemaal om.
+Betere [lead opvolging](/blog/makelaar-leads-opvolgen-kijkdag-bod) levert direct meer mandaten op. Je investeert al in Funda-plaatsingen, een website en misschien Google Ads. Die leads zijn er — je zet ze alleen niet allemaal om.
 
-Door je reactietijd te halveren en automatische opvolging in te zetten, kun je 20 tot 30 procent meer verkoper-leads omzetten in mandaten. Dat zijn extra verkopen per kwartaal zonder extra marketingkosten.
+Door je reactietijd te halveren en [automatische opvolging](/automatisering) in te zetten, kun je 20 tot 30 procent meer verkoper-leads omzetten in mandaten. Dat zijn extra verkopen per kwartaal zonder extra marketingkosten.
 
 Benieuwd hoe je meer leads kunt omzetten in verkopen? Vraag een [gratis AI-scan](/gratis-scan) aan.

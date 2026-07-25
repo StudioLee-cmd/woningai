@@ -7,7 +7,6 @@ image: "/images/blog/google-ai-overviews-makelaar-vindbaarheid.jpg"
 cluster: "vindbaarheid"
 tags: ["AI Overviews", "Makelaar Marketing", "Lokale SEO"]
 ---
-
 Een huizenkoper Googled "beste makelaar in Amsterdam Oost". In 2024 zag hij tien organische zoekresultaten plus een paar Google-advertenties. In 2026 ziet hij eerst een AI-gegenereerde samenvatting bovenaan: "De best beoordeelde makelaars in Amsterdam Oost zijn [drie namen], gebaseerd op meer dan 200 reviews en gemiddelde verkooptijden onder de 30 dagen." Drie namen, geen klikken nodig. De huizenkoper neemt direct contact op met één van die drie. De andere twintig makelaars in dezelfde wijk zien geen verkeer meer uit deze zoekopdracht.
 
 Voor makelaars is Google AI Overviews een van de grootste verschuivingen sinds de introductie van Google Maps in 2005. Wie wel of niet in de samenvatting komt, krijgt het verkeer of niet. Dit artikel laat zien hoe AI Overviews voor woning-zoekopdrachten werkt, wat Google gebruikt om makelaars te selecteren en wat je vandaag al kunt doen om in die selectie te komen.
@@ -54,7 +53,7 @@ AI Overviews bevoordelen recente content. Een blog-artikel van vorige maand over
 
 ### 5. Lokale signalen (Google Business Profile)
 
-Een goed onderhouden Google Bedrijfsprofiel met regelmatige updates, foto's, en posts is een sterk signaal. Het GBP-profiel zelf wordt vaak direct gequoot in de AI Overview.
+Een goed onderhouden [Google Bedrijfsprofiel](/blog/google-qa-makelaar-verkoopkanaal) met regelmatige updates, foto's, en posts is een sterk signaal. Het GBP-profiel zelf wordt vaak direct gequoot in de AI Overview.
 
 ## Wat je vandaag kunt doen om in AI Overviews te komen
 

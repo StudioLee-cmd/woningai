@@ -8,10 +8,9 @@ image: "/images/blog/social-media-makelaars-bezichtigingen.png"
 tags: ["Social Media", "Marketing", "Groei"]
 cluster: "social-media"
 ---
-
 ## Waarom social media onmisbaar is voor makelaars
 
-Social media is allang niet meer alleen voor grote bedrijven met marketingafdelingen. In 2026 is het een basisvoorziening voor elke makelaar die wil groeien. Of je nu net begint of al jarenlang actief bent — zonder online zichtbaarheid loop je klanten mis.
+Social media is allang niet meer alleen voor grote bedrijven met marketingafdelingen. In 2026 is het een basisvoorziening voor elke makelaar die wil groeien. Of je nu net begint of al jarenlang actief bent — zonder [online zichtbaarheid](/social-media) loop je klanten mis.
 
 De cijfers liegen niet: meer dan 13 miljoen Nederlanders zijn dagelijks actief op social media. Je potentiële klanten scrollen door Instagram, Facebook en LinkedIn terwijl jij dit leest. De vraag is niet of je op social media moet zijn, maar hoe je het slim aanpakt.
 
@@ -35,7 +34,7 @@ Niet elk platform is geschikt voor elke branche. Virtuele rondleidingen via Inst
 
 ## Virtuele rondleidingen zijn de toekomst
 
-Als makelaar draait alles om zichtbaarheid. Elke woning die je deelt op social media bereikt potentieel honderden extra kijkers die anders nooit een bezichtiging hadden ingepland. Virtuele rondleidingen via Instagram Reels en Facebook Live zijn dé trend van 2026.
+Als makelaar draait alles om zichtbaarheid. Elke woning die je deelt op [social media](/blog/avg-interieurfotos-social-media-makelaar) bereikt potentieel honderden extra kijkers die anders nooit een bezichtiging hadden ingepland. Virtuele rondleidingen via Instagram Reels en Facebook Live zijn dé trend van 2026.
 
 LinkedIn is daarnaast cruciaal voor zakelijke contacten. Deel marktanalyses, prijsontwikkelingen en je visie op de woningmarkt — dat positioneert je als dé expert in jouw regio.
 

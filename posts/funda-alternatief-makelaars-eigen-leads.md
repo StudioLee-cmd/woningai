@@ -7,7 +7,6 @@ image: "/images/blog/funda-alternatief-makelaars-eigen-leads.jpg"
 tags: ["Leads", "Marketing"]
 cluster: "automatisering"
 ---
-
 Funda is fantastisch voor bereik — maar het maakt je ook afhankelijk. Elke lead loopt via hun platform, je betaalt per vermelding en je hebt nauwelijks controle over hoe je kantoor zich presenteert. Wat als je daarnaast ook zelf leads kunt genereren via je eigen kanalen?
 
 Dat is geen toekomstmuziek. Steeds meer makelaars bouwen een eigen online aanwezigheid die Funda aanvult en op termijn deels vervangt. Het verschil: eigen leads zijn gratis, exclusief en bouwen aan jouw merk — niet dat van Funda.
@@ -45,7 +44,7 @@ Wanneer iemand zoekt op "makelaar [stad]" of "huis kopen [wijk]", wil je bovenaa
 
 ### Google Bedrijfsprofiel
 
-Zorg dat je profiel compleet is: alle gegevens, regelmatige foto-updates, actief reviews verzamelen. Makelaars met 50+ reviews en een 4.5+ score domineren het Local Pack.
+Zorg dat je profiel compleet is: alle gegevens, regelmatige foto-updates, actief [reviews verzamelen](/reviews). Makelaars met 50+ reviews en een 4.5+ score domineren het Local Pack.
 
 ### SEO-content
 
@@ -86,6 +85,8 @@ De websites die het beste converteren hebben drie dingen gemeen: een waardebepal
 ### Hoe meet ik het succes?
 
 Stel doelen: aantal formulierinzendingen per maand, aantal bezichtigingsaanvragen via de website, percentage leads dat converteert naar opdracht. Google Analytics en een CRM geven je dit inzicht.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/seizoensmarketing-makelaar-verkoopseizoen" class="text-dark fw-semibold">Seizoensmarketing als makelaar: inspelen op het verkoopseizoen</a> →</p></div></div></div>
 
 ## Conclusie
 

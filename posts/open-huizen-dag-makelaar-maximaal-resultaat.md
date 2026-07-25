@@ -8,7 +8,6 @@ image: "/images/blog/open-huizen-dag-makelaar-maximaal-resultaat.png"
 tags: ["Makelaar", "Open Huizen", "Bezichtigingen"]
 cluster: "automatisering"
 ---
-
 ## De open huizen dag: meer dan een open deur
 
 De landelijke open huizen dag trekt jaarlijks honderdduizenden bezoekers. Maar ook buiten de officiele data is een open huis een van de effectiefste verkooptools voor makelaars. Het trekt een groot publiek in een kort tijdsbestek en creert een gevoel van urgentie.
@@ -106,6 +105,8 @@ Een open huis levert niet alleen kopers voor deze woning op — het levert leads
 - Buren die langskomen, overwegen misschien ook te verkopen
 
 Behandel elk contact als een potentiele klant — niet alleen voor dit huis.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/open-huis-vs-individuele-bezichtiging-no-shows" class="text-dark fw-semibold">Open huis vs individuele bezichtiging: wat werkt tegen no-shows?</a> →</p></div></div></div>
 
 ## Conclusie
 

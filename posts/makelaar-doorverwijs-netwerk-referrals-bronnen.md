@@ -121,6 +121,8 @@ Voor makelaars die dit traject willen uitbesteden: in onze managed service zette
 
 Ook cruciaal: een [sterke website](/gratis-website) die partner-referral-klanten direct het juiste oriëntatie-pad biedt (korte intake-flow, snel contact-mogelijkheden, showcases van recent verkochte woningen).
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/branding-makelaar" class="text-dark fw-semibold">Branding als makelaar: zo word je het bekendste kantoor in je regio</a> →</p></div></div></div>
+
 ## Groei-of-Geld-Terug Garantie
 
 Als je referral-leads na zes maanden niet meetbaar zijn gestegen, krijg je je investering terug. Vraag een [gratis scan](/gratis-scan) aan om je huidige partner-potentieel te laten analyseren. Jij sluit deals, wij regelen de rest.

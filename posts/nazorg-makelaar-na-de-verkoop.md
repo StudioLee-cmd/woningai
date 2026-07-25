@@ -7,7 +7,6 @@ image: "/images/blog/nazorg-makelaar-na-de-verkoop.jpg"
 tags: ["Nazorg", "Klantrelatie", "Groei"]
 cluster: "automatisering"
 ---
-
 ## Waarom nazorg essentieel is voor makelaars
 
 De overdracht bij de notaris is voor veel makelaars het einde van de klantrelatie. Maar het zou eigenlijk het begin moeten zijn van een langetermijnrelatie.
@@ -31,7 +30,7 @@ Een persoonlijk bericht kost 2 minuten. Maar het effect is enorm: klanten voelen
 
 ![Nazorg na de woningverkoop als makelaar](/images/blog/nazorg-makelaar-na-de-verkoop-2.jpg)
 
-Reviews zijn voor makelaars goud waard. Potentiële verkopers zoeken online naar een betrouwbare makelaar en vertrouwen op ervaringen van anderen.
+Reviews zijn voor makelaars goud waard. Potentiële verkopers zoeken online naar een betrouwbare makelaar en [vertrouwen](/reviews) op ervaringen van anderen.
 
 Effectief reviews verzamelen:
 - **Timing**: vraag 1-2 weken na de overdracht, als de tevredenheid nog vers is

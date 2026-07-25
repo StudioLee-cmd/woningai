@@ -144,6 +144,8 @@ Realistisch zit de winst tussen 50 en 100 procent erbij. Voor de meeste makelaar
 - **Stoppen na een week.** Sommige klanten beslissen pas na drie weken. Blijf in beeld zonder opdringerig te zijn.
 - **Zelfde generieke berichten naar iedereen.** Pas je opvolging aan op wat de klant in het feedbackgesprek heeft gezegd.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/administratie-makelaar-automatiseren" class="text-dark fw-semibold">Administratie als makelaar automatiseren: minder papierwerk, meer bezichtigingen</a> →</p></div></div></div>
+
 ## Begin deze week
 
 Drie acties voor de komende zeven dagen:

@@ -70,6 +70,6 @@ Absoluut. Funda is je etalage, SEO is je eigen winkel. Samen bereik je meer woni
 
 ## Conclusie
 
-SEO maakt je als makelaar minder afhankelijk van platforms en brengt woningzoekers direct naar jouw kantoor. Begin met je Google Bedrijfsprofiel, schrijf lokale content en bouw wijkpagina's.
+SEO maakt je als makelaar minder afhankelijk van platforms en brengt woningzoekers direct naar jouw kantoor. Begin met je [Google](/seo) Bedrijfsprofiel, schrijf lokale content en bouw wijkpagina's.
 
 Investeer nu in je online zichtbaarheid en pluk de vruchten jarenlang. Benieuwd hoe WoningAI je online vindbaarheid automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt alles — jij verkoopt huizen.

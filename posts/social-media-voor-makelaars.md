@@ -8,10 +8,9 @@ image: "/images/blog/social-media-voor-makelaars.png"
 tags: ["Social Media", "Content", "Vastgoedmarketing"]
 cluster: "social-media"
 ---
-
 Je hebt prachtige woningfoto's laten maken. Je hebt die trotse "Verkocht" sticker op het bord geplakt. Je maakt een foto met je telefoon voor de statistieken... en daar blijft het bij. Je hebt geen tijd om een pakkende caption te bedenken of de juiste hashtags te zoeken.
 
-Toch is social media waar jouw volgende verkoper zit. Ze willen zien dat jij actief bent, dat je resultaat boekt en dat je panden op een mooie manier presenteert.
+Toch is [social media](/social-media) waar jouw volgende verkoper zit. Ze willen zien dat jij actief bent, dat je resultaat boekt en dat je panden op een mooie manier presenteert.
 
 ## De WhatsApp Workflow
 

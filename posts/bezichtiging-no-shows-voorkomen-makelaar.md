@@ -45,6 +45,8 @@ Een [chatbot](/chatbot) op je [website](/gratis-website) kan deze vragen automat
 
 Plan bezichtigingen niet individueel maar in groepen van 3-5 kijkers op hetzelfde tijdslot. Als één persoon niet komt, heb je nog steeds een volle bezichtiging. Bijkomend voordeel: kijkers zien dat er concurrentie is, wat de urgentie verhoogt.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/no-shows-bezichtiging-makelaar" class="text-dark fw-semibold">No-shows bij bezichtigingen voorkomen: tips voor makelaars</a> →</p></div></div></div>
+
 ## Bouw het systeem
 
 Automatische bevestigingen, herinneringen en kwalificatie kosten je nul extra tijd zodra het systeem draait. Wil je weten hoe dat eruitziet? Vraag een [gratis scan](/gratis-scan) aan en ontdek hoeveel bezichtigingen je kunt winnen met betere opvolging. Bekijk ook de [tarieven](/tarieven) en hoe [reviews](/reviews) je helpen meer vertrouwen op te bouwen bij potentiële kopers.

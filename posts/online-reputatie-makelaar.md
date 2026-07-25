@@ -8,14 +8,13 @@ image: "/images/blog/online-reputatie-makelaar.png"
 tags: ["online reputatie", "makelaar", "reviews"]
 cluster: "reviews"
 ---
-
 Een huiseigenaar die wil verkopen, googelt "makelaar [stad]." Ze zien drie kantoren. Een heeft 60 reviews en 4,8 sterren. De ander heeft 5 reviews. De derde heeft een 3,2. Wie bellen ze?
 
 Je online reputatie is het eerste filter. In dit artikel leer je hoe je die als makelaar optimaliseert.
 
 ## Waarom reviews extra belangrijk zijn voor makelaars
 
-Een woning verkopen is de grootste financiele transactie in iemands leven. Het vertrouwen moet maximaal zijn. Reviews geven dat vertrouwen: "Deze makelaar verkocht ons huis boven de vraagprijs" is krachtiger dan elke brochure.
+Een woning verkopen is de grootste financiele transactie in iemands leven. Het [vertrouwen](/reviews) moet maximaal zijn. Reviews geven dat vertrouwen: "Deze makelaar verkocht ons huis boven de vraagprijs" is krachtiger dan elke brochure.
 
 ## Waar klanten je beoordelen
 

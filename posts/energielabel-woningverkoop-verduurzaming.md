@@ -7,7 +7,6 @@ image: "/images/blog/energielabel-woningverkoop-verduurzaming.png"
 tags: ["Energielabel", "Verduurzaming", "Woningmarkt"]
 cluster: "branding"
 ---
-
 Het energielabel is de afgelopen jaren uitgegroeid van een formaliteit tot een serieuze factor bij woningverkoop. Kopers kijken steeds bewuster naar de energiekosten van een woning. Een huis met label A verkoopt sneller en voor een hogere prijs dan een vergelijkbaar huis met label G. Als makelaar is het slim om op deze trend in te spelen.
 
 In dit artikel lees je hoe het energielabel de woningmarkt beinvloedt en hoe je het inzet als verkoopargument.
@@ -40,7 +39,7 @@ Maak energieprestatie een vast onderdeel van je woningpresentaties. Benoem het l
 
 Concrete cijfers overtuigen meer dan vage claims. Als je de geschatte energiekosten per maand kunt benoemen, geef je kopers een tastbaar voordeel. Gebruik de energiefactuur of een indicatieve berekening op basis van het label.
 
-Maak ook content over verduurzaming op je social media: tips voor kopers over waar ze op moeten letten, uitleg over wat elk label betekent en voorbeelden van woningen die na verduurzaming fors in waarde stegen.
+Maak ook content over verduurzaming op je [social media](/social-media): tips voor kopers over waar ze op moeten letten, uitleg over wat elk label betekent en voorbeelden van woningen die na verduurzaming fors in waarde stegen.
 
 ## Subsidies waar kopers van profiteren
 
@@ -51,6 +50,8 @@ Kopers die een woning kopen en willen verduurzamen, kunnen gebruikmaken van dive
 - **Gemeentelijke subsidies:** Veel gemeenten hebben eigen potjes voor verduurzaming
 
 Als makelaar kun je waarde toevoegen door kopers hierover te informeren. Een document met relevante subsidies en aanvraaglinks bij de sleuteloverdracht is een klein gebaar met grote impact. Het toont dat je meedenkt voorbij de transactie.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/concurrentieanalyse-makelaars-6-datapunten" class="text-dark fw-semibold">Concurrentieanalyse makelaars: 6 datapunten in 30 min</a> →</p></div></div></div>
 
 ## Conclusie
 

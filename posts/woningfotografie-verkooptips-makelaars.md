@@ -59,6 +59,8 @@ Fotografeer elke ruimte vanuit minimaal twee hoeken. Maak extra foto's van bijzo
 
 Vraag tevreden verkopers na de verkoop om een [review](/reviews). "Prachtige foto's en binnen twee weken verkocht" is een review die tientallen nieuwe verkoopopdrachten oplevert.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/woningfotografie-fouten-makelaars" class="text-dark fw-semibold">Woningfotografie die verkoopt: 5 fouten die makelaars maken</a> →</p></div></div></div>
+
 ## Goede foto's zijn je sterkste verkoopargument
 
 Woningfotografie is geen bijzaak. Het is het verschil tussen een woning die maanden te koop staat en een woning die binnen twee weken wordt verkocht. Investeer in het proces en je levert betere resultaten voor je klanten.

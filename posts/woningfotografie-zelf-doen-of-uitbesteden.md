@@ -7,7 +7,6 @@ image: "/images/blog/woningfotografie-zelf-doen-of-uitbesteden.jpg"
 tags: ["Woningfotografie", "Makelaar", "Marketing"]
 cluster: "website"
 ---
-
 ## In het kort
 
 - **Professionele woningfoto's verhogen het aantal bezichtigingen met 40-60%** vergeleken met smartphone-foto's.
@@ -155,6 +154,8 @@ Bij majeure verandering: nieuwe meubels, geverfde muren, of seizoenwisseling waa
 ### Kan ik foto's van vorige bewoners hergebruiken?
 
 Soms, mits geen persoonlijke spullen erop staan en de woning niet wezenlijk veranderd is. Anders nieuwe foto's.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/woningfotografie-makelaar-meer-kijkers" class="text-dark fw-semibold">Woningfotografie als makelaar: zo krijg je meer kijkers</a> →</p></div></div></div>
 
 ## Klaar om je woningen scherper te tonen?
 

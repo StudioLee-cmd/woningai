@@ -8,7 +8,6 @@ image: "/images/blog/woningfotografie-makelaar-6-keuzes.jpg"
 tags: ["Fotografie", "Makelaar", "Verkoop"]
 cluster: "website"
 ---
-
 Twee identieke huizen, dezelfde straat, dezelfde vraagprijs. De ene staat 92 dagen te koop, de andere 14. Verschil? De foto's. Het is bewezen: woningen met professionele foto's krijgen 60 procent meer kijkers, verkopen 30 procent sneller, en bereiken vaak 3-5 procent hogere verkoopprijs.
 
 Voor een makelaar is dit een no-brainer. Maar wat is "professioneel" in 2026? Wat onderscheidt een €150 fotosessie van een €500 fotosessie? En wanneer wil je grondplattegronden, drone-shots of zelfs virtuele rondleidingen toevoegen? Dit artikel geeft de 6 belangrijkste keuzes met realistische cijfers per optie.
@@ -157,6 +156,8 @@ Makelaars die structureel premium-fotografie gebruiken op woningen vanaf €400.
 - **30-50% snellere verkoop** = lagere doorlooptijden + meer omzet per jaar.
 - **Hogere klanttevredenheid** = meer doorverwijzingen.
 - **Sterker positionering** als premium-makelaar.
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/woningfotografie-zelf-doen-of-uitbesteden" class="text-dark fw-semibold">Woningfotografie: zelf doen of uitbesteden?</a> →</p></div></div></div>
 
 ## Hoe je deze maand begint
 

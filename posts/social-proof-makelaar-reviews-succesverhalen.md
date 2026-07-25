@@ -8,10 +8,9 @@ image: "/images/blog/social-proof-makelaar-reviews-succesverhalen.png"
 tags: ["Social proof", "Reviews", "Marketing"]
 cluster: "reviews"
 ---
-
 ## Wat is social proof en waarom werkt het
 
-Social proof is het psychologische principe dat mensen het gedrag van anderen volgen. Als een makelaar 150 Google reviews heeft met een 4,9 gemiddelde, denkt een potentiële verkoper: "Die moet wel goed zijn." Dat is social proof in actie.
+Social proof is het psychologische principe dat mensen het gedrag van anderen volgen. Als een makelaar 150 [Google reviews](/reviews) heeft met een 4,9 gemiddelde, denkt een potentiële verkoper: "Die moet wel goed zijn." Dat is social proof in actie.
 
 Voor makelaars is dit extra relevant. Een woning verkopen is een van de grootste financiële beslissingen in iemands leven. Er is veel onzekerheid en veel behoefte aan bewijs dat je de juiste keuze maakt. Social proof vermindert die onzekerheid. Combineer het met [goede online vindbaarheid](/blog/online-vindbaarheid-voor-makelaars-en-woning-verhuurders) en je wint het vertrouwen vóór het eerste gesprek.
 

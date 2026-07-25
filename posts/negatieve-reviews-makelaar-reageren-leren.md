@@ -58,6 +58,8 @@ De beste verdediging tegen negatieve reviews is een overweldigend aantal positie
 
 Vraag na elke succesvolle transactie om een review. Automatiseer dit via een WhatsApp-bericht na de sleuteloverdracht: "Gefeliciteerd met je nieuwe woning! Zou je een korte [review](/reviews) willen achterlaten? Het helpt andere kopers en verkopers ons te vinden."
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/reviews-automatiseren-makelaar-vertrouwen" class="text-dark fw-semibold">Reviews automatiseren als makelaar</a> →</p></div></div></div>
+
 ## Conclusie: laat je reactie je visitekaartje zijn
 
 Negatieve reviews zijn onvermijdelijk. Hoe je ermee omgaat, bepaalt of ze je reputatie schaden of versterken. Reageer kalm, professioneel en empathisch. Los het probleem op. En verzamel actief positieve reviews zodat het totaalplaatje klopt.

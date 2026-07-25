@@ -66,6 +66,8 @@ In de Nederlandse makelaardij is dat ongebruikelijk bij kopers. Bij verkopers in
 
 Na twee keer niet verschijnen: weiger nieuwe bezichtigingsaanvragen of stel een telefonisch vooroverleg als voorwaarde. Je tijd is te waardevol voor niet-serieuze kijkers.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/bezichtiging-no-show-voorkomen-makelaar" class="text-dark fw-semibold">Bezichtiging no-show: zo voorkom je dat kopers wegblijven</a> →</p></div></div></div>
+
 ## Conclusie
 
 No-shows bij bezichtigingen voorkom je door vooraf te kwalificeren, [automatische herinneringen](/chatbot) te sturen en het makkelijk te maken om te verzetten. De combinatie vermindert lege bezichtigingen en verhoogt de kwaliteit van je bezoekers.

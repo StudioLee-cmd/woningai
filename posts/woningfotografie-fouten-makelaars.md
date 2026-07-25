@@ -51,6 +51,8 @@ Dit hoeft geen uren te kosten. Met Lightroom presets of een app als Snapseed ben
 
 Tevreden verkopers die hun woning snel en goed verkocht zien, laten vaker positieve [reviews](/reviews) achter. "De foto's waren prachtig en we hadden binnen een week drie kijkers" is een review die nieuwe verkopers overtuigt.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/woningfotografie-verkooptips-makelaars" class="text-dark fw-semibold">Woningfotografie die verkoopt: 7 tips voor makelaars</a> →</p></div></div></div>
+
 ## Goede foto's zijn de goedkoopste marketing
 
 Een professionele woningpresentatie kost minimaal moeite en levert maximaal resultaat. Meer kijkers, meer biedingen, snellere verkoop. De makelaars die dit begrijpen, hoeven minder te adverteren en verkopen toch sneller.

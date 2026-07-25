@@ -8,8 +8,7 @@ image: "/images/blog/meer-opdrachten-met-ai.png"
 tags: ["Marketing", "Reviews", "Vastgoed"]
 cluster: "reviews"
 ---
-
-Als een verkoper een makelaar zoekt, wat is het eerste dat ze doen? Ze bekijken Google reviews. Heeft een kantoor 3,8 sterren? Dan bellen ze de buurman met 4,8 sterren. In de makelaardij is vertrouwen het allerbelangrijkste goed. Jouw online reputatie bepaalt of die felbegeerde verkoopopdracht naar jou gaat of naar de concurrent.
+Als een verkoper een makelaar zoekt, wat is het eerste dat ze doen? Ze bekijken [Google reviews](/reviews). Heeft een kantoor 3,8 sterren? Dan bellen ze de buurman met 4,8 sterren. In de makelaardij is vertrouwen het allerbelangrijkste goed. Jouw online reputatie bepaalt of die felbegeerde verkoopopdracht naar jou gaat of naar de concurrent.
 
 Voor jouw kantoor zijn Google Reviews de beste marketing. Maar hoe kom je aan die reviews zonder klanten (die al druk zijn met een verhuizing) lastig te vallen?
 

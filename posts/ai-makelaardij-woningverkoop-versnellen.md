@@ -7,7 +7,6 @@ image: "/images/blog/ai-makelaardij-woningverkoop-versnellen.png"
 tags: ["Makelaar", "AI", "Woningverkoop", "PropTech"]
 cluster: "automatisering"
 ---
-
 ## De makelaardij verandert — AI is de katalysator
 
 De Nederlandse vastgoedmarkt is competitief. Met meer dan 10.000 actieve makelaars en een markt die continu schommelt, is het verschil tussen een succesvolle makelaar en de rest steeds vaker: technologie. AI-tools transformeren elk onderdeel van het verkoopproces — van de eerste foto tot de sleuteloverdracht.
@@ -62,7 +61,7 @@ Hier zit misschien wel de grootste kans. De meeste makelaars zijn goed in bezich
 
 ### Chatbot op je website
 
-Een AI-chatbot beantwoordt veelgestelde vragen 24/7:
+Een [AI-chatbot](/chatbot) beantwoordt veelgestelde vragen 24/7:
 - Wat is de vraagprijs?
 - Zijn er meer foto's beschikbaar?
 - Kan ik een bezichtiging plannen?
@@ -105,6 +104,8 @@ De tijdsbesparing is enorm — en de kwaliteit is consistent.
 | AI-chatbot (50-100 euro/maand) | Leads 24/7 opvangen |
 | Automatische opvolging | 20% hogere conversie van bezichtiging naar bod |
 | AI-waardebepaling | Beter onderbouwde gesprekken, snellere acquisitie |
+
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/beste-makelaarstools-2026" class="text-dark fw-semibold">Beste makelaarstools 2026: software voor makelaars vergeleken</a> →</p></div></div></div>
 
 ## Conclusie
 

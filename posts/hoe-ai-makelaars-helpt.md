@@ -8,7 +8,6 @@ image: "/images/blog/hoe-ai-makelaars-helpt.png"
 tags: ["AI", "Makelaardij", "Automatisering"]
 cluster: "vindbaarheid"
 ---
-
 Het runnen van een makelaarskantoor anno 2026 is topsport. Je bent niet alleen de specialist die huizen verkoopt, maar je bent ook planner, telefoniste, marketingmanager en klantenservice in één. Veel makelaars die wij spreken, zijn de hele dag onderweg voor bezichtigingen, maar als ze eerlijk kijken, zijn ze 's avonds nog uren bezig met randzaken. Ruis in de vorm van eindeloze telefoontjes, Funda-leads opvolgen en agenda's beheren.
 
 De realiteit is dat de markt verandert. Klanten verwachten directe reacties, strakke communicatie en 24/7 bereikbaarheid. Als zelfstandige makelaar of eigenaar van een kantoor is dat bijna onmogelijk te bolwerken zonder dat je privéleven eronder lijdt. Gelukkig is er een oplossing die geen extra personeel vereist: Kunstmatige Intelligentie (AI).
@@ -35,7 +34,7 @@ Elke makelaar weet: een lead die niet binnen 5 minuten wordt opgevolgd, koelt ra
 
 Veel makelaars denken dat AI hun expertise wil vervangen. Dat is onzin. Een robot kan (voorlopig) niet de emotie en onderhandeling van een verkoop doen. Het gaat om het vervangen van het trage kantoorwerk. Onze AI tools vervangen in feite drie onderdelen:
 - **De Binnendienst/Planner:** Een extra medewerker kost al snel €40.000 per jaar. Onze Voice AI neemt 24/7 op, plant bezichtigingen en beantwoordt algemene vragen over panden.
-- **Het Marketingbureau:** Wil je meer verkoopopdrachten in een specifieke wijk? Onze Social Media AI & Tekstschrijver AI regelen je lokale zichtbaarheid door constant relevante content te plaatsen.
+- **Het Marketingbureau:** Wil je meer verkoopopdrachten in een specifieke wijk? Onze [Social Media](/social-media) AI & Tekstschrijver AI regelen je lokale zichtbaarheid door constant relevante content te plaatsen.
 - **Handmatige Lead-opvolging:** Geen copy-paste werk meer van Funda naar je CRM. WoningAI koppelt alles aan elkaar.
 
 ## Waarom het een No-Brainer is voor elke makelaar
@@ -44,4 +43,4 @@ De vraag is niet "of" je AI gaat gebruiken, maar "wanneer". Je concurrentie is e
 
 Het gaat hier niet om luiheid, maar om winstgevendheid. Je huurt voor een fractie van de prijs van één medewerker een volwaardige digitale binnendienst in. Een systeem dat nooit slaapt, altijd vriendelijk is en 100% foutloos werkt. Onze **Managed Service** betekent dat wij alles voor je instellen. Jij hoeft alleen maar huizen te verkopen.
 
-Wil je weten wat WoningAI voor jouw kantoor kan betekenen? Doe de gratis Readiness Scan of vraag een demo aan. De toekomst van de makelaardij is hier.
+Wil je weten wat WoningAI voor jouw kantoor kan betekenen? Doe de gratis Readiness Scan of vraag een demo aan. [De toekomst van de makelaardij](/blog/de-toekomst-of-de-makelaardij) is hier.

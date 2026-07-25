@@ -50,6 +50,8 @@ De meeste makelaars converteren 10 tot 15 procent van hun warme leads. Koude lea
 
 Bij een gemiddelde courtage van 4.000 tot 8.000 euro per verkoop is dat 4.000 tot 16.000 euro per maand aan omzet die je nu laat liggen. De investering in een opvolgsysteem staat in geen verhouding tot die opbrengst.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/lead-opvolging-makelaar-meer-verkopen" class="text-dark fw-semibold">Lead opvolging als makelaar: meer verkopen sluiten</a> →</p></div></div></div>
+
 ## Begin met je huidige lijst
 
 Je hebt al koude leads. Open je CRM of je inbox en zoek naar aanvragen van de afgelopen drie maanden waar je geen reactie op kreeg. Stuur ze vandaag een marktupdate of een persoonlijke check-in. Je zult verrast zijn hoeveel er alsnog reageren.

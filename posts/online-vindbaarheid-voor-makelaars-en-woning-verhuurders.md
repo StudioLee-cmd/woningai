@@ -7,7 +7,6 @@ image: "/images/blog/online-vindbaarheid-voor-makelaars-en-woning-verhuurders.pn
 tags: ["Vindbaarheid", "Google", "Makelaars", "Verhuur"]
 cluster: "vindbaarheid"
 ---
-
 ## Wie een woning zoekt, gaat naar Google
 
 Bijna elke woningzoekende begint zijn zoektocht online. Ze zoeken op "makelaar [stad]", "huurwoning [stad]" of "appartement te koop [buurt]". Wie in die zoekresultaten bovenaan staat met goede reviews en een professionele uitstraling, trekt de aanvragen.
@@ -28,7 +27,7 @@ In een concurrerende markt maakt online zichtbaarheid het verschil tussen een vo
 
 ## Stap 2: Bouw aan reviews van tevreden klanten
 
-Een makelaar met 60 reviews en 4,8 sterren wordt sneller benaderd dan een kantoor met 10 reviews. Koop- en huurtransacties zijn grote beslissingen — klanten willen bewijs.
+Een makelaar met 60 [reviews](/reviews) en 4,8 sterren wordt sneller benaderd dan een kantoor met 10 reviews. Koop- en huurtransacties zijn grote beslissingen — klanten willen bewijs.
 
 Vraag na elke succesvolle overdracht of verhuurstart automatisch om een review:
 

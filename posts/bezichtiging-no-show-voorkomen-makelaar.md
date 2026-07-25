@@ -61,6 +61,8 @@ Bij populaire woningen kun je individuele bezichtigingen vervangen door een open
 
 Dit werkt niet voor elke woning. Bij luxe objecten verwachten kopers een individuele rondleiding. Maar voor woningen in het middensegment is een groepsbezichtiging vaak effectiever en minder kwetsbaar voor no-shows.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/bezichtiging-no-shows-voorkomen-makelaar" class="text-dark fw-semibold">Bezichtiging no-shows voorkomen als makelaar</a> →</p></div></div></div>
+
 ## Minder no-shows, sneller verkopen
 
 Elke bezichtiging die wel doorgaat is een stap dichter bij een verkoop. Door herinneringen te sturen, bevestiging te vragen en kopers betrokken te houden, verhoog je het percentage dat daadwerkelijk komt opdagen. Dat betekent snellere verkoop en minder verspilde tijd.

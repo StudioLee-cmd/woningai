@@ -10,7 +10,6 @@ authorSlug: "tim-van-der-lee"
 tags: ["google bedrijfsprofiel", "makelaar", "lokale vindbaarheid"]
 cluster: "vindbaarheid"
 ---
-
 ## Waarom Google Bedrijfsprofiel essentieel is voor makelaars
 
 Wanneer iemand zoekt naar "makelaar Amsterdam" of "huis verkopen Utrecht", toont Google als eerste het Local Pack — de drie lokale bedrijven die het meest relevant zijn. Daar wil jij staan.
@@ -49,7 +48,7 @@ Google beloont profielen die regelmatig worden bijgewerkt. Foto's zijn de kracht
 
 ## Reviews verzamelen en benutten
 
-Reviews zijn de nummer-een factor voor lokale vindbaarheid op Google. Meer reviews = hogere ranking = meer zichtbaarheid.
+Reviews zijn de nummer-een factor voor lokale [vindbaarheid](/seo) op Google. Meer reviews = hogere ranking = meer zichtbaarheid.
 
 **Vraag na elke geslaagde transactie**. Sleuteloverdracht is het perfecte moment: "Zou u een review willen achterlaten op Google? Het helpt ons enorm." Stuur een directe link per mail of WhatsApp.
 

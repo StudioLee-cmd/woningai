@@ -76,6 +76,8 @@ Ja, mits goed ingesteld. Een [AI-chatbot](/chatbot) kan 24/7 vragen beantwoorden
 
 Door waarde mee te sturen in elke opvolgstap. Informatie over de woning, de buurt of het aankoopproces — geen lege "heeft u al besloten?" berichten.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/waardebepaling-aanvragen-verkoopopdrachten-makelaar" class="text-dark fw-semibold">Waardebepaling-aanvragen omzetten in verkoopopdrachten</a> →</p></div></div></div>
+
 ## Conclusie
 
 In de vastgoedmarkt wint de makelaar die het snelst, het persoonlijkst en het meest informatief opvolgt. Automatisering maakt het schaalbaar zonder het persoonlijke te verliezen. Meer bezichtigingen, meer biedingen, meer verkopen.

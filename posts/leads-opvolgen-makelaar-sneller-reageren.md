@@ -52,6 +52,8 @@ Het eerste contact is pas het begin. Plan een opvolgmoment:
 
 Drie contactmomenten. Daarna stop je. Professioneel, niet opdringerig.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/nazorg-makelaar-na-de-verkoop" class="text-dark fw-semibold">Nazorg als makelaar: waarom het contact na de verkoop telt</a> →</p></div></div></div>
+
 ## Snelheid is je goedkoopste groeisstrategie
 
 Je hoeft niet meer te adverteren. Je hoeft alleen sneller te reageren dan je concurrenten. Dat is gratis en het levert direct meer opdrachten op.

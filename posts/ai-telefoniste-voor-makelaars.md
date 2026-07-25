@@ -8,14 +8,15 @@ image: "/images/blog/ai-telefoniste-voor-makelaars.png"
 tags: ["Voice AI", "Bereikbaarheid", "Focus"]
 cluster: "voice-ai"
 ---
-
 Niets is zo vervelend als een trillende telefoon in je zak terwijl je een emotioneel gesprek voert met een verkoper of een rondleiding geeft aan kopers. Je moet bereikbaar zijn, maar je wilt ook 100% aandacht geven aan de mensen voor je.
 
 Wat doet een beller die geen gehoor krijgt? Die belt de volgende makelaar op Funda. In een markt waar snelheid alles is, is een gemiste oproep een gemiste kans op een bezichtiging of zelfs een verkoopopdracht.
 
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/ai-telefonist-makelaar-gesprekken-afhandelen" class="text-dark fw-semibold">Wat kan een AI-telefonist voor een makelaar afhandelen?</a> →</p></div></div></div>
+
 ## Je Digitale Binnendienst
 
-Onze Voice AI ("Woning AI") is geen domme voicemail. Het is een slimme assistent die klinkt als een mens. Ze kan:
+Onze [Voice AI](/voice-ai) ("Woning AI") is geen domme voicemail. Het is een slimme assistent die klinkt als een mens. Ze kan:
 - **Bezichtigingen Inplannen:** Gekoppeld aan jouw agenda, zodat ze direct een tijdstip kan voorstellen aan de beller.
 - **Vragen over Panden Beantwoorden:** Is er een vliering? Wanneer is de oplevering? De AI heeft de brochure-info bij de hand.
 - **Leads Kwalificeren:** Heeft de beller een eigen woning te verkopen? Hebben ze een hypotheekcheck gedaan? De AI stelt de juiste vragen.

@@ -9,7 +9,7 @@ tags: ["Response-tijd", "Bezichtigingen", "Leads"]
 cluster: "voice-ai"
 ---
 
-Funda's eigen usage-data bevestigt wat makelaars empirisch al jaren weten: 62 procent van alle bezichtigingsverzoeken op een Funda-listing komen tussen 19:00 en 23:30. Mensen scrollen Funda na werk, na kinderen naar bed, bij ontspannen. Ze zien een woning, schieten interesse, sturen een bezichtigingsverzoek. En dan gaan ze ofwel naar de volgende woning of ze wachten af. Het makelaarskantoor dat binnen een uur reageert zit in de shortlist. Het kantoor dat tot maandagochtend wacht — 12 tot 60 uur later — is buitenspel. In diezelfde 60 uur hebben andere kantoren al bezichtigingen gepland, en de potentiële koper heeft zich al aan een andere makelaar gebonden.
+Wat makelaars empirisch al jaren weten: het leeuwendeel van alle bezichtigingsverzoeken op een Funda-listing komt 's avonds binnen, tussen 19:00 en 23:30. Mensen scrollen Funda na werk, na kinderen naar bed, bij ontspannen. Ze zien een woning, schieten interesse, sturen een bezichtigingsverzoek. En dan gaan ze ofwel naar de volgende woning of ze wachten af. Het makelaarskantoor dat binnen een uur reageert zit in de shortlist. Het kantoor dat tot maandagochtend wacht — 12 tot 60 uur later — is buitenspel. In diezelfde 60 uur hebben andere kantoren al bezichtigingen gepland, en de potentiële koper heeft zich al aan een andere makelaar gebonden.
 
 Dit artikel legt uit waarom avond-respons zo doorslaggevend is, welke response-tijd-doel realistisch is (spoiler: 60 minuten, niet 5), en welke systemen nodig zijn om dat structureel te halen ondanks dat je team na 17:30 offline is.
 
@@ -27,7 +27,7 @@ Er zijn drie structurele redenen waarom avond-respons zoveel bepaalt bij makelaa
 
 In de literatuur over response-tijd wordt vaak de 5-minutenregel geciteerd (MIT 2007 onderzoek). Voor makelaars is 5 minuten echter niet realistisch — een persoonlijke menselijke reactie op een bezichtigingsverzoek kan niet binnen 5 minuten, daarvoor moet er agenda-context gecheckt worden.
 
-Het realistische en effectieve doel is 60 minuten. Onderzoek door HomeAway en Zillow (VS-markt, maar vergelijkbaar qua beslisgedrag) laat zien dat leads die binnen een uur een bevestigingscontact krijgen, 2,5 keer vaker converteren naar daadwerkelijke bezichtiging dan leads die 24 uur wachten. Na 24 uur daalt conversie met nog eens 35 procent per volgende dag.
+Het realistische en effectieve doel is 60 minuten. Leads die binnen een uur een bevestigingscontact krijgen, converteren merkbaar vaker naar een daadwerkelijke bezichtiging dan leads die 24 uur wachten. Daarna daalt de conversie met elke volgende dag verder.
 
 Concreet: als je altijd binnen een uur een eerste bevestiging stuurt, ook om 22:30 op een zondagavond, heb je een structureel concurrentievoordeel.
 
@@ -61,12 +61,12 @@ Meerdere makelaars in één kantoor hebben eigen specialismen en werkgebieden. D
 Makelaarskantoren die dit drieluik hebben geïnstalleerd rapporteren na drie maanden:
 
 - **Gemiddelde response-tijd op bezichtigingsverzoeken** daalt van 12 tot 28 uur naar consistent onder de 60 minuten
-- **Conversie van verzoek naar bezichtiging** stijgt van 35 procent naar 55 tot 70 procent
-- **Aantal bezichtigingen per makelaar per week** stijgt met 25 tot 40 procent zonder extra leads
+- **Conversie van verzoek naar bezichtiging** stijgt fors
+- **Aantal bezichtigingen per makelaar per week** stijgt merkbaar zonder extra leads
 - **Gewonnen verkoopopdrachten** (voor verkopers) stijgt vanwege snellere-responsreputatie
 - **Tijdwinst voor administratieve medewerker** — geen handmatige tellingen en bevestigingsmailtjes meer
 
-In euro's: een makelaar met gemiddeld 5 euro verkoop per jaar (bij gemiddelde commissie van 6.500 euro per pand) ziet in het eerste jaar typisch 15 tot 20 procent meer verkoopopdrachten binnen, oftewel 48.000 tot 65.000 euro extra omzet. Investering: 200 tot 500 euro per maand aan chatbot + telefonist, 3.000 tot 6.000 setup. Terugverdientijd minder dan een pand.
+In euro's, als rekenvoorbeeld: een makelaar met gemiddeld 5 verkopen per jaar (bij een gemiddelde commissie van 6.500 euro per pand) ziet in het eerste jaar merkbaar meer verkoopopdrachten binnenkomen. Investering: 200 tot 500 euro per maand aan chatbot + telefonist, 3.000 tot 6.000 setup. Terugverdientijd minder dan een pand.
 
 ## Valkuilen
 

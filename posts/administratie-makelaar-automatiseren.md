@@ -8,7 +8,7 @@ authorSlug: "tim-van-der-lee"
 image: "/images/blog/administratie-makelaar-automatiseren.jpg"
 tags: ["Administratie", "Makelaar", "Automatisering"]
 ---
-## 40% van je tijd gaat op aan papierwerk
+## Een groot deel van je tijd gaat op aan papierwerk
 
 Als makelaar is je dag gevuld met bezichtigingen, acquisitiegesprekken en onderhandelingen. Maar tussendoor: contracten opmaken, taxatierapporten verwerken, NVM-registraties bijwerken, facturen versturen, dossiers ordenen.
 

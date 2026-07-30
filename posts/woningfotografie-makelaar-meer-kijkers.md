@@ -11,7 +11,7 @@ tags: ["Fotografie", "Woningen", "Funda"]
 
 Op Funda bepaalt de hoofdfoto of een woningzoeker doorklikt of doorscrolt. Die ene foto is het verschil tussen tien bezichtigingen en nul. Toch plaatsen veel makelaars nog steeds donkere, scheve foto's die met een telefoon zijn gemaakt vanuit de verkeerde hoek.
 
-Professionele woningfotografie is geen luxe meer. Het is een basisvereiste. Makelaars die investeren in goede foto's verkopen woningen sneller en voor een hogere prijs. Onderzoek laat zien dat woningen met professionele foto's 32 procent sneller verkocht worden.
+Professionele woningfotografie is geen luxe meer. Het is een basisvereiste. Makelaars die investeren in goede foto's verkopen woningen sneller en voor een hogere prijs.
 
 ## Welke foto's werken het best
 

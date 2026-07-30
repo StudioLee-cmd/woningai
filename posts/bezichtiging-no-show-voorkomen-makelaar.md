@@ -11,7 +11,7 @@ tags: ["No-shows", "Bezichtigingen", "Groei"]
 
 Je hebt de woning netjes klaargemaakt, de verlichting staat aan, het ruikt naar verse koffie. De bezichtiging staat gepland om 14:00. Om 14:15 is er nog niemand. Om 14:30 weet je het zeker: ze komen niet. Weer een no-show.
 
-Dit overkomt makelaars en woningprofessionals wekelijks. Gemiddeld verschijnt 15 tot 25 procent van de ingeplande bezichtigingen niet. Dat zijn uren voorbereiding, reistijd en gemiste kansen die je niet terugkrijgt. En elke no-show is een woning die een dag langer op de markt staat.
+Dit overkomt makelaars en woningprofessionals wekelijks. Een flink deel van de ingeplande bezichtigingen komt simpelweg niet opdagen. Dat zijn uren voorbereiding, reistijd en gemiste kansen die je niet terugkrijgt. En elke no-show is een woning die een dag langer op de markt staat.
 
 ## Waarom kopers niet komen opdagen
 
@@ -26,7 +26,7 @@ Op de eerste twee redenen heb je weinig invloed. Op de laatste twee wel.
 
 ## Stuur een herinnering 24 uur en 2 uur van tevoren
 
-De simpelste maatregel met het grootste effect: herinner kopers aan de bezichtiging. Een WhatsApp-bericht 24 uur van tevoren met datum, tijd en adres verlaagt het no-show percentage met 30 tot 40 procent.
+De simpelste maatregel met het grootste effect: herinner kopers aan de bezichtiging. Een WhatsApp-bericht 24 uur van tevoren met datum, tijd en adres verlaagt het no-show percentage fors.
 
 Voeg een tweede herinnering toe, 2 uur voor de bezichtiging: "Nog even ter herinnering: om 14:00 staat de bezichtiging op [adres] gepland. Tot zo!" Dit vangt de vergeetachtigen op en geeft twijfelaars de kans om alsnog af te zeggen zodat je de plek aan iemand anders kunt geven.
 

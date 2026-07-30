@@ -10,7 +10,7 @@ tags: ["No-shows", "Bezichtigingen", "Groei"]
 ---
 ## Twee aanpakken, verschillende no-show percentages
 
-Bij individuele bezichtigingen verschijnt gemiddeld 20 tot 25 procent van de aanmeldingen niet. Bij open huizen is dat 30 tot 40 procent. Maar bij een open huis doet dat minder pijn: als 8 van de 12 aanmeldingen komen, heb je nog steeds een volle sessie. Bij individuele bezichtigingen kost elke no-show je een half uur tot een uur dat je niet terugkrijgt.
+Bij individuele bezichtigingen verschijnt een deel van de aanmeldingen niet. Bij open huizen ligt dat aandeel nog hoger. Maar bij een open huis doet dat minder pijn: als 8 van de 12 aanmeldingen komen, heb je nog steeds een volle sessie. Bij individuele bezichtigingen kost elke no-show je een half uur tot een uur dat je niet terugkrijgt.
 
 De keuze tussen beide hangt af van het type woning, de markt en je eigen voorkeur. Laten we de voor- en nadelen uitwerken.
 

@@ -21,7 +21,7 @@ De woningmarkt beweegt snel. Kopers en huurders verwachten direct respons, profe
 
 Een sterke woningomschrijving trekt meer kijkers. AI schrijft omschrijvingen die de juiste emotie aanspreken — warm voor gezinswoningen, zakelijk voor appartementen — en tegelijkertijd vindbaar zijn via Google.
 
-Makelaars die AI-gegenereerde omschrijvingen inzetten, rapporteren 25% meer klikken op hun woningadvertenties.
+Makelaars die AI-gegenereerde omschrijvingen inzetten, rapporteren meer klikken op hun woningadvertenties.
 
 ## Snellere opvolging van leads
 

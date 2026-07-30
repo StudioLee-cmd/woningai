@@ -9,7 +9,7 @@ tags: ["Concurrentieanalyse", "Marktonderzoek", "Strategie"]
 cluster: "branding"
 ---
 
-Een makelaar in Tilburg ontdekte dat hij standaard 1,3 procent courtage rekende, terwijl de drie grootste lokale concurrenten tussen 1,1 en 1,55 procent zaten. Hij verloor opdrachten aan de goedkoopste bij prijsgevoelige klanten en miste premium-opdrachten omdat zijn aanbod onvoldoende onderscheidend leek voor de hogere markt. Aanleiding voor het inzicht: 30 minuten gerichte concurrentieanalyse. De fix: een twee-tarieven model (basis 1,2 procent, premium 1,5 procent met fotograaf en home-staging) leverde binnen drie maanden 4 extra opdrachten in het premium-segment op.
+Een makelaar in Tilburg ontdekte dat hij standaard onder het lokale markttarief zat, terwijl de drie grootste lokale concurrenten er duidelijk boven kwamen. Hij verloor opdrachten aan de goedkoopste bij prijsgevoelige klanten en miste premium-opdrachten omdat zijn aanbod onvoldoende onderscheidend leek voor de hogere markt. Aanleiding voor het inzicht: 30 minuten gerichte concurrentieanalyse. De fix: een twee-tarieven model (een basistarief en een premium-tarief met fotograaf en home-staging) leverde binnen drie maanden 4 extra opdrachten in het premium-segment op.
 
 De meeste Nederlandse makelaars benchmarken zelden bewust tegen de lokale concurrentie. Het voelt risicovol om "goedkoper te zijn" of "duurder te lijken" zonder data. Dit artikel geeft je een 30-minuten methode met 6 concrete datapunten die je positionering, je courtage-model en je marketing in één klap scherper maken.
 
@@ -69,7 +69,7 @@ Verdeel je 30 minuten als volgt:
 
 De analyse-tabel zelf is niet waardevol; de beslissingen die je eruit trekt wel. Vier typische uitkomsten en de juiste reactie:
 
-- **Je courtage is significant lager dan markt.** Verhoog je courtage in stappen van 0,1-0,2 procent over 6 maanden. Combineer met een propositie-upgrade (premium fotografie, virtuele tour, of home-staging-optie). Voor de bredere prijs-context lees hoe makelaars hun courtage uitleggen aan klanten zonder discussie.
+- **Je courtage is significant lager dan markt.** Verhoog je courtage in kleine stappen over 6 maanden. Combineer met een propositie-upgrade (premium fotografie, virtuele tour, of home-staging-optie). Voor de bredere prijs-context lees hoe makelaars hun courtage uitleggen aan klanten zonder discussie.
 - **Je woningfotografie is dun vergeleken met top-3.** Investeer in betere fotografie of een professionele woningfotograaf. Lees ook [woningfotografie als makelaar: 6 keuzes](/blog/woningfotografie-makelaar-6-keuzes).
 - **Je hebt geen duidelijke USP.** Kies één onderscheidende factor (bijvoorbeeld "100 procent virtuele tours bij elke listing" of "verkoopgarantie binnen 90 dagen"). Communiceer dit op homepage, in elk gesprek met verkopers, en in je marketing.
 - **Concurrenten bieden service die jij niet hebt.** Aankoopbegeleiding, bedrijfsmakelaardij of internationale begeleiding zijn vaak goede uitbreidingen. Overweeg op basis van regio en doelgroep.
@@ -87,7 +87,7 @@ Voor de bredere context over je lokale positionering lees ook [lokale SEO voor m
 
 ## De 5 fouten die je kunt voorkomen
 
-1. **Alleen op courtage letten.** Courtage is één van zes datapunten. Een concurrent met 0,2 procent hogere courtage maar 50 procent meer reviews wint vaak meer opdrachten dan jij.
+1. **Alleen op courtage letten.** Courtage is één van zes datapunten. Een concurrent met een iets hogere courtage maar veel meer reviews wint vaak meer opdrachten dan jij.
 2. **Te brede selectie.** Maak je geen drukke met heel andere segmenten. Een €1M+ specialist vergelijkt zich niet met een tussenwoning-makelaar.
 3. **Eenmalig doen en nooit meer.** De makelaarsmarkt verschuift met de woningmarkt; jaarlijks updaten is minimum.
 4. **Geen schriftelijk vastleggen.** "In je hoofd" is binnen 4 weken vergeten. Bewaar in CRM of Google Drive.
@@ -109,7 +109,7 @@ Wil je weten waar jouw website nu staat ten opzichte van top-3 makelaars in jouw
 
 ### Wat is een normale courtage in Nederland in 2026?
 
-Tussen 0,9 en 1,8 procent van de transactie-waarde, plus eventuele vaste kosten voor fotografie en marketing. Premium-segmenten zitten gemiddeld hoger, budget-segmenten lager. Regionale verschillen zijn beperkt.
+Een percentage van de transactie-waarde, plus eventuele vaste kosten voor fotografie en marketing. Premium-segmenten zitten gemiddeld hoger, budget-segmenten lager. Regionale verschillen zijn beperkt.
 
 ### Hoeveel concurrenten moet ik analyseren?
 

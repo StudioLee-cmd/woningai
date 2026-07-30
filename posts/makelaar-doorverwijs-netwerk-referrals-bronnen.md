@@ -28,7 +28,7 @@ De grootste bron die makelaars onderbenutten zijn hun eigen recente klanten. Nie
 - 60 dagen na sleuteloverdracht: persoonlijk belletje of korte video-boodschap: "Hoi [naam], wilde even checken hoe het nu is. En als er in je netwerk iemand speelt met verkoopplannen, hoor ik het graag."
 - 90 dagen: laatste nudge met een concreet doorverwijs-aanbod (bijvoorbeeld een gratis waarde-indicatie voor een vriend)
 
-**Wat dit oplevert:** 1 op de 8 recente klanten levert binnen 90 dagen actief een referral op als je deze flow draait. Voor een makelaar met 60 transacties per jaar zijn dat 7-8 extra leads per jaar met zeer hoge kwaliteit (conversie-ratio van referral-lead naar nieuwe opdracht ligt op 55-70 procent tegenover 12-18 procent voor koude leads).
+**Wat dit oplevert:** een deel van je recente klanten levert binnen 90 dagen actief een referral op als je deze flow draait. Voor een makelaar met 60 transacties per jaar zijn dat 7-8 extra leads per jaar met zeer hoge kwaliteit (referral-leads converteren fors beter naar een nieuwe opdracht dan koude leads).
 
 Een [automatische review-flow](/reviews) combineert hier met de referral-vraag: eerst de Google-review, dan het doorverwijs-moment, in twee berichten.
 
@@ -43,7 +43,7 @@ Notarissen zien elke kopende of verkopende klant. Hypotheekadviseurs zien elke p
 
 **Operationele discipline:** doorverwijzingen moeten altijd twee-richtingen werken. Als jij 5 klanten per jaar stuurt en de notaris geen enkel, blijft dat partnership niet bestaan. Houd per partner een maandrapportage bij: wie verwees wie, welke klus kwam eruit, welke feedback kwam er.
 
-**Wat dit oplevert:** goed werkende partnerships (mutual), 3-5 leads per partner per jaar. Met 4 partners is dat 12-20 leads per jaar. Conversie naar verkoopopdracht: 40-55 procent (nog steeds veel hoger dan koud omdat de klant al vertrouwen heeft).
+**Wat dit oplevert:** goed werkende partnerships (mutual), 3-5 leads per partner per jaar. Met 4 partners is dat 12-20 leads per jaar. De conversie naar verkoopopdracht ligt een stuk hoger dan bij koud, omdat de klant al vertrouwen heeft.
 
 ## Bron 3: verhuizers, schilders en klusbedrijven
 
@@ -56,7 +56,7 @@ Mensen die plannen om te verkopen, bestellen eerst praktische diensten: schilder
 
 **Slimme toevoeging:** stuur elke partner per kwartaal een kleine gift (bloemetje, taart voor het team) met een handgeschreven kaartje. Kost weinig, versterkt het partnership enorm. Partner-loyaliteit is niet commercieel te kopen, wel sympathiek.
 
-**Wat dit oplevert:** 8-15 referrals per jaar uit deze combinatie. Voor een makelaar met 60 transacties per jaar is dit 13-25 procent van de nieuwe opdrachten alleen uit dit kanaal.
+**Wat dit oplevert:** 8-15 referrals per jaar uit deze combinatie. Voor een makelaar met 60 transacties per jaar is dit een aanzienlijk deel van de nieuwe opdrachten alleen uit dit kanaal.
 
 ![Makelaar sleutelbos, huis-foto en smartphone op houten tafel met witte bloemen](/images/blog/makelaar-doorverwijs-netwerk-referrals-bronnen-2.jpg)
 
@@ -69,7 +69,7 @@ Grote werkgevers (50+ werknemers) hebben vaak een relocatie-programma voor nieuw
 - Benader HR-afdelingen met een concreet voorstel: "Wij zijn de preferred makelaar voor jullie relocatie-programma. We bieden gratis oriëntatietour, woningvoorstellen op basis van jullie specifieke woonwensen, en snelle transactie-tijden."
 - Voor expats (veel tech- en farma-bedrijven hebben dit), bied Engels-sprekende makelaarservice aan
 
-**Wat dit oplevert:** één actieve werkgever-partnership levert 3-8 transacties per jaar op, vaak bij hogere courtages (expats en relocaties hebben complexere zoekprocessen = meer service = hogere fees). Twee actieve partnerships = 10-20 procent van je jaarportefeuille.
+**Wat dit oplevert:** één actieve werkgever-partnership levert 3-8 transacties per jaar op, vaak bij hogere courtages (expats en relocaties hebben complexere zoekprocessen = meer service = hogere fees). Twee actieve partnerships dekken al een merkbaar deel van je jaarportefeuille.
 
 ## Bron 5: interieur-stylisten en architecten
 

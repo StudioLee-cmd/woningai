@@ -13,7 +13,7 @@ cluster: "automatisering"
 
 Een potentiële koper stuurt een bericht via Funda: "Ik wil graag een bezichtiging plannen." Het is donderdag 20:00. Je bent bij een bezichtiging. Je ziet het bericht vrijdagochtend, maar dan heb je drie taxaties. Tegen de tijd dat je reageert, is het vrijdagmiddag — en de koper heeft al een bezichtiging gepland bij je concurrent.
 
-Onderzoek in de vastgoedsector laat zien: de makelaar die binnen 30 minuten reageert op een lead, heeft 7x meer kans om die klant te winnen dan iemand die na een uur reageert.
+De makelaar die binnen 30 minuten reageert op een lead, heeft een veel grotere kans om die klant te winnen dan iemand die pas na een uur reageert.
 
 ## Waarom snelheid alles is in vastgoed
 
@@ -70,7 +70,7 @@ Niet elke lead is klaar om vandaag te kopen. Zet niet-actieve leads op een autom
 
 Bij een gemiddelde courtage van €5.000-8.000 per verkoop:
 
-| Leads/maand | Zonder opvolgsysteem (15% conversie) | Met automatisering (30% conversie) |
+| Leads/maand | Zonder opvolgsysteem (uitgaande van 15% conversie) | Met automatisering (uitgaande van 30% conversie) |
 |------------|-------------------------------------|-------------------------------------|
 | 20 | 3 verkopen = €15.000-24.000 | 6 verkopen = €30.000-48.000 |
 | 40 | 6 verkopen = €30.000-48.000 | 12 verkopen = €60.000-96.000 |

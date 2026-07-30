@@ -15,7 +15,7 @@ Een makelaar met 80 reviews en een 4,7 score wint van een concurrent met 5 revie
 
 De makelaarsbranche is competitief. In de meeste regio's zijn tientallen makelaars actief die vergelijkbare diensten aanbieden tegen vergelijkbare tarieven. Wat het verschil maakt? Vertrouwen. En vertrouwen bouw je op met bewijs — in de vorm van reviews van eerdere verkopers.
 
-Uit onderzoek blijkt dat 84 procent van de mensen online reviews evenveel vertrouwt als persoonlijke aanbevelingen. Dat betekent dat een sterke Google Reviews-pagina dezelfde kracht heeft als tientallen mond-tot-mondreclame-aanbevelingen. Maar dan schaalbaar en permanent zichtbaar.
+Mensen vertrouwen online reviews vrijwel net zo sterk als persoonlijke aanbevelingen. Dat betekent dat een sterke Google Reviews-pagina dezelfde kracht heeft als tientallen mond-tot-mondreclame-aanbevelingen. Maar dan schaalbaar en permanent zichtbaar.
 
 Vergeet niet dat ook kopers reviews lezen. Kopers die een aankoopmakelaar zoeken, checken net zo goed Google. Een sterke online reputatie werkt dus twee kanten op — verkopers én kopers.
 
@@ -58,7 +58,7 @@ Reviews doen meer dan vertrouwen opbouwen. Ze verbeteren ook je vindbaarheid:
 - Meer reviews = hogere positie in Google Maps
 - Sterren verschijnen in zoekresultaten en verhogen je klikratio
 
-Een makelaar met sterren in de zoekresultaten trekt tot 35 procent meer kliks dan een concurrent zonder sterren. Dat is gratis extra zichtbaarheid die je concurrent niet heeft.
+Een makelaar met sterren in de zoekresultaten trekt merkbaar meer kliks dan een concurrent zonder sterren. Dat is gratis extra zichtbaarheid die je concurrent niet heeft.
 
 Reviews met lokale zoekwoorden zijn extra waardevol. Als een klant schrijft "Onze makelaar in Haarlem-Noord heeft ons huis binnen 3 weken verkocht," dan bevat die review precies de termen waarmee potentiële klanten zoeken. Dit helpt je organisch ranken voor "makelaar Haarlem-Noord" zonder dat je er zelf iets voor hoeft te doen.
 
@@ -83,7 +83,7 @@ Google ziet ook dat je reageert. Actieve interactie met je reviews is een signaa
 
 ## Een review-strategie die zichzelf draait
 
-Met automatisering en de juiste timing bouw je een constante stroom reviews op. Bij 3 transacties per maand en een conversie van 40 procent heb je binnen een jaar 15+ nieuwe reviews. Dat is het verschil tussen pagina 2 en de top 3 op Google.
+Met automatisering en de juiste timing bouw je een constante stroom reviews op. Bij 3 transacties per maand en een redelijke respons heb je binnen een jaar 15+ nieuwe reviews. Dat is het verschil tussen pagina 2 en de top 3 op Google.
 
 Stel een doel: 2 reviews per maand. Houd bij hoeveel transacties je afrondt, hoeveel review-verzoeken je stuurt, en hoeveel daarvan converteren. Als je conversie achterblijft, experimenteer dan met andere berichten of een ander moment in de flow.
 

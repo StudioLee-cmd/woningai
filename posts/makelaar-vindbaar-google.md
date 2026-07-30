@@ -49,8 +49,8 @@ Elk artikel trekt zoekverkeer van mensen die actief met vastgoed bezig zijn.
 
 Drie snelle verbeteringen die direct impact hebben:
 
-1. **Mobielvriendelijk**: 65 procent van de woningzoekers zoekt op mobiel. Test je website met Google PageSpeed Insights
-2. **Snelheid**: een website die langer dan 3 seconden laadt verliest 40 procent van de bezoekers
+1. **Mobielvriendelijk**: verreweg de meeste woningzoekers zoeken op mobiel. Test je website met Google PageSpeed Insights
+2. **Snelheid**: een website die langer dan 3 seconden laadt verliest een groot deel van de bezoekers
 3. **SSL-certificaat**: je website moet op HTTPS draaien, niet op HTTP
 
 ## Google Search Console

@@ -11,7 +11,7 @@ tags: ["Leads", "Snelheid", "Groei"]
 
 Een verkoper plaatst een aanvraag op Funda of je website. Binnen vijf minuten heeft diegene drie makelaars gebeld. De eerste die opneemt of terugbelt krijgt de bezichtiging. Niet de beste website, niet de laagste courtage, maar de snelste reactie.
 
-Onderzoek bevestigt het: 78 procent van de klanten kiest de professional die het eerst reageert. Bij vastgoed is dat percentage nog hoger, want de urgentie is groter. Een woning verkopen of kopen is een grote beslissing waar mensen niet op willen wachten.
+De praktijk bevestigt het: de meeste klanten kiezen de professional die het eerst reageert. Bij vastgoed is dat effect nog sterker, want de urgentie is groter. Een woning verkopen of kopen is een grote beslissing waar mensen niet op willen wachten.
 
 ## Wat is snel genoeg?
 

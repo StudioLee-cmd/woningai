@@ -68,7 +68,7 @@ Het belangrijkste doel van een open huis is leads verzamelen:
 
 ## Nazorg: de dag erna
 
-Dit is waar het echte geld zit. 80% van de makelaars doet geen nazorg na een open huis.
+Dit is waar het echte geld zit. De meeste makelaars doen geen nazorg na een open huis.
 
 ### Binnen 24 uur
 

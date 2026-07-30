@@ -26,7 +26,7 @@ De meeste makelaars stoppen na twee contactpogingen. Een effectief systeem werkt
 
 **Week 1: twee directe contactpogingen.** Bel dezelfde dag dat de aanvraag binnenkomt en de volgende ochtend. Stuur bij geen gehoor een WhatsApp met een korte introductie.
 
-**Week 2: waardevol bericht.** Stuur een bericht met een relevant marktupdate: "De gemiddelde verkoopprijs in [wijk] is de afgelopen maand met 3 procent gestegen. Goed moment om je opties te bekijken." Geen verkooppraatje, gewoon waardevolle informatie.
+**Week 2: waardevol bericht.** Stuur een bericht met een relevant marktupdate: "De gemiddelde verkoopprijs in [wijk] is de afgelopen maand met [X] procent gestegen. Goed moment om je opties te bekijken." Geen verkooppraatje, gewoon waardevolle informatie.
 
 **Maand 1: persoonlijke check-in.** Een kort bericht: "Hoi [naam], ik dacht aan je. Zijn jullie al verder met de plannen om te verkopen? Ik denk graag mee, vrijblijvend." Kort, menselijk, zonder druk.
 
@@ -46,7 +46,7 @@ Een [AI telefonist](/voice-ai) kan de eerste terugbelpoging doen wanneer je op e
 
 ## Wat het oplevert
 
-De meeste makelaars converteren 10 tot 15 procent van hun warme leads. Koude leads, die zijn opgegeven, converteren bij effectieve opvolging alsnog 5 tot 8 procent. Bij twintig koude leads per maand zijn dat een tot twee extra verkopen per maand die anders verloren waren gegaan.
+Warme leads converteren bij de meeste makelaars een stuk beter dan koude. Maar koude leads, die zijn opgegeven, converteren bij effectieve opvolging alsnog. Bij twintig koude leads per maand zijn dat al snel een tot twee extra verkopen per maand die anders verloren waren gegaan.
 
 Bij een gemiddelde courtage van 4.000 tot 8.000 euro per verkoop is dat 4.000 tot 16.000 euro per maand aan omzet die je nu laat liggen. De investering in een opvolgsysteem staat in geen verhouding tot die opbrengst.
 

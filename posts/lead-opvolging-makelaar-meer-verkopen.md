@@ -17,7 +17,7 @@ In die tijd heeft de koper een andere woning bezichtigd en de verkoper een ander
 
 ## De gouden 5 minuten na een aanvraag
 
-Onderzoek toont aan dat de kans op conversie met 80 procent daalt als je langer dan 5 minuten wacht met reageren. Bij vastgoedleads is dit effect nog sterker: kopers zijn emotioneel betrokken en willen direct handelen.
+De kans op conversie daalt sterk als je langer dan 5 minuten wacht met reageren. Bij vastgoedleads is dit effect nog sterker: kopers zijn emotioneel betrokken en willen direct handelen.
 
 Dit betekent niet dat je om 22:00 moet bellen. Een automatische reactie volstaat:
 
@@ -49,7 +49,7 @@ Niet elke bezichtiging leidt direct tot een bod. Maar een koper die vandaag niet
 Effectieve warm-houd strategieën:
 
 - **Maandelijkse update**: nieuwe woningen die passen bij hun zoekcriteria
-- **Marktupdate**: "De gemiddelde prijs in [buurt] is met 3 procent gedaald — interessant voor jou?"
+- **Marktupdate**: "De gemiddelde prijs in [buurt] is met [X] procent gedaald — interessant voor jou?"
 - **Persoonlijk bericht bij een nieuw aanbod**: "Dit huis komt morgen online, maar ik dacht meteen aan jou"
 
 Dit is geen spam — het is service. Een koper die zich persoonlijk geholpen voelt, koopt via jou.
@@ -73,6 +73,6 @@ Snelheid en professionaliteit winnen mandaten. Prijs komt op de tweede plaats.
 
 Betere [lead opvolging](/blog/makelaar-leads-opvolgen-kijkdag-bod) levert direct meer mandaten op. Je investeert al in Funda-plaatsingen, een website en misschien Google Ads. Die leads zijn er — je zet ze alleen niet allemaal om.
 
-Door je reactietijd te halveren en [automatische opvolging](/automatisering) in te zetten, kun je 20 tot 30 procent meer verkoper-leads omzetten in mandaten. Dat zijn extra verkopen per kwartaal zonder extra marketingkosten.
+Door je reactietijd te halveren en [automatische opvolging](/automatisering) in te zetten, zet je merkbaar meer verkoper-leads om in mandaten. Dat zijn extra verkopen per kwartaal zonder extra marketingkosten.
 
 Benieuwd hoe je meer leads kunt omzetten in verkopen? Vraag een [gratis AI-scan](/gratis-scan) aan.

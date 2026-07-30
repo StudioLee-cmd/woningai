@@ -25,7 +25,7 @@ Het probleem: dit zijn ook competitieve zoekwoorden. De moeilijkheidsgraad ligt 
 
 Stel je maakt twintig pagina's: "Makelaar Amsterdam", "Makelaar Utrecht", "Makelaar Haarlem", enzovoort. Bij elke pagina vervang je alleen de stadsnaam en laat je de rest hetzelfde. Dit voelt efficiënt, maar het is precies wat Google een doorway page noemt: een pagina die alleen bestaat om te ranken, zonder eigen waarde voor de bezoeker.
 
-Google's algoritme herkent dit moeiteloos. Twintig pagina's met 95% identieke tekst worden gezien als manipulatie. Het resultaat is niet "twintig rankings", maar een site die op alle steden zakt en in het ergste geval een handmatige penalty oploopt. De spintax-trucs en automatische tekstgeneratoren die online worden aangeprezen, leiden vaak recht naar dit probleem.
+Google's algoritme herkent dit moeiteloos. Twintig pagina's met vrijwel identieke tekst worden gezien als manipulatie. Het resultaat is niet "twintig rankings", maar een site die op alle steden zakt en in het ergste geval een handmatige penalty oploopt. De spintax-trucs en automatische tekstgeneratoren die online worden aangeprezen, leiden vaak recht naar dit probleem.
 
 De regel is simpel: een stadspagina moet kunnen bestaan als hij waardevol is, óók als er geen zoekmachine bestond. Lukt dat niet, dan is het een doorway page. En dan is geen enkele [zoekmachine optimalisatie voor makelaars](/seo) sterk genoeg om de schade goed te maken.
 

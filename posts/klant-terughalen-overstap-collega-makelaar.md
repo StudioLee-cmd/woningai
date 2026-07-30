@@ -9,7 +9,7 @@ tags: ["Win-back", "Klantcommunicatie", "Makelaar"]
 cluster: "automatisering"
 ---
 
-Een verkoper die je een half jaar geleden de opdracht gunde, tekent ineens met een collega-kantoor twee straten verderop. Het voelt als een gemiste bus die je voor je ogen ziet vertrekken. En toch. Bij 60 tot 70% van die overstap-verkopers staat dezelfde woning binnen twaalf maanden weer op Funda. Vaak met dezelfde prijs, soms zelfs lager. Dat is jouw bus die terugrijdt, mits je op de juiste halte staat.
+Een verkoper die je een half jaar geleden de opdracht gunde, tekent ineens met een collega-kantoor twee straten verderop. Het voelt als een gemiste bus die je voor je ogen ziet vertrekken. En toch. Bij een groot deel van die overstap-verkopers staat dezelfde woning binnen twaalf maanden weer op Funda. Vaak met dezelfde prijs, soms zelfs lager. Dat is jouw bus die terugrijdt, mits je op de juiste halte staat.
 
 Win-back voor makelaars is geen smeekbede en geen kortingsstunt. Het is een systeem dat je opzet voor de listings die voorbij gaan, zodat je er klaar voor staat op het moment dat de eerste keuze niet uitpakte. Vier stappen, een paar slimme tools, en een houding die zegt "geen verwijt, geen drama, ik ben er voor de tweede ronde". Hieronder hoe je het bouwt zonder dat het uren per week kost.
 
@@ -49,7 +49,7 @@ Bouw je win-back pitch rond drie bewijzen die de eerste makelaar miste:
 
 Een soortgelijk principe van bewijs-eerst gebruik je trouwens al voor verkopers die nog nooit met je gesproken hebben. Zie ook [koude leads opwarmen als makelaar](/blog/koude-leads-opwarmen-makelaar) voor de variant die werkt op niet-eerder-klanten.
 
-Korting hou je achter de hand voor de laatste 5%, niet voor de opening. Een verkoper die kiest op basis van korting, vertrekt later om dezelfde reden.
+Korting hou je achter de hand voor het laatste stukje van de onderhandeling, niet voor de opening. Een verkoper die kiest op basis van korting, vertrekt later om dezelfde reden.
 
 ## Stap 4: Maak terugkeer wrijvingsloos
 
@@ -66,7 +66,7 @@ Op de inkomende kant is bereikbaarheid de tweede kritieke schakel. Als de verkop
 
 ## Wat dit jou oplevert
 
-Een goed lopend win-back systeem levert volgens onze ervaring bij vergelijkbare kantoren tussen 12% en 18% van de verloren listings terug binnen twaalf maanden. Op tien verloren opdrachten zijn dat een of twee herwonnen verkopen, met een gemiddelde courtage die meestal hoger ligt dan een nieuwe lead uit social-media (omdat de verkoper jou al kent en de marge minder bevochten is).
+Een goed lopend win-back systeem levert volgens onze ervaring bij vergelijkbare kantoren een deel van de verloren listings terug binnen twaalf maanden. Op tien verloren opdrachten zijn dat een of twee herwonnen verkopen, met een gemiddelde courtage die meestal hoger ligt dan een nieuwe lead uit social-media (omdat de verkoper jou al kent en de marge minder bevochten is).
 
 De investering is grotendeels eenmalig: een dossierregistratie inrichten, een Funda-monitor-workflow opzetten, een herinneringsritme afspreken. Daarna kost het je een paar minuten per week per dossier. Wat het in totale tijd vraagt, vind je terug in een [gratis ai scan voor makelaars](/gratis-scan) waarin we doorlopen waar in jouw huidige flow de gaten zitten en waar de eerste twee win-back wins waarschijnlijk liggen.
 

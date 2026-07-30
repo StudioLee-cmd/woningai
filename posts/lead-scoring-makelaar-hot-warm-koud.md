@@ -86,7 +86,7 @@ Plan elke maandagochtend 30 minuten voor het lead-overleg. Loop alle WARM-leads 
 - Wat is de volgende actie deze week?
 - Wie pakt het op (jij of een collega)?
 
-Met een team werkt dit beter omdat WARM-leads een verantwoordelijke krijgen. Solo werkt het ook, mits je het echt elke maandag doet. Sla het over en je verliest binnen drie maanden 30 procent van je WARM-leads aan concurrenten die wel actief opvolgden.
+Met een team werkt dit beter omdat WARM-leads een verantwoordelijke krijgen. Solo werkt het ook, mits je het echt elke maandag doet. Sla het over en je verliest binnen drie maanden een fors deel van je WARM-leads aan concurrenten die wel actief opvolgden.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/makelaarssoftware-kiezen-kantoorgrootte" class="text-dark fw-semibold">Welke makelaarssoftware past bij jouw kantoorgrootte?</a> →</p></div></div></div>
 

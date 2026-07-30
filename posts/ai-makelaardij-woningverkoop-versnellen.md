@@ -23,7 +23,7 @@ Lege kamers verkopen slecht. AI-virtual staging lost dit op:
 - Meerdere stijlen mogelijk — modern, klassiek, industrieel — afgestemd op de doelgroep
 - Turnaround: 2-4 uur in plaats van dagen
 
-Onderzoek wijst uit dat virtueel gestylede listings tot 40% meer bezichtigingsaanvragen genereren. De investering verdient zichzelf ruimschoots terug.
+Virtueel gestylede listings genereren merkbaar meer bezichtigingsaanvragen. De investering verdient zichzelf ruimschoots terug.
 
 ### AI-beeldverbetering
 
@@ -100,9 +100,9 @@ De tijdsbesparing is enorm — en de kwaliteit is consistent.
 
 | Investering | Besparing/opbrengst |
 |---|---|
-| Virtual staging (200 euro/maand) | 30-40% meer bezichtigingen |
+| Virtual staging (200 euro/maand) | merkbaar meer bezichtigingen |
 | AI-chatbot (50-100 euro/maand) | Leads 24/7 opvangen |
-| Automatische opvolging | 20% hogere conversie van bezichtiging naar bod |
+| Automatische opvolging | hogere conversie van bezichtiging naar bod |
 | AI-waardebepaling | Beter onderbouwde gesprekken, snellere acquisitie |
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/beste-makelaarstools-2026" class="text-dark fw-semibold">Beste makelaarstools 2026: software voor makelaars vergeleken</a> →</p></div></div></div>

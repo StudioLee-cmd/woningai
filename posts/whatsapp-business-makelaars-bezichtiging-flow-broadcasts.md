@@ -9,7 +9,7 @@ tags: ["SMS-WhatsApp", "Klantcommunicatie", "Bezichtiging"]
 cluster: "automatisering"
 ---
 
-Een woningzoekende krijgt een bezichtiging-bevestiging via e-mail en de e-mail belandt in de spam-map. Hij komt niet opdagen. Een andere woningzoekende krijgt dezelfde bevestiging via WhatsApp, leest het direct, antwoordt binnen 5 minuten, en bevestigt zijn aanwezigheid. Voor makelaars is WhatsApp Business in 2026 niet langer een nice-to-have maar het primaire communicatie-kanaal: 96% open-rate vs 22% voor e-mail, 5-minuten-respons vs 2-3 uur.
+Een woningzoekende krijgt een bezichtiging-bevestiging via e-mail en de e-mail belandt in de spam-map. Hij komt niet opdagen. Een andere woningzoekende krijgt dezelfde bevestiging via WhatsApp, leest het direct, antwoordt binnen 5 minuten, en bevestigt zijn aanwezigheid. Voor makelaars is WhatsApp Business in 2026 niet langer een nice-to-have maar het primaire communicatie-kanaal: een veel hogere open-rate dan e-mail, en respons in minuten in plaats van uren.
 
 Dit artikel laat zien hoe je WhatsApp Business professioneel inzet als makelaar: account-opzet, bezichtiging-flow per bezichtiging, broadcasts naar woningzoekenden, en automatische opvolging na elke bezichtiging.
 
@@ -17,9 +17,9 @@ Dit artikel laat zien hoe je WhatsApp Business professioneel inzet als makelaar:
 
 **Beweging 1: WhatsApp is hét primaire kanaal voor 25-50 jr.** Deze leeftijdsgroep, de hoofdgroep voor woningaankoop, checkt e-mail 1-2x/dag maar WhatsApp 30+ keer. Bevestigingen + reminders moeten daar landen.
 
-**Beweging 2: Open-rate 96% vs 22% e-mail.** Een bevestiging via WhatsApp wordt vrijwel zeker gelezen. Een e-mail bevestiging vaak niet. Voor no-show-vermindering is dat het verschil tussen 8% no-show vs 25%.
+**Beweging 2: open-rate.** Een bevestiging via WhatsApp wordt vrijwel zeker gelezen. Een e-mail bevestiging vaak niet. Voor no-show-vermindering scheelt dat aanzienlijk.
 
-**Beweging 3: Response-snelheid bepaalt deal-uitkomst.** Een woningzoekende die binnen 10 min antwoord krijgt op een aanvraag, heeft 7x meer kans om door te boeken dan iemand die na 4 uur antwoord krijgt.
+**Beweging 3: Response-snelheid bepaalt deal-uitkomst.** Een woningzoekende die binnen 10 min antwoord krijgt op een aanvraag, heeft een veel grotere kans om door te boeken dan iemand die pas na 4 uur antwoord krijgt.
 
 ## WhatsApp Business account-opzet (de basis goed)
 
@@ -95,12 +95,12 @@ Voor de [tarieven van een AI-platform voor makelaars](/tarieven) dat de WhatsApp
 
 | Metric | Zonder WhatsApp | Met WhatsApp Business |
 |---|---|---|
-| Open-rate bevestigingen | 22% (e-mail) | 96% |
-| No-show bezichtigingen | 22-28% | 8-12% |
-| Conversie bezichtiging > bod | 18% | 28% |
+| Open-rate bevestigingen | laag (e-mail) | zeer hoog |
+| No-show bezichtigingen | hoog | duidelijk lager |
+| Conversie bezichtiging > bod | basis | merkbaar hoger |
 | Lead-to-close-tijd (dagen) | 14-21 | 9-14 |
 
-WhatsApp-flow vermindert no-shows met factor 2-3 en versnelt deal-cyclus met 30-40%.
+WhatsApp-flow vermindert no-shows fors en versnelt de deal-cyclus merkbaar.
 
 ## De drie meest gemaakte fouten
 
@@ -115,7 +115,7 @@ Meer dan 1x per week broadcasts → klanten blocken/onsubscriben. Houd het op 1 
 
 ## Conclusie: WhatsApp Business is essentieel infrastructure voor moderne makelaars
 
-WhatsApp Business is in 2026 geen optie maar essentieel voor makelaars die concurrerend willen blijven. De 5-berichten bezichtiging-flow alleen al levert 30-40% lagere no-shows en 50%+ snellere deal-cyclus.
+WhatsApp Business is in 2026 geen optie maar essentieel voor makelaars die concurrerend willen blijven. De 5-berichten bezichtiging-flow alleen al levert fors lagere no-shows en een merkbaar snellere deal-cyclus.
 
 Bij WoningAI bouwen we de WhatsApp-laag direct in onze software, met automatische bezichtiging-flow, broadcast-management en AVG-compliant opt-in. We werken met een **Groei-of-Geld-Terug Garantie**, als je binnen 6 maanden geen vermindering in no-shows ziet door onze WhatsApp-flow, krijg je je investering terug. Plan een [gratis ai scan voor makelaars](/gratis-scan) of bekijk de [tarieven](/tarieven) voor het WhatsApp-Business-pakket.
 

@@ -9,7 +9,7 @@ tags: ["Woningfotografie", "Makelaar Tips", "Verkoop"]
 ---
 ## De eerste indruk begint online
 
-Negen van de tien woningzoekers begint op Funda. En op Funda bepaalt de eerste foto of iemand doorklikt of doorscrollt. Uit onderzoek blijkt dat woningen met professionele foto's gemiddeld 32 procent meer bezichtigingen krijgen dan woningen met amateurbeelden.
+Negen van de tien woningzoekers begint op Funda. En op Funda bepaalt de eerste foto of iemand doorklikt of doorscrollt. Woningen met professionele foto's krijgen merkbaar meer bezichtigingen dan woningen met amateurbeelden.
 
 Toch maken veel makelaars nog foto's met hun telefoon, zonder voorbereiding en zonder nabewerking. Dat is geen onwil, maar een gebrek aan een vast proces. Met de juiste aanpak maak je in 30 minuten foto's die een woning weken sneller verkopen.
 

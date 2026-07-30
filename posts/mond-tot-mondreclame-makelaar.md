@@ -20,7 +20,7 @@ Een doorverwezen verkoper:
 - Is meer bereid exclusief met jou te werken
 - Heeft hogere klanttevredenheid
 
-Doorverwijzingen converteren 3-5x beter dan koude leads. Ze zijn de heilige graal van makelaarsmarketing.
+Doorverwijzingen converteren veel beter dan koude leads. Ze zijn de heilige graal van makelaarsmarketing.
 
 ## Wat verkopers doet doorverwijzen
 

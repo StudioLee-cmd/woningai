@@ -49,7 +49,7 @@ Na het passeren bij de notaris verdwijnen de meeste makelaars uit beeld. Maar de
 
 - 1 maand na passeren: "Helemaal gesettled? Als u iemand kent die wil kopen of verkopen, geef gerust onze naam door"
 - 1 jaar later: "Een jaar geleden kocht u uw woning via ons. Alles naar wens?"
-- Bij marktupdates: "De huizenprijzen in uw wijk zijn 8 procent gestegen. Benieuwd wat uw woning nu waard is?"
+- Bij marktupdates: "De huizenprijzen in uw wijk zijn met [X] procent gestegen. Benieuwd wat uw woning nu waard is?"
 
 ## Het drie-contactmomenten effect
 

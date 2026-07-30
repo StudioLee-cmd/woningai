@@ -13,6 +13,6 @@ Groei als makelaar betekent vaak meer drukte op de binnendienst. Er komt een pun
 
 ## De ROI van AI
 
-Een medewerker binnendienst kost je (inclusief lasten) zeker €3.500 per maand. Onze AI-oplossing begint bij €297 per maand. Dat is een besparing van ruim 90%.
+Een medewerker binnendienst kost je (inclusief lasten) zeker €3.500 per maand. Onze AI-oplossing begint bij €297 per maand. Dat scheelt ruim €3.200 per maand.
 
 Maar het gaat niet alleen om de kosten. De AI is nooit ziek, heeft geen vakantiedagen nodig en werkt ook op zaterdagmiddag als Funda-bezoekers het meest actief zijn. Voor de prijs van één etentje per maand heb je een 24/7 binnendienst die altijd presteert.

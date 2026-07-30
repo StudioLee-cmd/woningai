@@ -105,7 +105,7 @@ Voor mensen die echt twijfelen is een tweede bezichtiging vaak het kantelpunt. D
 
 > "Wil je nog een keer langs komen? Soms helpt het om een woning twee keer te zien voor je een beslissing maakt. Ik kan ook regelen dat je een uurtje rustig in de woning bent zonder dat ik erbij ben, dan kun je je het zelf voorstellen."
 
-Klanten die voor een tweede bezichtiging komen, bieden in 70 procent van de gevallen daarna. Het is je belangrijkste conversiemoment.
+Klanten die voor een tweede bezichtiging komen, brengen daarna vaak een bod uit. Het is je belangrijkste conversiemoment.
 
 ## Automatische opvolging — wat wel en wat niet
 
@@ -128,11 +128,11 @@ Een [chatbot](/chatbot) op je website kan wel automatisch nieuwe leads opvangen 
 Reken even mee:
 
 - 8 bezichtigingen per maand
-- Conversie nu: 15 procent (1,2 biedingen per maand)
+- Conversie nu: reken met 15 procent (1,2 biedingen per maand)
 - Gemiddelde commissie: 4.500 euro
 - Maandomzet: 5.400 euro
 
-Met goede opvolging stijgt je conversie naar 30 procent. Maandomzet wordt dan 10.800 euro. Verdubbeling, met dezelfde bezichtigingen die je nu al doet.
+Met goede opvolging stijgt je conversie; reken in dit voorbeeld met 30 procent. Maandomzet wordt dan 10.800 euro. Verdubbeling, met dezelfde bezichtigingen die je nu al doet.
 
 Realistisch zit de winst tussen 50 en 100 procent erbij. Voor de meeste makelaars is dit het laaghangend fruit dat ze niet plukken.
 

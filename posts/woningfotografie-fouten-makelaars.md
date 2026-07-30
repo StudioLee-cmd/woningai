@@ -9,7 +9,7 @@ tags: ["Woningfotografie", "Makelaar Tips", "Verkoop"]
 ---
 ## De eerste indruk is een foto
 
-95 procent van de woningzoekers begint online. Ze scrollen door Funda, bekijken de foto's en beslissen binnen drie seconden of ze doorklikken of doorscrollen. Die drie seconden worden bepaald door je foto's, niet door je beschrijving.
+Vrijwel alle woningzoekers beginnen online. Ze scrollen door Funda, bekijken de foto's en beslissen binnen drie seconden of ze doorklikken of doorscrollen. Die drie seconden worden bepaald door je foto's, niet door je beschrijving.
 
 Toch zien we dagelijks woningen online staan met donkere, scheve of rommelige foto's. Woningen die prima zijn, maar er op het scherm niet uitzien. Het gevolg: minder kijkers, minder biedingen en een langere doorlooptijd.
 

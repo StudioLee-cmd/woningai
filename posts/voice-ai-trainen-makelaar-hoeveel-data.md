@@ -64,7 +64,7 @@ Bel je eigen testnummer twintig keer en stel die vragen precies zoals ze gesteld
 
 ![Vensterbank in een half afgebouwd nieuwbouwappartement met telefoon, sleutelhoes en bouwtekening](/images/blog/voice-ai-trainen-makelaar-hoeveel-data-2.jpg)
 
-De eerste twee categorieën zijn allebei goed. Dat is het punt dat de meeste kantoren missen: doorzetten is geen falen, het is het systeem dat werkt zoals bedoeld. Voicelabs meldt over de eigen klanten dat ongeveer vier op de vijf gesprekken zelfstandig worden afgehandeld en de rest met context wordt doorgezet, en die verhouding is een redelijke verwachting om aan te houden.
+De eerste twee categorieën zijn allebei goed. Dat is het punt dat de meeste kantoren missen: doorzetten is geen falen, het is het systeem dat werkt zoals bedoeld. Volgens Voicelabs wordt bij de eigen klanten ongeveer vier op de vijf gesprekken zelfstandig afgehandeld en de rest met context doorgezet, en die verhouding is een redelijke verwachting om aan te houden.
 
 Alleen de derde categorie telt als probleem. Zit je op nul foute antwoorden in twintig gesprekken, dan mag hij live. Zit er één fout tussen, kijk dan welke laag hem veroorzaakte en vul die aan. Zitten er drie of meer in, dan is de kennisbank niet het probleem maar de grenslaag: hij probeert vragen te beantwoorden die hij had moeten doorzetten.
 

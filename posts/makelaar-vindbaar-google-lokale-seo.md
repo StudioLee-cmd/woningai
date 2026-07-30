@@ -85,7 +85,7 @@ Inconsistente gegevens verwarren Google en verlagen je ranking. Loop al je verme
 
 ## Stap 6: Mobielvriendelijke, snelle website
 
-Meer dan 60 procent van de woningzoekers begint zijn zoektocht op een mobiel apparaat. Als je website traag laadt of niet goed werkt op een telefoon, verlies je ze.
+Verreweg de meeste woningzoekers beginnen hun zoektocht op een mobiel apparaat. Als je website traag laadt of niet goed werkt op een telefoon, verlies je ze.
 
 Controleer:
 

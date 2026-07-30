@@ -9,7 +9,7 @@ cluster: "website"
 ---
 ## In het kort
 
-- **Professionele woningfoto's verhogen het aantal bezichtigingen met 40-60%** vergeleken met smartphone-foto's.
+- **Professionele woningfoto's verhogen het aantal bezichtigingen fors** vergeleken met smartphone-foto's.
 - **De kosten van een fotoshoot (€150-€350) verdienen zich** terug bij vrijwel elke woning boven €250.000 vraagprijs.
 - **Voor woningen onder €200.000 of bij verhuur** is goede smartphone-fotografie vaak voldoende, mits je de basisregels volgt.
 - **Drone-shots zijn niet altijd nodig.** Voor stadse appartementen vaak zelfs af te raden, voor vrijstaande huizen wel waardevol.
@@ -21,10 +21,10 @@ Gemiddeld kijken kopers 3 seconden naar een woningadvertentie voordat ze besliss
 
 Onderzoek van Funda en internationale platforms zoals Zillow laat consistent zien:
 
-- Woningen met professionele foto's krijgen 60% meer kijken in de eerste week
-- Het aantal bezichtigingen ligt 40-50% hoger
-- Verkoopprijs ligt gemiddeld 1-3% hoger (door meer biedingen)
-- De doorlooptijd op de markt is 30-40% korter
+- Woningen met professionele foto's krijgen meer kijkers in de eerste week
+- Het aantal bezichtigingen ligt merkbaar hoger
+- Verkoopprijs ligt gemiddeld iets hoger (door meer biedingen)
+- De doorlooptijd op de markt is korter
 
 Voor een woning van €350.000 betekent 1% extra verkoopprijs €3.500 meer. Een fotoshoot kost €150-€350. De rekensom is dus vrijwel nooit ongunstig voor de professional, maar de details zijn belangrijk.
 
@@ -100,10 +100,10 @@ Zorg ook dat de drone-piloot een geldige licentie heeft en de no-fly zones respe
 
 Bij vier Nederlandse makelaars die we het afgelopen jaar hebben begeleid bij het standaardiseren van hun fotografie-aanpak (alle woningen boven €250.000 met professional, daaronder gestructureerde smartphone-aanpak):
 
-- **Gemiddelde verkoopprijs:** +1.4% vergeleken met voorgaande jaar
-- **Doorlooptijd op de markt:** -28% (sneller verkopen)
-- **Aantal bezichtigingen per woning:** +42%
-- **Kosten van fotografie totaal:** ongeveer 0.4-0.6% van de verkoopprijs
+- **Gemiddelde verkoopprijs:** hoger dan het voorgaande jaar
+- **Doorlooptijd op de markt:** korter (sneller verkopen)
+- **Aantal bezichtigingen per woning:** hoger
+- **Kosten van fotografie totaal:** een fractie van de verkoopprijs
 
 Voor een makelaar met 40 verkopen per jaar en gemiddelde verkoopprijs van €350.000 betekent dit conservatief €15.000-€20.000 extra commissie per jaar zonder structurele extra werkdruk. Bekijk ook onze [tarieven voor makelaars](/tarieven) als je dit volledig wilt laten opzetten.
 

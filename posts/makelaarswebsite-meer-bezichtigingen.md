@@ -53,7 +53,7 @@ Elke woningpagina moet meer doen dan foto's tonen:
 
 **Snelheid**. Een website die langer dan drie seconden laadt, verliest de helft van de bezoekers. Optimaliseer je afbeeldingen en kies een snelle hosting.
 
-**Mobiel**. Meer dan 60% van het zoekverkeer is mobiel. Je website moet perfect werken op een telefoon — grote knoppen, makkelijk scrollen, snel laden.
+**Mobiel**. Het grootste deel van het zoekverkeer is mobiel. Je website moet perfect werken op een telefoon — grote knoppen, makkelijk scrollen, snel laden.
 
 Test je website maandelijks op Google PageSpeed Insights en fix rode waarschuwingen.
 

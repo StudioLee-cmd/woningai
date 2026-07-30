@@ -28,7 +28,7 @@ Niet bij elke zoekopdracht, maar wel bij veel van de informationele en lokale-ve
 - AI Overviews tonen een samenvatting bovenaan Google-zoekresultaten.
 - Drie tot vijf bronnen worden door de AI geselecteerd voor de samenvatting.
 - Selectie is gebaseerd op autoriteit, relevantie, recente content en lokale signalen.
-- Klikken op organische resultaten daalt 30-50 procent als AI Overview verschijnt.
+- Klikken op organische resultaten dalen fors als een AI Overview verschijnt.
 - De grootste fout: doen alsof AI Overviews er niet zijn en niets aanpassen.
 
 ## Wat selecteert de AI als bronnen voor woning-zoekopdrachten?
@@ -89,7 +89,7 @@ Deze artikelen geven Google content om uit te citeren in AI Overviews. Lees ook 
 
 ### Stap 4: backlinks vanuit lokale media
 
-Lokale media (Het Parool, AT5, lokale wijkblad) zijn goud voor AI Overviews. Reach out met data-stories: "Wij zien dat woningen in [wijk] gemiddeld 12 procent boven vraagprijs verkopen, hier zijn de cijfers." Journalists publiceren graag lokale data, jij krijgt een autoriteits-backlink.
+Lokale media (Het Parool, AT5, lokale wijkblad) zijn goud voor AI Overviews. Reach out met data-stories: "Wij zien dat woningen in [wijk] gemiddeld [X] procent boven vraagprijs verkopen, hier zijn de cijfers." Journalists publiceren graag lokale data, jij krijgt een autoriteits-backlink.
 
 ### Stap 5: actieve review-strategie
 
@@ -102,8 +102,8 @@ Vraag elke geslaagde transactie om een review. Een gemiddelde makelaar heeft 30-
 Bij twee Nederlandse makelaarskantoren die we het afgelopen jaar hebben begeleid bij AI Overview-optimalisatie:
 
 - **Verschijning in AI Overviews voor lokale zoekopdrachten:** van 0 naar 4-6 keer per maand
-- **Direct contact via Google Bedrijfsprofiel:** +35 tot +60 procent
-- **Verkoop-mandaten via online instroom:** +20 tot +35 procent
+- **Direct contact via Google Bedrijfsprofiel:** duidelijke stijging
+- **Verkoop-mandaten via online instroom:** merkbare stijging
 - **Tijd-investering:** 3-5 uur per maand voor blog-publicatie en GBP-onderhoud
 
 Voor een makelaar met gemiddeld 30 transacties per jaar betekent dit 6-10 extra mandaten per jaar, ofwel 60.000-100.000 euro extra omzet (bij gemiddelde courtage van 1 procent op een 700.000 euro woning). Bekijk onze [tarieven](/tarieven) als je dit volledig wilt laten opzetten.

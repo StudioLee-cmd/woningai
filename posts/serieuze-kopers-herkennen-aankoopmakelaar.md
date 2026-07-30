@@ -11,9 +11,9 @@ cluster: "automatisering"
 
 **In het kort:**
 - Een aankoopmakelaar krijgt gemiddeld 8 tot 14 nieuwe leads per week, maar slechts 2 tot 4 daarvan zijn binnen 3 maanden klaar om daadwerkelijk een woning aan te kopen. De rest is in oriëntatie-fase, mist budgetzekerheid, of zoekt vrijblijvend mee zonder serieuze intentie. Tijd-verdeling op alle leads is dodelijk voor je conversie.
-- Negen concrete signalen verdelen leads automatisch in hot, warm of koud. Hot leads (33% van het volume, 70% van de omzet) krijgen aandacht binnen 1 uur. Warm leads (45%) krijgen een nurture-flow van 6 tot 12 weken. Koud leads (22%) gaan in een lange-termijn nieuwsbrief en kosten 5 minuten per kwartaal aan onderhoud.
+- Negen concrete signalen verdelen leads automatisch in hot, warm of koud. Hot leads zijn de kleinste groep maar leveren het grootste deel van de omzet; die krijgen aandacht binnen 1 uur. Warm leads vormen de grootste groep en krijgen een nurture-flow van 6 tot 12 weken. Koud leads gaan in een lange-termijn nieuwsbrief en kosten 5 minuten per kwartaal aan onderhoud.
 - De grootste valkuil is "iedereen krijgt dezelfde service want je weet nooit waar de echte deal vandaan komt". Wel werkt: ASSESS in de eerste 5 minuten, RESERVEER tijd op basis van segment, en laat AI de koud-warm leads onderhouden zodat jij focussen kunt op hot.
-- Een [crm voor makelaars](/crm) met automatische segmentatie en een [ai chatbot voor makelaars](/chatbot) op je site doen 80% van het tag-werk automatisch. Jij doet alleen de hot-call zelf binnen het uur.
+- Een [crm voor makelaars](/crm) met automatische segmentatie en een [ai chatbot voor makelaars](/chatbot) op je site doen het leeuwendeel van het tag-werk automatisch. Jij doet alleen de hot-call zelf binnen het uur.
 
 ## De 9 signalen die een serieuze koper verraden
 
@@ -43,9 +43,9 @@ In gesprek met aankoopmakelaars die meer dan 50 transacties per jaar afsluiten, 
 
 Aan elk van de 9 signalen geef je een score van 0, 1 of 2 punten. Maximaal mogelijke score: 18. De drempels:
 
-- **Hot (15 tot 18 punten):** klaar voor concrete bezichtigingen binnen 30 dagen. 70% van je omzet komt van deze groep maar ze zijn slechts 33% van je inkomende leads. Reageer binnen 1 uur, plan zo snel mogelijk de eerste bezichtiging.
-- **Warm (8 tot 14 punten):** binnen 3-6 maanden klaar. 25% van je omzet, 45% van je leads. Nurture met maandelijkse marktupdates en zodra hun budget rond is, springen.
-- **Koud (0 tot 7 punten):** oriëntatie-fase, mogelijk 12+ maanden onderweg. 5% van je omzet, 22% van je leads. Lange-termijn nieuwsbrief en check elke 6 maanden.
+- **Hot (15 tot 18 punten):** klaar voor concrete bezichtigingen binnen 30 dagen. Het grootste deel van je omzet komt van deze groep, terwijl ze maar een klein deel van je inkomende leads zijn. Reageer binnen 1 uur, plan zo snel mogelijk de eerste bezichtiging.
+- **Warm (8 tot 14 punten):** binnen 3-6 maanden klaar. Een kleiner deel van je omzet, maar de grootste groep leads. Nurture met maandelijkse marktupdates en zodra hun budget rond is, springen.
+- **Koud (0 tot 7 punten):** oriëntatie-fase, mogelijk 12+ maanden onderweg. Een klein deel van je omzet, een flinke groep leads. Lange-termijn nieuwsbrief en check elke 6 maanden.
 
 Een [ai chatbot voor makelaars](/chatbot) op je website kan zelf de eerste 4-5 vragen stellen en de score automatisch berekenen voordat jij überhaupt belt. Een [crm voor makelaars](/crm) tagt vervolgens elke lead automatisch in het juiste segment en triggers de juiste follow-up workflow.
 
@@ -94,7 +94,7 @@ Voor een complete setup inclusief CRM-segmentatie plus chatbot plus voice-AI plu
 
 ## Conclusie: je weet binnen 5 minuten of een lead serieus is
 
-Met deze 9 signalen herken je een serieuze koper binnen het eerste contactmoment. 33% van je inkomende leads zijn hot en leveren 70% van je omzet, geef ze de aandacht die ze verdienen door de andere segmenten te automatiseren. Voor 90% van de aankoopmakelaars is de tijd-besparing 15 tot 20 uur per maand, plus een conversie-stijging van 8 tot 12% op hot leads omdat ze binnen het uur worden gebeld in plaats van pas de volgende dag.
+Met deze 9 signalen herken je een serieuze koper binnen het eerste contactmoment. De hot-groep is klein maar levert het grootste deel van je omzet, geef ze de aandacht die ze verdienen door de andere segmenten te automatiseren. Voor de meeste aankoopmakelaars is de tijd-besparing 15 tot 20 uur per maand, plus een merkbare conversie-stijging op hot leads omdat ze binnen het uur worden gebeld in plaats van pas de volgende dag.
 
 Het verschil tussen een aankoopmakelaar die 30 transacties per jaar doet en eentje die 60 doet is zelden talent. Het is bijna altijd segmentatie en focus. De segmentatie kost één keer 2 weken opzet; de focus geeft je je avonden terug.
 

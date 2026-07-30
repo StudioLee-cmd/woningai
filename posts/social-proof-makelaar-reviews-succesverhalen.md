@@ -44,7 +44,7 @@ Video is de krachtigste vorm van social proof. Een klant die op camera vertelt h
 - **Professioneel**: goede belichting en geluid (een smartphone met statief en extern microfoontje is genoeg)
 - **Bij de woning**: film bij de verkochte woning voor context
 
-Publiceer video-testimonials op je website, YouTube en [social media](/blog/social-media-makelaars-bezichtigingen). Een video op je homepage verhoogt de conversie met 30-80%.
+Publiceer video-testimonials op je website, YouTube en [social media](/blog/social-media-makelaars-bezichtigingen). Een video op je homepage verhoogt de conversie merkbaar.
 
 ## Social proof in je marketing
 

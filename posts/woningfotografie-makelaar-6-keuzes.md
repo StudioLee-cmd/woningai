@@ -8,13 +8,13 @@ image: "/images/blog/woningfotografie-makelaar-6-keuzes.jpg"
 tags: ["Fotografie", "Makelaar", "Verkoop"]
 cluster: "website"
 ---
-Twee identieke huizen, dezelfde straat, dezelfde vraagprijs. De ene staat 92 dagen te koop, de andere 14. Verschil? De foto's. Het is bewezen: woningen met professionele foto's krijgen 60 procent meer kijkers, verkopen 30 procent sneller, en bereiken vaak 3-5 procent hogere verkoopprijs.
+Twee identieke huizen, dezelfde straat, dezelfde vraagprijs. De ene staat 92 dagen te koop, de andere 14. Verschil? De foto's. Woningen met professionele foto's krijgen meer kijkers, verkopen sneller, en bereiken vaak een hogere verkoopprijs.
 
 Voor een makelaar is dit een no-brainer. Maar wat is "professioneel" in 2026? Wat onderscheidt een €150 fotosessie van een €500 fotosessie? En wanneer wil je grondplattegronden, drone-shots of zelfs virtuele rondleidingen toevoegen? Dit artikel geeft de 6 belangrijkste keuzes met realistische cijfers per optie.
 
 **In het kort:**
 
-- Professionele woningfoto's verhogen kijkers met 60% en verkoopprijs met 3-5%.
+- Professionele woningfoto's verhogen het aantal kijkers en de verkoopprijs.
 - Kosten: €150-500 voor basis-set, €600-1.200 met drone + plattegronden + 360° tour.
 - HDR-techniek + brede lens (16-35mm) zijn de twee technische musts.
 - Smartphone-foto's kosten je gemiddeld €5.000-15.000 lagere verkoopprijs op een €400.000 woning.
@@ -22,7 +22,7 @@ Voor een makelaar is dit een no-brainer. Maar wat is "professioneel" in 2026? Wa
 
 ## Keuze 1: Pro-fotograaf vs zelf doen
 
-Bij een gemiddelde verkoopprijs van €400.000 levert 3 procent extra al €12.000 op. Een fotosessie van €350 verdient zich dus 30+ keer terug bij betere verkoop. Toch maken ongeveer 25 procent van Nederlandse makelaars zelf foto's. Soms goedkoper, vaak niet meetbaar slechter — maar met de huidige markt is dat steeds risicovoller.
+Bij een gemiddelde verkoopprijs van €400.000 levert 3 procent extra al €12.000 op. Een fotosessie van €350 verdient zich dus vele malen terug bij betere verkoop. Toch maakt een deel van de Nederlandse makelaars de foto's zelf. Soms goedkoper, vaak niet meetbaar slechter — maar met de huidige markt is dat steeds risicovoller.
 
 Wanneer zelf doen kan:
 
@@ -39,7 +39,7 @@ Wanneer altijd pro inhuren:
 
 ## Keuze 2: HDR techniek (must, geen optie)
 
-HDR (High Dynamic Range) combineert meerdere belichtingen tot 1 foto die zowel binnen als buiten het raam goed laat zien. Zonder HDR krijg je of een donkere kamer of een witte uitgebrand raam. HDR-foto's converteren bewezen 30 procent beter dan standaardfoto's.
+HDR (High Dynamic Range) combineert meerdere belichtingen tot 1 foto die zowel binnen als buiten het raam goed laat zien. Zonder HDR krijg je of een donkere kamer of een witte uitgebrand raam. HDR-foto's converteren merkbaar beter dan standaardfoto's.
 
 Wat te checken bij je fotograaf:
 
@@ -63,7 +63,7 @@ Wanneer geen drone:
 
 ## Keuze 4: Plattegronden / floorplans
 
-Plattegronden zijn de meest onderbenutte tool. Kopers gebruiken ze actief om te kijken of het huis past bij hun gezin/inrichting. Woningen met plattegronden krijgen 50 procent meer doorklikken op Funda dan zonder.
+Plattegronden zijn de meest onderbenutte tool. Kopers gebruiken ze actief om te kijken of het huis past bij hun gezin/inrichting. Woningen met plattegronden krijgen duidelijk meer doorklikken op Funda dan zonder.
 
 3 opties:
 
@@ -98,7 +98,7 @@ Wanneer niet:
 
 ## Keuze 6: Twilight-/blue-hour-foto's
 
-Foto's gemaakt in het schemering-uur (vlak na zonsondergang) met binnen-verlichting aan. Geven een sfeervolle "thuis komen" sensatie. Aantoonbaar 40 procent meer kliks op Funda voor de hero-foto.
+Foto's gemaakt in het schemering-uur (vlak na zonsondergang) met binnen-verlichting aan. Geven een sfeervolle "thuis komen" sensatie. Merkbaar meer kliks op Funda voor de hero-foto.
 
 Kosten: €100-150 extra bovenop standaard sessie (fotograaf moet langer blijven).
 
@@ -152,8 +152,8 @@ Steeds meer fotografen werken met AI om woningfoto's te enhancen of zelfs stylin
 
 Makelaars die structureel premium-fotografie gebruiken op woningen vanaf €400.000 rapporteren:
 
-- **3-5% hogere verkoopprijs gemiddeld** (per €400.000 huis = €12.000-20.000 winst voor verkoper, hogere makelaarscourtage voor jou).
-- **30-50% snellere verkoop** = lagere doorlooptijden + meer omzet per jaar.
+- **Hogere verkoopprijs gemiddeld** (op een €400.000 huis al snel duizenden euro's winst voor verkoper, hogere makelaarscourtage voor jou).
+- **Snellere verkoop** = lagere doorlooptijden + meer omzet per jaar.
 - **Hogere klanttevredenheid** = meer doorverwijzingen.
 - **Sterker positionering** als premium-makelaar.
 

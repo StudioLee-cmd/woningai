@@ -20,7 +20,7 @@ Dat is geen tegenvaller maar een patroon, en het is een ander probleem dan het p
 - Een makelaarstraject maakt dit erger dan bij de meeste vakken, om een reden die niets met jouw dienstverlening te maken heeft.
 - De opvolging is het stuk dat vrijwel niemand inricht, terwijl daar het grootste deel van je [review management voor makelaars](/reviews) zit.
 
-## Ja zeggen kost niets, schrijven kost tien minuten
+## Ja zeggen kost niets, schrijven kost tijd en een account
 
 Er zit een verschil tussen bereid zijn en het doen, en dat verschil is groter dan het lijkt. Op het moment dat jij het vraagt staat je verkoper in een emotionele piek en is ja het makkelijkste antwoord dat er is. Het kost haar op dat moment niets. Het echte werk komt later, op een ander moment, in een andere stemming, meestal op de telefoon terwijl ze iets anders aan het doen is.
 
@@ -70,7 +70,7 @@ Wil je die stap fysiek maken, dan is de kaart of sticker die je bij de overdrach
 
 Hier zit het grootste deel van wat je nu mist. De meeste kantoren sturen één verzoek. Wie het toen niet deed, doet het nooit meer, en niemand ziet dat gebeuren omdat er geen lijst is van wie wel ja zei en niet schreef.
 
-Hier past een waarschuwing die we in [meer Google reviews krijgen als makelaarskantoor](/blog/meer-google-reviews-makelaarskantoor) al maakten: herhaald aandringen voelt als spam en werkt averechts. Die grens blijft staan. Waar het hier over gaat is de enkele, korte herinnering aan wie je verzoek aantoonbaar niet geopend heeft, niet aan iedereen die nog niets schreef. Dat verschil is het hele punt, en je kunt het alleen maken als je weet wie in welke categorie zit.
+Hier past een waarschuwing die we in [meer Google reviews krijgen als makelaarskantoor](/blog/meer-google-reviews-makelaarskantoor) al maakten: één keer vragen is genoeg, en meerdere herinneringen voelen als spam en werken averechts. Die grens blijft staan, en dit is er geen uitzondering op. Waar het hier over gaat is de enkele, korte herinnering aan wie je verzoek aantoonbaar niet geopend heeft. Dat is geen tweede verzoek maar het eerste dat daadwerkelijk is aangekomen, en het gaat dus niet naar iedereen die nog niets schreef. Dat verschil is het hele punt, en je kunt het alleen maken als je weet wie in welke categorie zit.
 
 Het punt waar dit in de praktijk sneuvelt is niet de tekst maar het bijhouden. Wie kreeg een verzoek, wie schreef er een, wie kreeg de herinnering al. Dat handmatig bijhouden overleeft geen drukke maand, en dat is precies waarom dit soort dingen langzaam verdwijnt uit een kantoor dat het ooit goed had ingericht. Een flow die zelf bijhoudt wie waar staat, is het verschil tussen een gewoonte en een systeem. Dat is waar [workflow automatisering voor makelaars](/automatisering) het van je overneemt: het verzoek gaat weg op het afgesproken moment, de herinnering ook, en wie al geschreven heeft krijgt niets meer.
 
@@ -94,7 +94,7 @@ Doe dat opnieuw over een maand, nadat je het kanaal en de link hebt aangepast. V
 Een beloning koppelen aan specifiek een positieve review is in strijd met de richtlijnen van Google en het is bovendien zichtbaar aan je reviewprofiel. Vragen mag altijd, sturen op de inhoud niet.
 
 **Hoe vaak mag ik herinneren?**
-Hooguit één keer, en alleen bij wie je verzoek niet eens geopend heeft. Herhaald aandringen voelt als spam en werkt averechts. Wie het bericht wél las en niets schreef, laat je met rust.
+Hooguit één keer, en alleen bij wie je verzoek niet eens geopend heeft. Dat is geen tweede verzoek maar het eerste dat is aangekomen. Herhaald aandringen voelt als spam en werkt averechts. Wie het bericht wél las en niets schreef, laat je met rust.
 
 **Wat als de verkoper ontevreden was over de prijs maar tevreden over mij?**
 Vraag het gewoon, en noem in je bericht waar het over gaat. Wie dit onderscheid zelf al maakt, schrijft dat er meestal ook bij. Een genuanceerde review leest voor een volgende verkoper vaak geloofwaardiger dan een rij perfecte.

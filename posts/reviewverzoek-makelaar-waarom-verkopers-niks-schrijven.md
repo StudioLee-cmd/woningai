@@ -111,6 +111,6 @@ Ze doen iets anders. De kaart vangt het moment waarop je er fysiek bij staat, he
 
 Wil je weten waar het bij jouw kantoor lekt, begin dan met een [gratis scan](/gratis-scan). Daar komt uit hoe je nu online staat en waar in je opvolging de verzoeken verdwijnen, zonder dat je iets hoeft te beslissen.
 
-Kies je daarna voor een managed traject bij WoningAI, dan richten wij de verzoeken en de herinneringen in, koppelen we ze aan je overdrachtsmomenten en houden we bij wie er al geschreven heeft. Dat valt onder onze Groei-of-Geld-Terug Garantie: levert het niet op wat we afspreken, dan krijg je je geld terug.
+Kies je daarna voor een managed traject bij WoningAI, dan richten wij de verzoeken en de herinneringen in, koppelen we ze aan je overdrachtsmomenten en houden we bij wie er al geschreven heeft. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Jij verkoopt woningen, wij regelen de rest.

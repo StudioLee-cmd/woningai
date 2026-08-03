@@ -101,6 +101,6 @@ Beter van niet. Toestemming geldt per gebruik en mag worden ingetrokken, dus een
 
 Dit onderwerp is zelden een juridisch probleem en bijna altijd een procesprobleem. De regels zijn te overzien; wat ontbreekt is de plek waar de afspraak staat en het moment waarop hij gemaakt wordt. Zet die twee goed en de vraag komt nooit meer terug bij de vijftiende post van de maand.
 
-Wil je dat je kanalen daarna ook echt gaan draaien, dan begint dat bij de plek die je zelf bezit. Vraag een [gratis website voor makelaars](/gratis-website) aan, dan kijken we meteen mee naar hoe je woningbeeld van je site naar je socialkanalen loopt en waar dat nu handwerk is. Neem je daarna [social media beheer](/social-media) uit handen, dan werken we met de Groei-of-Geld-Terug Garantie: levert het binnen de afgesproken periode geen aantoonbare groei op, dan krijg je je geld terug.
+Wil je dat je kanalen daarna ook echt gaan draaien, dan begint dat bij de plek die je zelf bezit. Vraag een [gratis website voor makelaars](/gratis-website) aan, dan kijken we meteen mee naar hoe je woningbeeld van je site naar je socialkanalen loopt en waar dat nu handwerk is. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Jij verkoopt woningen, wij regelen de rest.

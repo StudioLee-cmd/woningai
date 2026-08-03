@@ -81,6 +81,6 @@ Nee, het ontlast hem. De AI vangt de piek en de avonduren op, zodat je binnendie
 
 Een AI-telefonist is geen vervanging van jou als makelaar. Hij is de collega die de telefoon aanneemt terwijl jij een woning laat zien, de standaardvragen afhandelt en de belangrijke gesprekken netjes bij jou neerlegt. Zo mis je [geen oproepen meer als makelaar](/voice-ai) en verlies je geen leads meer aan de makelaar die toevallig wél opnam.
 
-Bij WoningAI richten we die telefonist volledig voor je makelaarskantoor in, gekoppeld aan je agenda en je CRM, met een **Groei-of-Geld-Terug Garantie**: levert het je geen extra afspraken en minder gemiste leads op, dan krijg je je geld terug. Benieuwd hoeveel leads je nu misloopt? Vraag een [gratis ai scan voor makelaars](/gratis-scan) aan en we rekenen het voor je uit.
+Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Benieuwd hoeveel leads je nu misloopt? Vraag een [gratis ai scan voor makelaars](/gratis-scan) aan en we rekenen het voor je uit.
 
 Jij verkoopt woningen, wij regelen de rest.

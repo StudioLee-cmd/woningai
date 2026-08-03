@@ -98,6 +98,6 @@ Een afzegging is geen probleem, het is een signaal met een houdbaarheidsdatum. W
 
 Loop je eigen situatie eens na: waar komt een afzegging bij jou binnen, wie ziet hem als eerste, en hoe lang duurt het voordat er iets mee gebeurt. Zit daar meer dan een uur tussen, dan laat je elke maand slots liggen zonder dat het ergens wordt geteld.
 
-Bij WoningAI richten we die opvolging voor je in, van de afzegging tot het aanbod aan de juiste kandidaat. Dat doen we met een **Groei-of-Geld-Terug Garantie**: levert het je geen vollere kijkdagen op, dan krijg je je geld terug. Wil je eerst zien hoe je site en je opvolging er nu voor staan? Vraag een [gratis website voor makelaars](/gratis-website) aan, met de aanvraag- en wachtlijstkant er direct goed op ingericht.
+Bij WoningAI richten we die opvolging voor je in, van de afzegging tot het aanbod aan de juiste kandidaat. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Wil je eerst zien hoe je site en je opvolging er nu voor staan? Vraag een [gratis website voor makelaars](/gratis-website) aan, met de aanvraag- en wachtlijstkant er direct goed op ingericht.
 
 Jij verkoopt woningen, wij regelen de rest.

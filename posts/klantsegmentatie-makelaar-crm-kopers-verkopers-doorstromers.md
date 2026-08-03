@@ -72,7 +72,7 @@ Voor de **doorstromer** draait alles om coördinatie. Hij wil één partij die z
 
 Je hoeft niet je hele bestand in één middag te herzien. Begin met de contacten die nu actief zijn en geef ze een van de drie types. Alleen dat maakt je opvolging vanaf morgen al scherper. De rest sorteer je gaandeweg, elk nieuw contact meteen goed weggezet.
 
-Weet je niet zeker hoe schoon je huidige bestand is, dan brengt een [gratis ai scan voor makelaars](/gratis-scan) in kaart waar je nu leads laat liggen en wat een goede segmentatie zou opleveren. En omdat we geloven dat het moet werken, valt onze managed service onder de Groei-of-Geld-Terug Garantie: levert het niets op, dan krijg je je geld terug.
+Weet je niet zeker hoe schoon je huidige bestand is, dan brengt een [gratis ai scan voor makelaars](/gratis-scan) in kaart waar je nu leads laat liggen en wat een goede segmentatie zou opleveren. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Segmentatie is geen extra administratie bovenop je werk. Het is de manier waarop je stopt met iedereen hetzelfde te behandelen en begint met precies de klant de aandacht te geven die zijn transactie waard is. Zeker die ene, de doorstromer, die stiekem voor twee telt.
 

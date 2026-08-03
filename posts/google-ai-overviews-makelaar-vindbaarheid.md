@@ -158,4 +158,4 @@ Ja, Funda-aanwezigheid is belangrijk voor specifieke transactie-zoekopdrachten (
 
 AI Overviews zijn de grootste verschuiving in lokale vindbaarheid sinds Google Maps. Makelaars die nu instappen, domineren de komende jaren de lokale zoekresultaten. Wij regelen dit standaard voor onze makelaar-klanten, inclusief schema markup, blog-publicatie, GBP-management en review-strategie.
 
-Vraag een [gratis scan](/gratis-scan) aan en we kijken samen hoeveel zichtbaarheid jouw kantoor nu mist in AI Overviews. Werkt het niet? Geld terug, dat is onze Groei-of-Geld-Terug Garantie.
+Vraag een [gratis scan](/gratis-scan) aan en we kijken samen hoeveel zichtbaarheid jouw kantoor nu mist in AI Overviews. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.

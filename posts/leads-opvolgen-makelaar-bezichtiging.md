@@ -60,7 +60,7 @@ Makelaars die hun opvolging structureren, zien:
 
 Een managed service als [StudioLee](/tarieven) kan het volledige traject automatiseren: van automatische bevestigingen en opvolgsequenties tot [review-verzoeken](/reviews) na de transactie en [social media](/social-media) om nieuw aanbod te promoten.
 
-Met de Groei-of-Geld-Terug Garantie: geen meetbare groei? Geld terug. Jij besteedt er [15 minuten per maand](/gratis-scan) aan.
+Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views. Jij besteedt er [15 minuten per maand](/gratis-scan) aan.
 
 ## Veelgestelde vragen
 

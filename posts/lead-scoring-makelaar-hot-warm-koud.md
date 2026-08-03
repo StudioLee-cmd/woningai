@@ -100,4 +100,4 @@ Geen excuses meer. Drie acties die je vandaag kunt doen:
 
 Werk hier een maand mee en je conversie-percentage stijgt zonder dat je extra leads binnenhaalt. Je werkt slimmer, niet harder.
 
-Wil je dit niet zelf opzetten en gewoon een werkend lead-scoring systeem geleverd krijgen, met de chatbot en Voice AI er al gekoppeld? Plan een [vraag een gratis scan aan](/gratis-scan) en we tonen waar in jouw lead-stroom de meeste omzet weglekt en wat een complete setup je oplevert. Werkt het niet, dan krijg je je geld terug binnen 90 dagen. Dat is de Groei-of-Geld-Terug Garantie.
+Wil je dit niet zelf opzetten en gewoon een werkend lead-scoring systeem geleverd krijgen, met de chatbot en Voice AI er al gekoppeld? Plan een [vraag een gratis scan aan](/gratis-scan) en we tonen waar in jouw lead-stroom de meeste omzet weglekt en wat een complete setup je oplevert. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.

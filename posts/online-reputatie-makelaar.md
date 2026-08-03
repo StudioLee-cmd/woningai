@@ -65,6 +65,6 @@ Behandel elk platform serieus en reageer op elke review — positief of negatief
 
 Bij WoningAI helpen we makelaars met het opbouwen van een sterke online reputatie. Alles voor slechts 15 minuten per maand van jouw tijd.
 
-Met onze Groei-of-Geld-Terug Garantie loop je geen risico. Geen groei? Geld terug.
+Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 Vraag een [gratis AI-scan](/gratis-scan) aan.

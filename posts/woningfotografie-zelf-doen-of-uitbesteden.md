@@ -161,4 +161,4 @@ Soms, mits geen persoonlijke spullen erop staan en de woning niet wezenlijk vera
 
 Goede woningfoto's zijn de goedkoopste verbetering die een makelaar kan doorvoeren voor de hogere segmenten. Een uur planning, een dag fotoshoot, een week extra biedingen. Voor de lagere segmenten zijn smartphone-foto's met de juiste regels even effectief.
 
-Wij helpen makelaars met de complete marketing-aanpak inclusief fotografie-strategie, [Funda-optimalisatie](/seo) en lead-opvolging. Vraag een [gratis scan](/gratis-scan) aan en we kijken samen of jouw woningfoto's je segment recht doen. Werkt het niet? Geld terug, dat is onze Groei-of-Geld-Terug Garantie.
+Wij helpen makelaars met de complete marketing-aanpak inclusief fotografie-strategie, [Funda-optimalisatie](/seo) en lead-opvolging. Vraag een [gratis scan](/gratis-scan) aan en we kijken samen of jouw woningfoto's je segment recht doen. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.

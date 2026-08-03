@@ -85,7 +85,7 @@ De instap is kleiner dan veel kantoren denken. Drie stappen:
 2. **Bepaal de spelregels.** Wanneer neemt de chatbot over, welke dagdelen bied je aan voor bezichtigingen, en welke aanvragen wil je direct doorgestuurd krijgen?
 3. **Test en ga live.** Je stuurt zelf een paar aanvragen in, schaaft de antwoorden bij en zet hem dan aan. Je nummer verandert niet.
 
-Wil je het liever in één keer goed neergezet hebben, dan richt WoningAI de [ai-chatbot](/chatbot) volledig voor je in, inclusief WhatsApp-koppeling en herinneringsflows. Daar staat onze Groei-of-Geld-Terug Garantie op: levert het aantoonbaar niets op, dan betaal je niet.
+Wil je het liever in één keer goed neergezet hebben, dan richt WoningAI de [ai-chatbot](/chatbot) volledig voor je in, inclusief WhatsApp-koppeling en herinneringsflows. Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
 
 ## Conclusie: de eerste reactie wint de bezichtiging
 

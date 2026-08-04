@@ -108,7 +108,7 @@ Social media versterkt je SEO indirect:
 
 Post regelmatig: verkochte woningen, markttips, open huis aankondigingen, en klantverhalen. Lees meer over een effectieve aanpak in ons artikel over [social media voor makelaars](/blog/social-media-makelaars-bezichtigingen).
 
-<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/makelaar-vindbaar-google" class="text-dark fw-semibold">Als makelaar beter vindbaar in Google: lokale SEO die werkt</a> →</p></div></div></div>
+<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/makelaar-vindbaar-google-lokale-seo" class="text-dark fw-semibold">Als makelaar beter vindbaar in Google: lokale SEO die werkt</a> →</p></div></div></div>
 
 ## Hoe snel zie je resultaat?
 

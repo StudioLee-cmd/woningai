@@ -23,6 +23,12 @@ const nextConfig = {
             { source: '/blog/aankoopmakelaardij-toevoegen-makelaarskantoor-rendement', destination: '/', permanent: true },
             { source: '/blog/taxatie-dienstverlening-makelaar-propositie', destination: '/', permanent: true },
             { source: '/blog/ai-makelaar-verkoopt-huis', destination: '/', permanent: true },
+            { source: '/blog/no-shows-bezichtiging-makelaar', destination: '/blog/bezichtiging-no-show-voorkomen-makelaar', permanent: true },
+            { source: '/blog/no-shows-bezichtigingen-makelaar', destination: '/blog/bezichtiging-no-show-voorkomen-makelaar', permanent: true },
+            { source: '/blog/bezichtiging-no-shows-voorkomen-makelaar', destination: '/blog/bezichtiging-no-show-voorkomen-makelaar', permanent: true },
+            { source: '/blog/makelaar-vindbaar-google', destination: '/blog/makelaar-vindbaar-google-lokale-seo', permanent: true },
+            { source: '/blog/reviews-makelaar-na-bezichtiging', destination: '/blog/reviews-automatiseren-makelaar-vertrouwen', permanent: true },
+            { source: '/blog/social-media-voor-makelaars', destination: '/blog/social-media-makelaars-bezichtigingen', permanent: true },
         ];
     },
 };

@@ -60,7 +60,7 @@ Social proof is cruciaal in de makelaardij. Integreer reviews in je e-mails:
 
 - Voeg een quote van een tevreden koper toe aan je handtekening
 - Deel een kort succesverhaal: "Vorige maand hielpen we een jong stel hun eerste woning te vinden in [buurt]"
-- Link naar je [Google-profiel](/blog/social-media-voor-makelaars) voor meer reviews
+- Link naar je [Google-profiel](/blog/social-media-makelaars-bezichtigingen) voor meer reviews
 
 ## Veelgemaakte fouten
 

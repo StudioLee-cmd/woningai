@@ -102,7 +102,7 @@ De kalender is het plan, batchen is de uitvoering. In plaats van elke dag een po
 3. **Schrijf de bijschriften in een ruk.** Omdat alles voor je ligt, schrijf je tien bijschriften veel sneller achter elkaar dan tien losse momenten verspreid over de maand.
 4. **Zet alles vooruit klaar.** Met een planningstool plan je de hele maand in een keer in. Daarna draait je feed vanzelf door, ook als je de hele week op pad bent.
 
-Dat ene uur vervangt dertig kleine momenten van twijfel. Wil je dieper ingaan op wat goed werkt rond bezichtigingen, lees dan ook hoe je [social media inzet voor makelaars](/blog/social-media-voor-makelaars) om meer leads te halen.
+Dat ene uur vervangt dertig kleine momenten van twijfel. Wil je dieper ingaan op wat goed werkt rond bezichtigingen, lees dan ook hoe je [social media inzet voor makelaars](/blog/social-media-makelaars-bezichtigingen) om meer leads te halen.
 
 ## Wat het oplevert (en wat uitbesteden kost)
 

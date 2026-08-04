@@ -74,7 +74,7 @@ Je hoeft je werkwijze niet om te gooien. Dit is een kwestie van vier keuzes op d
 
 **Zaterdagochtend om acht uur gaan bellen.** Te laat en te opdringerig tegelijk. Als het aanbod vrijdagavond was uitgegaan, had je nu niet hoeven bellen.
 
-**Het slot stil laten vervallen.** Dit is de stille variant, en de meest voorkomende. Niemand merkt het, er komt geen klacht, en precies daarom gebeurt het elke week opnieuw. Wil je zien hoe dezelfde stilte werkt bij kijkers die zich helemaal niet afmelden, lees dan [hoe je no-shows bij bezichtigingen voorkomt](/blog/bezichtiging-no-shows-voorkomen-makelaar). En loopt je bevestigingskant nog niet strak, begin dan bij [de bezichtiging-flow via WhatsApp Business](/blog/whatsapp-business-makelaars-bezichtiging-flow-broadcasts), want een afzegging opvangen heeft pas zin als de bevestiging klopt.
+**Het slot stil laten vervallen.** Dit is de stille variant, en de meest voorkomende. Niemand merkt het, er komt geen klacht, en precies daarom gebeurt het elke week opnieuw. Wil je zien hoe dezelfde stilte werkt bij kijkers die zich helemaal niet afmelden, lees dan [hoe je no-shows bij bezichtigingen voorkomt](/blog/bezichtiging-no-show-voorkomen-makelaar). En loopt je bevestigingskant nog niet strak, begin dan bij [de bezichtiging-flow via WhatsApp Business](/blog/whatsapp-business-makelaars-bezichtiging-flow-broadcasts), want een afzegging opvangen heeft pas zin als de bevestiging klopt.
 
 ## Veelgestelde vragen
 

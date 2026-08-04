@@ -136,5 +136,3 @@ Ja, met aanpassing. Vergelijk je met andere ZZP-makelaars in jouw regio, niet me
 Een concurrentieanalyse van 30 minuten geeft je objectieve data om je courtage, je propositie en je marketing op te baseren. Makelaars die deze check minstens één keer per jaar doen, prijzen zichzelf marktconform of premium en winnen significant meer opdrachten in het juiste segment dan collega's die op gevoel werken.
 
 Wil je weten hoe jouw kantoor zich positioneert in jouw regio? Plan een [gratis ai-scan](/gratis-scan) en we doen samen een volledige concurrentieanalyse plus directe verbeterpunten voor je website en propositie. Met de Groei-of-Geld-Terug Garantie weet je vooraf wat je investering oplevert.
-
-<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/makelaar-courtage-uitleggen-discussie-voorkomen" class="text-dark fw-semibold">Courtage uitleggen aan klanten zonder discussie</a> →</p></div></div></div>

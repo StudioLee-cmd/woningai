@@ -118,5 +118,3 @@ Meer dan 1x per week broadcasts → klanten blocken/onsubscriben. Houd het op 1 
 WhatsApp Business is in 2026 geen optie maar essentieel voor makelaars die concurrerend willen blijven. De 5-berichten bezichtiging-flow alleen al levert fors lagere no-shows en een merkbaar snellere deal-cyclus.
 
 Bij WoningAI bouwen we de WhatsApp-laag direct in onze software, met automatische bezichtiging-flow, broadcast-management en AVG-compliant opt-in. We werken met een **Groei-of-Geld-Terug Garantie**, als je binnen 6 maanden geen vermindering in no-shows ziet door onze WhatsApp-flow, krijg je je investering terug. Plan een [gratis ai scan voor makelaars](/gratis-scan) of bekijk de [tarieven](/tarieven) voor het WhatsApp-Business-pakket.
-
-<div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/woonboot-verkoop-ligplaats-romp-keuring-makelaar-niche" class="text-dark fw-semibold">Woonboot verkoop: nichesegment voor makelaars</a> →</p></div></div></div>

@@ -27,8 +27,10 @@ const nextConfig = {
             { source: '/blog/no-shows-bezichtigingen-makelaar', destination: '/blog/bezichtiging-no-show-voorkomen-makelaar', permanent: true },
             { source: '/blog/bezichtiging-no-shows-voorkomen-makelaar', destination: '/blog/bezichtiging-no-show-voorkomen-makelaar', permanent: true },
             { source: '/blog/makelaar-vindbaar-google', destination: '/blog/makelaar-vindbaar-google-lokale-seo', permanent: true },
-            { source: '/blog/reviews-makelaar-na-bezichtiging', destination: '/blog/reviews-automatiseren-makelaar-vertrouwen', permanent: true },
+            { source: '/blog/reviews-makelaar-na-bezichtiging', destination: '/blog/meer-google-reviews-makelaarskantoor', permanent: true },
             { source: '/blog/social-media-voor-makelaars', destination: '/blog/social-media-makelaars-bezichtigingen', permanent: true },
+            { source: '/blog/meer-opdrachten-met-ai', destination: '/blog/meer-google-reviews-makelaarskantoor', permanent: true },
+            { source: '/blog/reviews-automatiseren-makelaar-vertrouwen', destination: '/blog/meer-google-reviews-makelaarskantoor', permanent: true },
         ];
     },
 };

@@ -61,7 +61,7 @@ Daar komt automatisering bij kijken. Een geautomatiseerde review-flow stuurt de 
 
 Meer recente, positieve Google reviews doen twee dingen tegelijk. Ze bouwen vertrouwen op bij verkopers die drie makelaars vergelijken, want die kijken naar je sterren voordat ze je bellen. En ze wegen mee in je [lokale vindbaarheid](/seo): een profiel met veel recente reviews scoort hoger in Google Maps als iemand zoekt op "makelaar" plus de plaatsnaam. Meer reviews is dus niet alleen sociale bewijskracht, het is ook een van de weinige knoppen waarmee je zelf hoger in de lokale resultaten komt.
 
-<div class="lees-ook" style="background-color: rgba(193, 255, 114, 0.18); padding: 12px 16px; border-radius: 8px; margin: 24px 0;"><strong>Lees ook:</strong> <a href="/blog/reviews-automatiseren-makelaar-vertrouwen">Reviews vragen na een bezichtiging: het juiste moment</a> &rarr;</div>
+<div class="lees-ook" style="background-color: rgba(193, 255, 114, 0.18); padding: 12px 16px; border-radius: 8px; margin: 24px 0;"><strong>Lees ook:</strong> <a href="/blog/meer-google-reviews-makelaarskantoor">Reviews vragen na een bezichtiging: het juiste moment</a> &rarr;</div>
 
 ## Kies het moment, niet alleen de kaart
 

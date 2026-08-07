@@ -1,74 +1,85 @@
 ---
-title: "Google Q&A voor makelaars: het vergeten verkoopkanaal"
+title: "Google Q&A makelaar: weg, en dit kwam ervoor terug"
 slug: google-qa-makelaar-verkoopkanaal
 date: "2026-06-21"
-excerpt: "De vragen-en-antwoorden sectie op je Google Bedrijfsprofiel is een gratis verkoopkanaal dat veel makelaars laten liggen. Zo zet je hem in voor meer leads."
+excerpt: "De vragen-en-antwoorden sectie op je Google Bedrijfsprofiel is verdwenen. Google beantwoordt de vraag van je klant nu zelf, uit drie bronnen die jij vult."
 image: "/images/blog/google-qa-makelaar-verkoopkanaal.jpg"
 authorSlug: tim-van-der-lee
 tags: ["Google Bedrijfsprofiel", "Lokale SEO", "Vindbaarheid"]
 cluster: "vindbaarheid"
 ---
 
-Iemand zoekt op een avond naar een makelaar in jouw stad. Jouw profiel komt netjes bovenaan, met foto's en reviews. En dan, onderaan, staat een vraag van een onbekende: "Doen jullie ook aankoopbegeleiding?" Eronder het antwoord, niet van jou, maar van een willekeurige Google-gebruiker die er net naast zit. De woningzoeker leest het, twijfelt, en klikt door naar de makelaar eronder.
+Iemand zoekt op een avond naar een makelaar in jouw stad. Jouw profiel komt netjes bovenaan, met foto's en reviews. Vroeger stond daaronder een blok met vragen, waarin een willekeurige Google-gebruiker antwoord kon geven namens jouw kantoor. Dat blok is er niet meer.
 
-Dat is de Google Q&A-sectie. Een blok dat op vrijwel elk makelaarsprofiel staat, dat hoog meeweegt in hoe serieus je overkomt, en dat de meeste makelaars nooit hebben aangeraakt. Het is geen technisch SEO-detail, het is een verkoopgesprek dat zich op je profiel afspeelt terwijl jij er niet bij bent. Goede [seo voor makelaars](/seo) begint juist bij dit soort plekken waar koop- en verkoopintentie samenkomen.
+Google heeft de vragen-en-antwoorden sectie van het Bedrijfsprofiel afgeschaft. Dat is opluchting en een probleem tegelijk. Opluchting, want een vreemde kan niet meer namens jou antwoorden. Een probleem, want de woningzoeker die zich afvraagt of je ook aankoopbegeleiding doet, vraagt zich dat nog steeds af. Alleen krijgt ze nu antwoord van Google zelf, samengesteld uit wat het over jou kan vinden. Dat maakt [seo voor makelaars](/seo) minder een kwestie van vakjes invullen en meer een kwestie van vindbare feiten.
 
-## Wat is de Google Q&A-sectie precies?
+## Wat er precies is gebeurd
 
-De vragen-en-antwoorden sectie zit op je Google Bedrijfsprofiel, het profiel dat verschijnt in Google Maps en rechts in de zoekresultaten als iemand op je kantoornaam of op "makelaar [stad]" zoekt. Iedereen met een Google-account mag daar een vraag stellen. En, dit is het venijnige deel, iedereen mag hem ook beantwoorden.
+Twee data, allebei door Google zelf aangekondigd.
 
-Dat betekent dat een concurrent, een ontevreden voorbijganger of simpelweg iemand die het niet zeker weet, jouw kandidaat-klant van een half antwoord kan voorzien. Het antwoord met de meeste likes komt bovenaan te staan. Reageer jij niet, dan bepaalt het toeval wat een woningzoeker over jou leest.
+Op 3 november 2025 zette Google de koppeling uit waarmee software vragen en antwoorden kon lezen en plaatsen. In zijn eigen ontwikkelaarsdocumentatie staat dat de Q&A-API is stopgezet en dat je er geen vragen en antwoorden meer mee kunt lezen of posten. Vanaf 3 december 2025 verdween de publieke sectie van de profielen zelf, in golven over de maanden erna.
 
-## Waarom dit een verkoopkanaal is, geen bijzaak
+Alles wat in die sectie stond is daarmee onzichtbaar geworden. Had je er ooit vijf goede vragen in gezet, dan zijn die weg. Stond er een verkeerd antwoord van een voorbijganger, dan is dat gelukkig ook weg. Er komt geen vervangende sectie waarin je zelf vragen kunt plaatsen.
 
-Iemand die de moeite neemt een vraag te stellen, of de vragen van anderen leest, zit diep in zijn beslisproces. Dit is geen verdwaalde bezoeker. Dit is een verkoper die twijfelt tussen twee kantoren, of een koper die wil weten of jij hem verder kunt helpen. De afstand tussen die vraag en een telefoontje is klein.
+## Wie er nu antwoord geeft namens jouw kantoor
+
+Google zelf, en het put daarbij uit drie bronnen. In Nederland zie je dat terug in de AI-overzichten boven de zoekresultaten, sinds mei 2025 ook in het Nederlands, en in de AI-modus die hier sinds oktober 2025 wordt uitgerold.
+
+- **Je Bedrijfsprofiel.** Je diensten, je werkgebied, je openingstijden, je bedrijfsomschrijving.
+- **Je website.** De pagina's waarop je uitlegt wat je doet, in welke plaatsen, en wat het kost.
+- **Je reviews.** De woorden die verkopers en kopers gebruiken, niet alleen het aantal sterren.
 
 ![Makelaar bekijkt het Google-profiel van het kantoor op een tablet aan een vergadertafel](/images/blog/google-qa-makelaar-verkoopkanaal-2.jpg)
 
-Er zit nog een tweede laag in. Een profiel met heldere, complete antwoorden oogt verzorgd en actief, en dat is precies wat Google beloont bij [lokale seo voor makelaars](/seo). Een levend profiel met ingevulde vragen rankt beter dan een leeg profiel dat al maanden stilstaat. Je wint dus twee keer: de woningzoeker krijgt vertrouwen, en je positie in Google Maps wordt sterker.
+De omkering zit hierin: je vult geen antwoord meer in, je vult de bronnen. Wat nergens staat kan Google niet doorgeven. Een kantoor dat zijn courtage nergens noemt en zijn werkgebied alleen in de voettekst heeft staan, valt uit het antwoord op precies de vragen waarmee mensen kiezen.
 
-## De vragen die je zelf moet plaatsen
+## De vragen zijn niet veranderd, hun bestemming wel
 
-Hier komt de tactiek die de meeste makelaars verrast: je mag je eigen vragen plaatsen en beantwoorden. Dat is geen misleiding, het is precies waarvoor de sectie bedoeld is, namelijk de meest gestelde vragen vast zichtbaar maken. Zie het als een FAQ die meekijkt op het moment dat iemand kiest.
+Dit zijn nog steeds de vragen die je aan de telefoon en bij de eerste kennismaking het vaakst hoort. Alleen de kolom ernaast is nieuw.
 
-Bedenk welke vragen je aan de telefoon en bij de eerste kennismaking het vaakst hoort, en zet die er zelf op. Voor de meeste makelaarskantoren zijn dit de kansrijke vragen:
-
-| Vraag op je profiel | Waarom hij werkt |
+| De vraag van je klant | Waar het antwoord nu hoort |
 |---|---|
-| Verkopen jullie ook woningen in [omliggende plaats]? | Vangt zoekers uit je hele werkgebied af, niet alleen je vestigingsplaats |
-| Wat kost een verkoopmakelaar bij jullie? | Prijstransparantie haalt twijfelaars over de streep |
-| Doen jullie ook aankoopbegeleiding? | Opent een tweede dienst die veel mensen niet verwachten |
-| Hoe snel kan ik een waardebepaling of bezichtiging plannen? | Speelt in op de behoefte aan snelheid |
-| Werken jullie met een vast tarief of courtage? | Beantwoordt de vraag die iedereen heeft maar weinigen stellen |
+| Verkopen jullie ook woningen in [omliggende plaats]? | In je werkgebied op je profiel, en op een eigen stadspagina per plaats waar je actief bent. |
+| Wat kost een verkoopmakelaar bij jullie? | Op een tariefpagina, met bedragen of percentages die er echt staan. |
+| Doen jullie ook aankoopbegeleiding? | Als aparte dienst in je profiel én als eigen pagina op je site. |
+| Hoe snel kan ik een waardebepaling of bezichtiging plannen? | Op je afspraakpagina, met een reële termijn erbij. |
+| Werken jullie met een vast tarief of courtage? | Op diezelfde tariefpagina, in één duidelijke zin bovenaan. |
 
-Houd de antwoorden kort, vriendelijk en concreet. Eén of twee zinnen, met een duidelijke vervolgstap zoals "bel ons gerust voor een vrijblijvende waardebepaling". Geen verkooppraat, gewoon het antwoord dat je ook aan de telefoon zou geven.
+Kijk je die lijst door, dan zie je wat er echt is veranderd. Vroeger typte je vijf antwoorden in een vakje en was je klaar. Nu moet elk van die antwoorden ergens bestaan als tekst of als profielveld. Dat is meer werk, en het werkt tegelijk veel breder door: dezelfde pagina beantwoordt de vraag in Google, in je zoekresultaten en bij de bezoeker die hem alsnog op je site leest. Zorg dat je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-makelaar-bezichtigingen) daarbij compleet is, want dat is de bron die het snelst rendeert.
 
-## Zo beheer je het zonder elke dag te checken
+## Zo schrijf je iets op dat Google kan gebruiken
 
-De grootste reden dat makelaars dit laten liggen, is dat nieuwe vragen geen duidelijke melding geven. Iemand stelt een vraag, jij ziet het niet, en dagen later staat er een verkeerd antwoord onder.
+- **Beantwoord de vraag in de eerste zin.** "Ja, wij begeleiden ook aankopen in Zoetermeer en omgeving." Daarna pas de nuance.
+- **Gebruik de woorden van je klant.** Zij zegt "wat kost een makelaar", niet "onze dienstverleningspropositie".
+- **Zet het feit erin.** Een percentage, een bedrag, een plaatsnaam, een termijn. Zonder feit is er niets om door te geven.
+- **Eén onderwerp, één pagina.** Drie pagina's die half hetzelfde zeggen zijn slechter dan één die het goed zegt.
 
-Zet daarom een vast moment in je week om je profiel te openen en te kijken of er iets nieuws staat. Combineer dat met de Google-app op je telefoon, die meldingen kan sturen bij activiteit op je profiel. Wie zijn vindbaarheid serieus aanpakt, laat het monitoren van profiel, [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-makelaar-bezichtigingen) en reviews onderdeel zijn van één vaste routine, zodat niets meer ongemerkt blijft staan.
+## Waarom je reviews nu zwaarder wegen
 
-## Q&A, reviews en je ranking horen bij elkaar
+Reviews en vragen waren twee gescheiden kanalen. Nu zijn je reviews een van de drie bronnen waaruit Google het antwoord samenstelt. Dat verandert wat een waardevolle review is: vijf sterren zonder tekst zegt niets over je werkgebied, je tarief of je snelheid. Vijf sterren met de zin "binnen een week een waardebepaling en drie weken later verkocht" is inhoud.
 
-De Q&A-sectie staat niet op zichzelf. Hij werkt het hardst in combinatie met de andere signalen op je profiel. Reviews tonen dat klanten tevreden zijn, de Q&A toont dat je bereikbaar en duidelijk bent, en samen bepalen ze of een woningzoeker jou kiest of doorklikt.
+Daarom loont het om [google reviews verzamelen als makelaar](/reviews) structureel aan te pakken en klanten te vragen te benoemen waarvoor ze kwamen. Dat is hoe je stap voor stap [hoger in google komen als makelaar](/seo) waarmaakt, zonder dat je een euro aan advertenties uitgeeft.
 
-Daarom loont het om beide actief bij te houden. Zorg dat je structureel [google reviews verzamelen als makelaar](/reviews) combineert met een nette Q&A, want voor Google is een profiel met verse reviews en beantwoorde vragen het bewijs dat je een actief, betrouwbaar kantoor bent. Dat is hoe je stap voor stap [hoger in google komen als makelaar](/seo) waarmaakt, zonder dat je een euro aan advertenties uitgeeft.
+## Zo houd je het bij zonder er tijd in te verliezen
+
+De sectie die je moest bewaken is weg, dus dit is minder werk dan voorheen. Wat blijft is dit: controleer één keer per kwartaal dat je tarieven, je werkgebied en je diensten op je site nog kloppen, en vul de profielvelden af die nog leeg staan. Verandert je courtage, dan verander je die op de tariefpagina, niet in vijf losse antwoorden.
+
+En houd bij welke vraag je aan de telefoon blijft krijgen. Elke vraag die nog gebeld wordt, is een vraag waarop Google bij jou geen antwoord kon vinden.
 
 ## Veelgestelde vragen
 
-**Mag ik echt mijn eigen vragen stellen en beantwoorden?**
-Ja. Google staat toe dat je veelgestelde vragen zelf plaatst en beantwoordt vanuit je bedrijfsaccount. Het is bedoeld om bezoekers snel te helpen. Verzin geen nepvragen die je dienst overdrijven, houd het bij echte vragen die klanten ook stellen.
+**Komt de vragensectie nog terug?**
+Nee. Google heeft de functie eind 2025 uitgezet en geen vervanger aangekondigd waarin je zelf vragen kunt plaatsen. De vervanging zit in de antwoorden die Google zelf samenstelt.
 
-**Hoe vaak moet ik de sectie controleren?**
-Eén vaste check per week is voor de meeste kantoren genoeg. Krijg je veel verkeer, kijk dan twee keer per week, zodat een nieuw of fout antwoord nooit lang blijft staan.
+**Zijn mijn oude vragen en antwoorden nog te zien?**
+Nee, die zijn met de sectie verdwenen. Stond daar informatie die nergens anders staat, dan is dat nu een gat op je website of in je profiel.
 
-**Wat doe ik met een misleidend antwoord van iemand anders?**
-Plaats er zelf direct het juiste antwoord onder en laat klanten of collega's jouw antwoord liken, zodat het bovenaan komt. Ronduit ongepaste antwoorden kun je bij Google melden voor verwijdering.
+**Hoe zie ik wat Google over mijn kantoor vertelt?**
+Zoek je kantoor en je belangrijkste diensten op zoals een klant dat zou doen, op je telefoon en niet ingelogd. Wat je dan boven de resultaten leest, is wat zij lezen.
 
 ## Maak van je profiel een verkoper die altijd aanstaat
 
-Je profiel staat dag en nacht online, ook als jij op bezichtiging bent of vrij bent. De Q&A-sectie is het stukje waar twijfelende klanten hun laatste vraag kwijt kunnen. Laat dat niet aan het toeval over.
+Je profiel staat dag en nacht online, ook als jij op bezichtiging bent. Het verschil met vroeger is dat het nu niet meer voorleest wat jij hebt ingetypt, maar navertelt wat het over je kan vinden. Zorg dus dat er iets te vinden is.
 
 Wil je weten hoe compleet jouw Google Bedrijfsprofiel nu scoort? Doe de gratis [AI-scan voor makelaars](/gratis-scan) en zie meteen waar je vindbaarheid leads laat liggen. Wij van WoningAI bouwen je lokale aanwezigheid op met content en profielbeheer die Google gelooft, en we werken met een Groei-of-Geld-Terug Garantie. Jij verkoopt woningen, wij regelen de rest.
 

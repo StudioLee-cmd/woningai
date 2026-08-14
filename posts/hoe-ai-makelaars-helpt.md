@@ -34,7 +34,7 @@ Elke makelaar weet: een lead die niet binnen 5 minuten wordt opgevolgd, koelt ra
 
 Veel makelaars denken dat AI hun expertise wil vervangen. Dat is onzin. Een robot kan (voorlopig) niet de emotie en onderhandeling van een verkoop doen. Het gaat om het vervangen van het trage kantoorwerk. Onze AI tools vervangen in feite drie onderdelen:
 - **De Binnendienst/Planner:** Een extra medewerker kost al snel €40.000 per jaar. Onze Voice AI neemt 24/7 op, plant bezichtigingen en beantwoordt algemene vragen over panden.
-- **Het Marketingbureau:** Wil je meer verkoopopdrachten in een specifieke wijk? Onze [Social Media](/social-media) AI & Tekstschrijver AI regelen je lokale zichtbaarheid door constant relevante content te plaatsen.
+- **Het Marketingbureau:** Wil je meer verkoopopdrachten in een specifieke wijk? Onze [Social Media](/social-media) AI & SEO Blog AI regelen je lokale zichtbaarheid door constant relevante content te plaatsen.
 - **Handmatige Lead-opvolging:** Geen copy-paste werk meer van Funda naar je CRM. WoningAI koppelt alles aan elkaar.
 
 ## Waarom het een No-Brainer is voor elke makelaar

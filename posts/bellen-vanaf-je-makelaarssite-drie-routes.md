@@ -9,7 +9,7 @@ tags: ["Voice AI", "Bereikbaarheid", "Website"]
 cluster: "voice-ai"
 ---
 
-Om kwart voor acht 's avonds klikt iemand op je website op je telefoonnummer. Dat is bijna nooit een vraag over een bezichtiging. Dat is meestal iemand die die avond aan de keukentafel heeft besloten dat het huis eruit gaat, en die nu de eerste makelaar belt die hij tegenkomt.
+Om kwart voor acht 's avonds klikt iemand op je website op je telefoonnummer. Dat kan een vraag over een bezichtiging zijn, of iemand die aan de keukentafel heeft besloten een verkoop te verkennen. Je weet het pas als de vraag wordt opgevangen.
 
 Wat er dan gebeurt heb jij ingesteld, of juist niet ingesteld. En die keuze bepaalt of dat gesprek morgen een waardebepaling is of een klant van je collega.
 
@@ -21,7 +21,7 @@ Bij de meeste makelaarskantoren gebeurt één van drie dingen. Het gaat over naa
 
 Alle drie leveren ze hetzelfde op: iemand die ophangt en verder scrollt. En de bezoeker doet dat zonder wrok, want hij belt gewoon de volgende. Dat gemis staat nergens in je systeem, en dat is precies waarom het jaren kan doorlopen zonder dat iemand het merkt.
 
-Er zijn drie routes die dat wél opvangen, en ze verschillen minder in techniek dan in wat de beller ervaart. Twee ervan bestaan al op je site; de derde, [voice ai voor makelaars](/voice-ai), is de enige die daadwerkelijk opneemt.
+Er zijn drie routes die dat wél opvangen, en ze verschillen minder in techniek dan in wat de beller ervaart. Twee ervan bestaan al op je site; de derde, [voice ai voor makelaars](/voice-ai), kan opnemen wanneer er geen medewerker beschikbaar is.
 
 ![Keukentafel bij lamplicht met een opengeslagen woningbrochure, een telefoon met een oplichtend scherm erop en een mok thee](/images/blog/bellen-vanaf-je-makelaarssite-drie-routes-2.jpg)
 
@@ -39,7 +39,7 @@ Wat je nooit doet is je nummer op je site zetten zonder te weten waar het uitkom
 
 ## Route 2: het terugbelverzoek-formulier
 
-De route die de meeste makelaarssites hebben, en die het minst oplevert van de drie.
+Een terugbelformulier geeft de bezoeker een alternatief wanneer direct spreken niet lukt. Wat het oplevert, moet je meten in je eigen aanvragen.
 
 **Wat het oplevert:** een naam en een nummer, mits iemand de moeite neemt. In de praktijk vult een deel van je bellers het niet in, want wie belt wil praten en geen formulier.
 
@@ -57,9 +57,9 @@ De derde route neemt wél op, ook om kwart voor acht, en voert het gesprek dat j
 
 **Wat het oplevert:** de beller wordt gehoord in plaats van doorverwezen. Een [ai telefonist voor makelaars](/voice-ai) stelt jouw vragen, noteert het adres, het type woning en of het om verkopen of zoeken gaat, en zet dat als complete aanvraag klaar. Jij leest 's ochtends een ingevulde intake in plaats van een gemiste oproep.
 
-**Wat het kost:** instelwerk vooraf. Hij moet weten wat je wel en niet aanbiedt, in welke plaatsen je werkt en wanneer hij moet doorverbinden in plaats van afhandelen.
+**Wat het kost:** instelwerk vooraf, een abonnement en eventueel gebruikskosten volgens het gekozen aanbod. Hij moet weten wat je wel en niet aanbiedt, in welke plaatsen je werkt en wanneer hij moet doorverbinden in plaats van afhandelen.
 
-**Wanneer je het doet:** zodra je meer dan een paar avondoproepen per week hebt, of zodra je merkt dat je zelf niet meer opneemt. Voor een kantoor met twee of meer makelaars is dit meestal de enige route die schaalt, omdat een doorschakeling naar één mobiel dan een intern verdeelprobleem wordt.
+**Wanneer je het doet:** zodra je meer dan een paar avondoproepen per week hebt, of zodra je merkt dat je zelf niet meer opneemt. Bij meerdere makelaars moet je ook de verdeling regelen. Vergelijk een AI-telefonist met een gedeelde bellijn of antwoordservice en test welke route jouw intake goed afhandelt.
 
 Wat een [ai telefoonbeantwoorder voor makelaars](/voice-ai) niet is: een vervanger voor het gesprek. Hij vangt de eerste minuut op zodat jij de tweede afspraak krijgt. Dat is ook waarom hij zichzelf aan het begin voorstelt als digitale assistent en altijd een weg naar een mens houdt.
 
@@ -67,7 +67,7 @@ Wat een [ai telefoonbeantwoorder voor makelaars](/voice-ai) niet is: een vervang
 
 De keuze hangt aan twee dingen: hoe vaak er buiten kantooruren gebeld wordt, en of je het aankunt om dan zelf op te nemen.
 
-**Eenmanskantoor, weinig avondvolume.** Doorschakelen binnen een venster, met een terugbelformulier eronder. Dat is genoeg en het kost je niets extra.
+**Eenmanskantoor, weinig avondvolume.** Doorschakelen binnen een venster, met een terugbelformulier eronder. Controleer of dat genoeg opvang biedt en welke bel- of doorschakelkosten je provider rekent.
 
 **Eenmanskantoor, groeiend volume.** Doorschakelen tot een tijdstip, daarna een [ai voice agent voor makelaars](/voice-ai) die de rest opvangt. Zo blijf je bereikbaar zonder je avond te verliezen.
 
@@ -99,7 +99,7 @@ Ja, en dat hoort ook: het systeem zegt dat zelf aan het begin. Wat mensen storen
 **Wat als iemand belt over een woning van een collega?**
 Zorg dat de eerste lijn dat herkent en het adres noteert in plaats van te improviseren. Een doorverwijzing die klopt, kost je niets; een verkeerd antwoord over andermans woning wel.
 
-## Conclusie: de knop is de goedkoopste lead die je hebt
+## Conclusie: zorg dat een telefoontje een vervolg krijgt
 
 Iemand die op je nummer klikt heeft de moeilijkste stap al gezet. Hij is van kijken naar handelen gegaan, en hij doet dat op een moment dat jou vaak niet uitkomt.
 

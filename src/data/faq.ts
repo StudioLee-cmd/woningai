@@ -15,7 +15,7 @@ export const faqs: IFAQ[] = [
     },
     {
         question: "Werkt dit samen met mijn huidige software?",
-        answer: "Ja, wij koppelen met systemen zoals Realworks, Kolibri, Moneybird en Outlook. Zo worden afspraken en leads direct goed gezet zonder dat jij iets hoeft over te typen.",
+        answer: "Bezichtigingsaanvragen komen direct in Realworks, nadat jij onze koppeling in Realworks toestaat. Werk je met Kolibri of Skarabee, dan komen aanvragen in je agenda en zetten we ze over met een export die wij inladen. Exact Online blijft gekoppeld aan Realworks.",
     },
     {
         question: "Wat als de AI het antwoord niet weet?",

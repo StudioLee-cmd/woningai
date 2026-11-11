@@ -105,4 +105,4 @@ Reageer openbaar kort en rustig, en bied aan om het offline verder op te lossen.
 
 Reageren op reviews is geen bijzaak die je erbij doet als je tijd over hebt. Het is publiek bewijs dat je betrokken bent, en voor een makelaar is dat de kortste route naar de volgende opdracht. Met AI-templates en een slimme reactie-workflow reageer je binnen een uur op elke koper en verkoper, zonder dat het je eigen tijd kost.
 
-Benieuwd hoeveel onbeantwoorde reviews jouw reputatie nu kosten? Vraag de [gratis ai scan voor makelaars](/gratis-scan) van WoningAI aan en zie zwart op wit waar de winst zit. Alles wat we voor je inrichten valt onder onze Groei-of-Geld-Terug Garantie, dus het risico ligt bij ons, niet bij jou. Jij verkoopt woningen, wij regelen de rest.
+Benieuwd hoeveel onbeantwoorde reviews jouw reputatie nu kosten? Vraag de [gratis ai scan voor makelaars](/gratis-scan) van WoningAI aan en zie zwart op wit waar de winst zit. Jij verkoopt woningen, wij regelen de rest.

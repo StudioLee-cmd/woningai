@@ -103,7 +103,7 @@ Een makelaar-website die concurrentieanalyse-inzichten direct kan toepassen, hee
 - Reviews-integratie van Google die automatisch updaten.
 - Een offerte-aanvraag flow die binnen 12 uur reactie geeft.
 
-Wil je weten waar jouw website nu staat ten opzichte van top-3 makelaars in jouw regio? Plan een [gratis ai-scan](/gratis-scan) en we doen samen de complete concurrentieanalyse plus website-audit. We werken met de Groei-of-Geld-Terug Garantie.
+Wil je weten waar jouw website nu staat ten opzichte van top-3 makelaars in jouw regio? Plan een [gratis ai-scan](/gratis-scan) en we doen samen de complete concurrentieanalyse plus website-audit.
 
 ## Veelgestelde vragen
 
@@ -135,4 +135,4 @@ Ja, met aanpassing. Vergelijk je met andere ZZP-makelaars in jouw regio, niet me
 
 Een concurrentieanalyse van 30 minuten geeft je objectieve data om je courtage, je propositie en je marketing op te baseren. Makelaars die deze check minstens één keer per jaar doen, prijzen zichzelf marktconform of premium en winnen significant meer opdrachten in het juiste segment dan collega's die op gevoel werken.
 
-Wil je weten hoe jouw kantoor zich positioneert in jouw regio? Plan een [gratis ai-scan](/gratis-scan) en we doen samen een volledige concurrentieanalyse plus directe verbeterpunten voor je website en propositie. Met de Groei-of-Geld-Terug Garantie weet je vooraf wat je investering oplevert.
+Wil je weten hoe jouw kantoor zich positioneert in jouw regio? Plan een [gratis ai-scan](/gratis-scan) en we doen samen een volledige concurrentieanalyse plus directe verbeterpunten voor je website en propositie.

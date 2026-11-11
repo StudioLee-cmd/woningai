@@ -95,6 +95,6 @@ Lichte instappakketten beginnen rond de 75 tot 110 euro per maand. Realworks wer
 
 Stop met zoeken naar de beste makelaarssoftware en begin met de vraag welke software past bij jouw kantoorgrootte. Kies je kernpakket licht als je zelfstandig werkt, gedeeld als je een klein team hebt, en compleet als je op schaal draait. Leg daar de AI-laag overheen die je grootste lek dicht, want die tweede laag bepaalt dag in dag uit hoeveel interesse je omzet in opdrachten. Jij verkoopt woningen, de juiste stack regelt de rest.
 
-Benieuwd waar bij jouw kantoor de meeste leads blijven liggen? Doe de [gratis ai scan voor makelaars](/gratis-scan) en je krijgt concrete punten waarmee je direct verder kunt. We werken met een Groei-of-Geld-Terug Garantie, dus je weet zeker dat je investering rendement oplevert. Meer leads, snellere opvolging.
+Benieuwd waar bij jouw kantoor de meeste leads blijven liggen? Doe de [gratis ai scan voor makelaars](/gratis-scan) en je krijgt concrete punten waarmee je direct verder kunt. Meer leads, snellere opvolging.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/makelaar-automatiseren-5-workflows-hoogste-roi" class="text-dark fw-semibold">Makelaar automatiseren: 5 workflows met de hoogste ROI</a> →</p>

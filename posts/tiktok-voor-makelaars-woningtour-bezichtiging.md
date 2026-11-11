@@ -63,6 +63,6 @@ Buurt-tours, uitleg over de markt of veelgestelde vragen van kopers en verkopers
 
 TikTok is voor makelaars een van de snelste manieren om lokaal op te vallen en je bezichtigingsagenda te vullen. Maak korte, eerlijke video's van je woningen en je buurt, post consistent en behandel het platform als de bovenkant van je funnel. De echte winst zit niet in de views, maar in wat je daarna met de aandacht doet.
 
-Wil je een website die elke TikTok-kijker soepel naar een bezichtiging leidt? Vraag een [gratis website voor makelaars](/gratis-website) aan en zie hoe je van kijkers echte afspraken maakt. We werken met de Groei-of-Geld-Terug Garantie van WoningAI, dus je investering levert gegarandeerd rendement op. Jij verkoopt woningen, wij regelen de rest.
+Wil je een website die elke TikTok-kijker soepel naar een bezichtiging leidt? Vraag een [gratis website voor makelaars](/gratis-website) aan en zie hoe je van kijkers echte afspraken maakt. Jij verkoopt woningen, wij regelen de rest.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/instagram-contentkalender-makelaar-30-dagen" class="text-dark fw-semibold">Instagram contentkalender voor makelaars: 30 dagen klaar</a> →</p>

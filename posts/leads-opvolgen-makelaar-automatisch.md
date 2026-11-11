@@ -81,7 +81,7 @@ Het verschil? Vaak simpelweg de snelheid en consistentie van je opvolging.
 
 In vastgoed wint niet de beste makelaar — de snelste wint. Automatische lead-opvolging zorgt dat geen enkele potentiële koper of verkoper onbeantwoord blijft, ook buiten kantooruren.
 
-Met [WoningAI](/) automatiseer je je volledige lead-opvolging. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [WoningAI](/) automatiseer je je volledige lead-opvolging. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoeveel leads je nu mist.
 

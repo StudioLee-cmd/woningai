@@ -74,6 +74,6 @@ Zie je die drie niet verschuiven, dan vangt je bot wel berichten maar kwalificee
 
 Het vers-brood-moment van elke woning valt in de avond, en juist dan staat er bij de meeste makelaars niemand achter de balie. Wie dat window afdekt met een chatbot die opvangt, doorvraagt en klaarzet, belt elke ochtend als eerste met de warmste kandidaten. Niet omdat je harder werkt, maar omdat het voorwerk al gedaan is.
 
-Wil je zien hoe zo'n intake-balie op jouw site staat, inclusief chatbot die met je huisstijl en woningaanbod meedraait? Bekijk dan de [gratis website voor makelaars](/gratis-website) die we voor je bouwen. We werken met een Groei-of-Geld-Terug Garantie, dus je weet zeker dat je investering rendement oplevert. Jij verkoopt woningen, wij regelen de rest.
+Wil je zien hoe zo'n intake-balie op jouw site staat, inclusief chatbot die met je huisstijl en woningaanbod meedraait? Bekijk dan de [gratis website voor makelaars](/gratis-website) die we voor je bouwen. Jij verkoopt woningen, wij regelen de rest.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/chatbot-of-faq-pagina-makelaarswebsite" class="text-dark fw-semibold">Chatbot of FAQ-pagina op je makelaarswebsite?</a> →</p>

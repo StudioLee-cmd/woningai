@@ -72,4 +72,4 @@ De eerste week is vooral finetunen: je leest de gespreksverslagen terug en scher
 
 Verkopers en kopers beoordelen je kantoor allang niet meer alleen op je etalage of je borden in de wijk. Het eerste échte contactmoment is vaak een telefoontje, en precies daar beslist een beller of jouw kantoor "moeilijk bereikbaar" of "direct geholpen" aanvoelt. Voicemail registreert die kans; een [virtuele telefonist](/voice-ai) verzilvert hem. Jij verkoopt woningen, wij regelen de rest.
 
-Benieuwd hoeveel bellers er nu langs je voicemail glippen? Vraag de [gratis ai scan voor makelaars](/gratis-scan) van WoningAI aan: je ziet per kanaal waar je leads lekken en wat een AI-telefonist daarvan opvangt. Alles wat we inrichten valt onder onze Groei-of-Geld-Terug Garantie, dus het risico ligt bij ons.
+Benieuwd hoeveel bellers er nu langs je voicemail glippen? Vraag de [gratis ai scan voor makelaars](/gratis-scan) van WoningAI aan: je ziet per kanaal waar je leads lekken en wat een AI-telefonist daarvan opvangt.

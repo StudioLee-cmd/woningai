@@ -87,8 +87,6 @@ Kies een focus die je onderscheidt:
 
 Bij StudioLee bouwen we merken voor makelaars. Van [klantcommunicatie](/blog/klantcommunicatie-makelaar) tot content die verkopers aantrekt. Met slechts **15 minuten per maand** aan jouw kant.
 
-De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
-
 [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe sterk jouw makelaarsmerk al is.
 
 ## Conclusie

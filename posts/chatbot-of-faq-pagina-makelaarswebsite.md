@@ -81,4 +81,4 @@ Een goed ingerichte chatbot zegt dat eerlijk en vraagt om een telefoonnummer of 
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/makelaarswebsite-meer-bezichtigingen" class="text-dark fw-semibold">Je makelaarswebsite als conversiemachine: meer bezichtigingen zonder extra advertenties</a> →</p></div></div></div>
 
-Jij verkoopt woningen, wij regelen de rest. Met de Groei-of-Geld-Terug Garantie van WoningAI richten we een [website chatbot voor makelaars](/chatbot) volledig voor je in, getraind op je woningaanbod en gekoppeld aan je agenda, zodat geen avondaanvraag meer blijft liggen. Meer leads, snellere opvolging.
+Jij verkoopt woningen, wij regelen de rest. Meer leads, snellere opvolging.

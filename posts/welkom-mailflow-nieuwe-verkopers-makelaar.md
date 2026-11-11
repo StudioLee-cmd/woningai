@@ -94,6 +94,6 @@ Nee, hij beschermt het. De flow neemt de routinematige updates over, zodat jij j
 
 De week na de handtekening is het moment waarop je een verkoper voor je wint of langzaam kwijtraakt, en stilte is daarin de duurste fout. Met een welkom-mailflow van vier mails, welkom en het plan, de voorbereiding loopt, je woning staat live en de eerste bezichtiging staat gepland, geef je elke nieuwe verkoper rust en regie. Eenmaal geautomatiseerd kost het je geen tijd meer en levert het je tevreden klanten op die je aanbevelen.
 
-Wil je weten hoe goed jouw huidige opvolging nieuwe opdrachten vasthoudt? Doe de [gratis ai scan voor makelaars](/gratis-scan) en je krijgt concrete punten waarmee je direct verder kunt. We werken met een Groei-of-Geld-Terug Garantie, dus je weet zeker dat je investering rendement oplevert. Jij verkoopt woningen, wij regelen de rest.
+Wil je weten hoe goed jouw huidige opvolging nieuwe opdrachten vasthoudt? Doe de [gratis ai scan voor makelaars](/gratis-scan) en je krijgt concrete punten waarmee je direct verder kunt. Jij verkoopt woningen, wij regelen de rest.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/klantcommunicatie-makelaar" class="text-dark fw-semibold">Klantcommunicatie als makelaar: van bezichtiging tot sleuteloverdracht</a> →</p>

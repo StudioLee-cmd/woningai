@@ -125,6 +125,6 @@ Allebei. Korte video's van woningen en bezichtigingen krijgen vaak meer bereik, 
 
 De vraag "wat post ik vandaag?" hoort niet thuis op je drukste moment van de dag. Met vaste contentpijlers, een wekelijks ritme en de 30-dagen kalender hierboven verplaats je die beslissing naar een rustig uurtje per maand. De rest is uitvoeren. Jij verkoopt woningen, je feed regelt de rest.
 
-Wil je weten waar jouw online aanwezigheid nu staat en wat er beter kan? Doe de [gratis ai scan voor makelaars](/gratis-scan) en je krijgt concrete punten waarmee je direct verder kunt. We werken met een Groei-of-Geld-Terug Garantie, dus je weet zeker dat je investering rendement oplevert. Meer leads, snellere opvolging.
+Wil je weten waar jouw online aanwezigheid nu staat en wat er beter kan? Doe de [gratis ai scan voor makelaars](/gratis-scan) en je krijgt concrete punten waarmee je direct verder kunt. Meer leads, snellere opvolging.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/social-media-makelaars-bezichtigingen" class="text-dark fw-semibold">Social media voor makelaars: zo benut je bezichtigingen</a> →</p>

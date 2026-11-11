@@ -67,4 +67,4 @@ Dit werkt niet voor elke woning. Bij luxe objecten verwachten kopers een individ
 
 Elke bezichtiging die wel doorgaat is een stap dichter bij een verkoop. Door herinneringen te sturen, bevestiging te vragen en kopers betrokken te houden, verhoog je het percentage dat daadwerkelijk komt opdagen. Dat betekent snellere verkoop en minder verspilde tijd.
 
-Wil je weten hoe je je hele klantproces kunt optimaliseren? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt inzicht in je werkwijze, je online [vindbaarheid](/seo) en concrete verbeterpunten. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe je je hele klantproces kunt optimaliseren? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt inzicht in je werkwijze, je online [vindbaarheid](/seo) en concrete verbeterpunten.

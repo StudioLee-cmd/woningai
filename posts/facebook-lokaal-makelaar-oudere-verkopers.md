@@ -96,6 +96,8 @@ Neem iemand die vraagt of het verstandig is om in het najaar te verkopen. Een an
 
 ## Messenger en reacties: waar de aanvraag blijft liggen
 
+![Messenger en reacties: waar de aanvraag blijft liggen](/images/blog/facebook-lokaal-makelaar-oudere-verkopers-2.jpg)
+
 Een oudere verkoper die 's avonds om 21:30 uur een bericht stuurt via Messenger, verwacht geen antwoord binnen 5 minuten. Wel binnen 1 werkdag. Blijft een vraag 3 dagen liggen, dan ziet de hele buurt dat in de reacties, en dat kost meer dan het bericht zelf.
 
 Stel dat je op een drukke donderdag 4 bezichtigingen hebt en 's avonds 6 berichten binnenkrijgt: 2 vragen over een woning, 1 vraag naar een waardebepaling en 3 losse reacties. Een [ai chatbot voor makelaars](/chatbot) kan de eerste vragen direct beantwoorden en bij de waardebepaling een afspraak voorstellen, zodat jij de volgende ochtend alleen de ene verkoper hoeft te bellen die er echt toe doet. Zonder hulp maak je er een vaste afspraak van: elke werkdag om 08:30 uur 15 minuten Messenger en reacties.
@@ -115,8 +117,6 @@ Het grootste probleem van een makelaar met Facebook is niet de strategie, maar d
 Schrijf de posts voor een hele maand in 1 keer, op een rustige ochtend van 1 uur. Elke verkochte woning, elke tevreden verkoper en elke vraag die je aan de telefoon krijgt, is een onderwerp. Je hoeft niets te verzinnen.
 
 ## Wanneer je Facebook beter overslaat
-
-![Wanneer je Facebook beter overslaat](/images/blog/facebook-lokaal-makelaar-oudere-verkopers-2.jpg)
 
 Facebook is geen verplichting. Voor sommige kantoren kost het meer dan het oplevert, en dan is het eerlijker om het te laten en je tijd te steken in je website of je Google-profiel. Sla Facebook over als:
 

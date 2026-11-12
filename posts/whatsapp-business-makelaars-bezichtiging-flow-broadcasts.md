@@ -5,7 +5,7 @@ date: "2026-05-09"
 excerpt: "Hoe je WhatsApp Business professioneel inzet als makelaar: bezichtiging-flow, broadcasts naar woningzoekenden en automatische opvolging na elke bezichtiging."
 image: "/images/blog/whatsapp-business-makelaars-bezichtiging-flow-broadcasts.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Klantcommunicatie"]
+tags: ["SMS-WhatsApp"]
 cluster: "automatisering"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-06-08"
 excerpt: "Je Google Bedrijfsprofiel heeft een gratis postvak dat de meeste makelaars leeg laten. Dit zijn de 8 post-types die echt bezichtigingen opleveren."
 image: "/images/blog/google-posts-makelaars-post-types.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Vindbaarheid"]
+tags: ["Google Bedrijfsprofiel"]
 cluster: "vindbaarheid"
 ---
 

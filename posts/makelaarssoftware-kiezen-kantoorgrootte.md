@@ -5,7 +5,7 @@ excerpt: "Niet de duurste of populairste makelaarssoftware wint, maar de softwar
 date: "2026-07-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/makelaarssoftware-kiezen-kantoorgrootte.jpg"
-tags: ["Automatisering", "Software"]
+tags: ["Software", "CRM"]
 cluster: "automatisering"
 ---
 

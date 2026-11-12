@@ -5,7 +5,7 @@ excerpt: "Elke fase van het koopproces vraagt om andere communicatie. Ontdek hoe
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klantcommunicatie-makelaar.png"
-tags: ["Klantcommunicatie", "Groei"]
+tags: ["Klantcommunicatie"]
 cluster: "automatisering"
 ---
 

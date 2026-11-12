@@ -5,7 +5,7 @@ date: "2026-07-21"
 excerpt: "Een chatbot is zo goed als de woningdata die je hem voedt. Vier manieren om hem je aanbod te leren kennen en te voorkomen dat hij verouderde info geeft."
 image: "/images/blog/ai-chatbot-trainen-makelaar-woningaanbod.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Chatbot", "AI"]
+tags: ["Chatbot", "Woningaanbod", "Data"]
 cluster: "chatbot"
 ---
 

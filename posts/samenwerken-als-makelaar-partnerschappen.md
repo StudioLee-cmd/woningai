@@ -5,7 +5,7 @@ excerpt: "Strategische samenwerkingen met hypotheekadviseurs, notarissen en aann
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-makelaar-partnerschappen.png"
-tags: ["Groei", "Bezichtigingen"]
+tags: ["Samenwerkingen"]
 cluster: "branding"
 ---
 

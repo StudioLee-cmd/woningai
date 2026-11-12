@@ -5,7 +5,7 @@ excerpt: "Ontdek hoe je als makelaar met reviews en klantcases potentiële verko
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/social-proof-makelaar-reviews-succesverhalen.png"
-tags: ["Reviews", "Marketing"]
+tags: ["Social proof", "Reviews"]
 cluster: "reviews"
 ---
 ## Wat is social proof en waarom werkt het

@@ -5,7 +5,7 @@ date: "2026-05-19"
 excerpt: "9 concrete signalen waaraan je als aankoopmakelaar binnen 5 minuten herkent of een nieuwe lead serieus is. Hot, warm en koud-criteria."
 image: "/images/blog/serieuze-kopers-herkennen-aankoopmakelaar.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["CRM", "Klantcommunicatie"]
+tags: ["Aankoopmakelaar", "CRM"]
 cluster: "automatisering"
 ---
 

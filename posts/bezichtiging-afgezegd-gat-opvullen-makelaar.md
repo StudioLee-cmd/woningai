@@ -5,7 +5,7 @@ date: "2026-07-29"
 excerpt: "Een afzegging komt vaak binnen als jij niet kijkt. Zo bied je het vrijgekomen tijdslot binnen minuten aan de juiste kandidaat aan, in de goede volgorde."
 image: "/images/blog/bezichtiging-afgezegd-gat-opvullen-makelaar.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering"]
+tags: ["Bezichtigingen"]
 cluster: "automatisering"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-04-16"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lead-scoring-makelaar-hot-warm-koud.jpg"
-tags: ["Leads", "Automatisering"]
+tags: ["Lead scoring", "Conversie"]
 ---
 ## Niet elke lead is een lead — waarom je ze moet rangschikken
 

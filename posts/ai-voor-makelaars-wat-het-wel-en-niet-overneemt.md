@@ -5,7 +5,7 @@ excerpt: "AI neemt een deel van je week over, maar lang niet alles. Zo zie je we
 date: "2026-07-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-voor-makelaars-wat-het-wel-en-niet-overneemt.jpg"
-tags: ["AI", "Automatisering"]
+tags: ["Automatisering"]
 cluster: "automatisering"
 ---
 

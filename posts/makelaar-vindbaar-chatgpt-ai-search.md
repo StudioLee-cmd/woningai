@@ -4,7 +4,7 @@ excerpt: "Zo wordt jouw makelaarskantoor genoemd door ChatGPT, Perplexity en Goo
 date: "2026-04-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/makelaar-vindbaar-chatgpt-ai-search.jpg"
-tags: ["Vindbaarheid", "AI"]
+tags: ["AI Search", "ChatGPT"]
 cluster: "vindbaarheid"
 ---
 

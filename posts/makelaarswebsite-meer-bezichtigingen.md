@@ -7,7 +7,7 @@ excerpt: "Je website trekt bezoekers, maar hoeveel worden er bezichtigingen? Ont
 image: "/images/blog/makelaarswebsite-meer-bezichtigingen.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["Bezichtigingen", "Website"]
+tags: ["Website conversie"]
 cluster: "website"
 ---
 

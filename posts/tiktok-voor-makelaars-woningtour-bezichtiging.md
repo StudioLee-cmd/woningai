@@ -5,7 +5,7 @@ excerpt: "TikTok is voor makelaars geen speeltje maar een leadmachine. Zo maak j
 date: "2026-07-08"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/tiktok-voor-makelaars-woningtour-bezichtiging.jpg"
-tags: ["Social Media", "Marketing"]
+tags: ["Social Media", "TikTok"]
 cluster: "social-media"
 ---
 Je filmt een woning voor een bezichtiging, plaatst een korte rondleiding op TikTok en drie dagen later staan er zeven aanvragen in je inbox. Klinkt te mooi? Voor makelaars die het slim aanpakken, is dit inmiddels de normaalste zaak van de wereld. TikTok is voor makelaars geen dansplatform voor tieners meer, maar een van de goedkoopste manieren om lokaal onder de aandacht te komen.

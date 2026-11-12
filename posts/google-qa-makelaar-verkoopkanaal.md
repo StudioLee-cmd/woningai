@@ -5,7 +5,7 @@ date: "2026-06-21"
 excerpt: "De vragen-en-antwoorden sectie op je Google Bedrijfsprofiel is verdwenen. Google beantwoordt de vraag van je klant nu zelf, uit drie bronnen die jij vult."
 image: "/images/blog/google-qa-makelaar-verkoopkanaal.jpg"
 authorSlug: tim-van-der-lee
-tags: ["Google Bedrijfsprofiel"]
+tags: ["Lokale SEO", "Vindbaarheid"]
 cluster: "vindbaarheid"
 ---
 

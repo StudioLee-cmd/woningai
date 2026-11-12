@@ -5,7 +5,7 @@ excerpt: "Een sterk merk als makelaar zorgt voor meer opdrachten en hogere court
 date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/branding-makelaar.png"
-tags: []
+tags: ["Branding", "Merkopbouw"]
 cluster: "branding"
 ---
 

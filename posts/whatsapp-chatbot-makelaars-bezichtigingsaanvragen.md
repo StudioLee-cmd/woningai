@@ -5,7 +5,7 @@ excerpt: "Koopinteresse piekt om 21:00, niet om 09:00. Zo vangt een WhatsApp cha
 date: "2026-07-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/whatsapp-chatbot-makelaars-bezichtigingsaanvragen.jpg"
-tags: ["Chatbot", "Leadopvolging"]
+tags: ["Chatbot", "WhatsApp"]
 cluster: "chatbot"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-06-12"
 excerpt: "Engelstalige of Poolse woningzoekers bellen terwijl jij in een bezichtiging staat. Zo vangt een meertalige AI-telefonist elke beller op in eigen taal."
 image: "/images/blog/meertalige-ai-telefonist-makelaars.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "AI"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

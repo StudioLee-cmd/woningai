@@ -5,7 +5,7 @@ excerpt: "Woningzoekers bekijken Funda 's avonds. Wie binnen een uur reageert op
 date: "2026-04-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/makelaar-response-tijd-avond.jpg"
-tags: ["Bezichtigingen", "Leads"]
+tags: ["Response-tijd", "Leads"]
 cluster: "voice-ai"
 ---
 

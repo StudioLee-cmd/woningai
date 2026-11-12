@@ -5,7 +5,7 @@ date: "2026-07-09"
 excerpt: "NFC-bord, QR-code of sticker: welk review-formaat levert een makelaar de meeste Google reviews op? Zo kies je het juiste voor elk moment."
 image: "/images/blog/review-borden-open-huis-nfc-qr-sticker-makelaar.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Reviews"]
+tags: ["Reviews", "NFC"]
 cluster: "reviews"
 ---
 

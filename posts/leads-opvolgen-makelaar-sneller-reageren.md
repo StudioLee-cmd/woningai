@@ -5,7 +5,7 @@ date: "2026-04-12"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-makelaar-sneller-reageren.jpg"
-tags: ["Leads", "Groei", "Automatisering"]
+tags: ["Leads", "Snelheid"]
 ---
 ## De eerste makelaar die belt, wint
 

@@ -5,7 +5,7 @@ excerpt: "De woningmarkt kent seizoenspatronen. Leer hoe je als makelaar je mark
 date: "2026-03-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/seizoensmarketing-makelaar-verkoopseizoen.png"
-tags: ["Marketing", "Automatisering"]
+tags: ["Seizoenswerk"]
 cluster: "automatisering"
 ---
 

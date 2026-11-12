@@ -6,7 +6,7 @@ date: "2026-04-17"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/koude-leads-opwarmen-makelaar.jpg"
-tags: ["Leads", "Leadopvolging"]
+tags: ["Leadopvolging", "Verkoop"]
 ---
 ## De leads die iedereen vergeet
 

@@ -5,7 +5,7 @@ excerpt: "Leer hoe je als makelaar de klantbeleving optimaliseert voor meer revi
 date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klantbeleving-woningverkoop-bezichtiging.png"
-tags: ["Verkoop", "Automatisering"]
+tags: ["Klantbeleving", "Service"]
 cluster: "automatisering"
 ---
 

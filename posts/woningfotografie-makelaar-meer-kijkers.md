@@ -5,7 +5,7 @@ date: "2026-04-18"
 cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/woningfotografie-makelaar-meer-kijkers.jpg"
-tags: ["Fotografie", "Website"]
+tags: ["Fotografie", "Funda"]
 ---
 ## De eerste indruk is de foto
 

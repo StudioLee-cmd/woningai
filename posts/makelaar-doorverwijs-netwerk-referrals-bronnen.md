@@ -5,7 +5,7 @@ date: "2026-04-22"
 cluster: "branding"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/makelaar-doorverwijs-netwerk-referrals-bronnen.jpg"
-tags: ["Leads"]
+tags: ["Referrals", "Netwerk", "Leads"]
 ---
 De meeste makelaars denken dat mond-tot-mondreclame iets is wat vanzelf gebeurt: je doet goed werk, klant is tevreden, klant vertelt het op verjaardagen. In de praktijk is dat zelden waar. Een tevreden verkoper van een huis vertelt er gemiddeld 1,2 personen over in het eerste jaar. Een ontevreden klant vertelt het er 6 tot 9. De netto mond-tot-mondreclame voor een gemiddelde makelaar is vrijwel nul tot licht negatief, ondanks de beste intenties.
 

@@ -4,7 +4,7 @@ excerpt: "Woningfotografie zelf maken of uitbesteden aan een professional? De ko
 date: "2026-04-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/woningfotografie-zelf-doen-of-uitbesteden.jpg"
-tags: ["Fotografie", "Marketing"]
+tags: ["Fotografie"]
 cluster: "website"
 ---
 ## In het kort

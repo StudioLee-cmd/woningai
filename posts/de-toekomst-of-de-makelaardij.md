@@ -5,7 +5,7 @@ excerpt: "AI gaat de makelaar niet vervangen, maar wel de makelaar die geen AI g
 date: "2026-02-01"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/de-toekomst-of-de-makelaardij.png"
-tags: ["Automatisering", "AI"]
+tags: ["Visie"]
 cluster: "automatisering"
 ---
 

@@ -6,7 +6,7 @@ date: "2026-04-25"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/makelaar-crm-verkopers-database-warme-leads-vroeg-identificeren.jpg"
-tags: ["Makelaar", "CRM", "Verkopers", "Lead Generation"]
+tags: ["CRM", "Leads", "Automatisering"]
 ---
 Een gemiddelde Nederlandse particulier verkoopt zijn huis ergens tussen één keer per 7 en één keer per 10 jaar. De beslissing om te gaan verkopen wordt zelden in een week genomen — er gaan typisch 12 tot 24 maanden overheen tussen het eerste "we denken eens te verhuizen" en de daadwerkelijke verkoop-opdracht aan een makelaar. In die anderhalf à twee jaar gebeuren dingen die de makelaar niet ziet: een gesprek bij een verjaardag waar het huis te klein wordt genoemd, een online vergelijking van vergelijkbare woningen in de buurt, een Funda-bezoekje aan vergelijkbare panden, een gesprek met een hypotheekadviseur over wat de overwaarde nu doet.
 

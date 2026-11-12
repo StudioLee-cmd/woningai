@@ -5,7 +5,7 @@ excerpt: "Kopers, verkopers en doorstromers hebben elk andere opvolging nodig. Z
 date: "2026-07-16"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klantsegmentatie-makelaar-crm-kopers-verkopers-doorstromers.jpg"
-tags: ["CRM", "Klantsegmentatie", "Makelaar"]
+tags: ["CRM", "Automatisering"]
 cluster: "automatisering"
 ---
 

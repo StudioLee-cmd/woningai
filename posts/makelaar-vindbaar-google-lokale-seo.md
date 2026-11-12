@@ -5,7 +5,7 @@ date: "2026-04-07"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/makelaar-vindbaar-google-lokale-seo.jpg"
-tags: ["SEO", "Makelaar", "Vindbaarheid"]
+tags: ["Vindbaarheid"]
 ---
 ## Voorbij Funda: waarom je eigen vindbaarheid als makelaar cruciaal is
 

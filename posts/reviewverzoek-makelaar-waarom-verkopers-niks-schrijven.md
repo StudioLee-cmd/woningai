@@ -5,7 +5,7 @@ excerpt: "Je verkoper zegt ja bij de sleuteloverdracht en schrijft daarna niks. 
 date: "2026-07-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviewverzoek-makelaar-waarom-verkopers-niks-schrijven.jpg"
-tags: ["Reviews", "Klantcommunicatie", "Automatisering"]
+tags: ["Reviews", "Klantcommunicatie"]
 cluster: "reviews"
 ---
 

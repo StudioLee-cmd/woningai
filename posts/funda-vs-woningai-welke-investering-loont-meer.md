@@ -4,7 +4,7 @@ excerpt: "Funda is onmisbaar voor makelaars, maar het is niet je enige groeikana
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/funda-vs-woningai-welke-investering-loont-meer.png"
-tags: ["Tools", "Vergelijking", "Makelaars"]
+tags: ["Vergelijking"]
 cluster: "automatisering"
 ---
 

@@ -6,7 +6,7 @@ date: "2026-04-09"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/negatieve-reviews-makelaar-reageren-leren.jpg"
-tags: ["Reviews", "Makelaar", "Reputatie"]
+tags: ["Reviews", "Reputatie"]
 ---
 ## Waarom een negatieve review niet het einde is
 

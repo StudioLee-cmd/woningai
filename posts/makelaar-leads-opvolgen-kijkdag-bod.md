@@ -5,7 +5,7 @@ date: "2026-04-08"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/makelaar-leads-opvolgen-kijkdag-bod.jpg"
-tags: ["Lead opvolging", "Makelaar", "Bezichtiging"]
+tags: ["Leadopvolging"]
 ---
 ## Waarom de eerste 24 uur na een bezichtiging cruciaal zijn
 

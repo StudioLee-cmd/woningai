@@ -5,7 +5,7 @@ date: "2026-06-06"
 excerpt: "Niet alles automatiseren, maar de juiste dingen eerst. Dit zijn de 5 workflows die makelaars de meeste leads, tijd en omzet opleveren."
 image: "/images/blog/makelaar-automatiseren-5-workflows-hoogste-roi.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Automatisering", "Makelaar", "ROI"]
+tags: ["Automatisering"]
 cluster: "automatisering"
 ---
 

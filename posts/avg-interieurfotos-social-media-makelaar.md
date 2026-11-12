@@ -5,7 +5,7 @@ excerpt: "De gevel mag, het interieur ligt anders. Zo bepaal je als makelaar wel
 date: "2026-07-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/avg-interieurfotos-social-media-makelaar.jpg"
-tags: ["Social Media", "AVG", "Woningfotografie", "Makelaar"]
+tags: ["Social Media", "Fotografie"]
 cluster: "social-media"
 ---
 

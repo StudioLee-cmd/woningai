@@ -5,7 +5,7 @@ date: "2026-07-28"
 excerpt: "Een AI-telefonist die je aanbod half kent is erger dan geen telefonist. Dit is welke vier lagen data hij nodig heeft en hoe je test of het genoeg is."
 image: "/images/blog/voice-ai-trainen-makelaar-hoeveel-data.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Leadopvolging"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

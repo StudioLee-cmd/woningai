@@ -5,7 +5,7 @@ date: "2026-04-04"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-makelaar-bezichtiging.jpg"
-tags: ["Leads", "Opvolging", "Makelaar"]
+tags: ["Leads", "Leadopvolging"]
 ---
 ## De makelaar die het snelst belt, wint
 

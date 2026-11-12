@@ -5,7 +5,7 @@ date: "2026-07-22"
 excerpt: "Een waardebepaling-aanvraag is de scherpste verkopers-lead die je kunt krijgen. Zo bouw je de funnel erachter, van bevestiging tot verkoopgesprek."
 image: "/images/blog/waardebepaling-aanvragen-verkoopopdrachten-makelaar.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Leadgeneratie", "Automatisering", "Makelaar"]
+tags: ["Leads", "Automatisering"]
 cluster: "automatisering"
 ---
 

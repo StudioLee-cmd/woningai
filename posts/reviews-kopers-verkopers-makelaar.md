@@ -6,7 +6,7 @@ date: "2026-04-17"
 cluster: "reviews"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/reviews-kopers-verkopers-makelaar.jpg"
-tags: ["Reviews", "Makelaar", "Reputatie"]
+tags: ["Reviews", "Reputatie"]
 ---
 ## Je mist de helft van je reviews
 

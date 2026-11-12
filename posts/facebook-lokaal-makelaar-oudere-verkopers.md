@@ -5,7 +5,7 @@ date: "2026-11-12"
 excerpt: "Facebook lokaal als makelaar: zo bepaal je of je 50-plus verkopers er zitten, wat Meta toestaat bij woningadvertenties en welke posts werken."
 image: "/images/blog/facebook-lokaal-makelaar-oudere-verkopers.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Facebook", "Social media"]
+tags: ["Social Media"]
 cluster: "social-media"
 ---
 

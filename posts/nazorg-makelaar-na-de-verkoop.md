@@ -4,7 +4,7 @@ excerpt: "Ontdek hoe je als makelaar via nazorg langetermijnrelaties opbouwt en 
 date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nazorg-makelaar-na-de-verkoop.jpg"
-tags: ["Nazorg", "Klantrelatie", "Groei"]
+tags: ["Groei", "Automatisering"]
 cluster: "automatisering"
 ---
 ## Waarom nazorg essentieel is voor makelaars

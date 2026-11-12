@@ -5,7 +5,7 @@ date: "2026-08-21"
 excerpt: "Iemand klikt om kwart voor acht op je nummer. Doorschakelen, terugbelformulier of een AI die opneemt: dit is wat elke route de beller oplevert."
 image: "/images/blog/bellen-vanaf-je-makelaarssite-drie-routes.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Website"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

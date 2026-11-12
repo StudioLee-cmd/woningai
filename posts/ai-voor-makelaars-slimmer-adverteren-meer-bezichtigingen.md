@@ -4,7 +4,7 @@ excerpt: "AI helpt makelaars bij woningpresentatie, bezichtigingsplanning en mar
 date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-voor-makelaars-slimmer-adverteren-meer-bezichtigingen.png"
-tags: ["AI", "Automatisering", "Makelaars"]
+tags: ["AI", "Automatisering"]
 cluster: "automatisering"
 ---
 

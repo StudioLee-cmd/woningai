@@ -5,7 +5,7 @@ excerpt: "Mis nooit meer een potentiële koper omdat je in gesprek bent of een w
 date: "2026-01-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-telefoniste-voor-makelaars.png"
-tags: ["Voice AI", "Bereikbaarheid", "Focus"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 Niets is zo vervelend als een trillende telefoon in je zak terwijl je een emotioneel gesprek voert met een verkoper of een rondleiding geeft aan kopers. Je moet bereikbaar zijn, maar je wilt ook 100% aandacht geven aan de mensen voor je.

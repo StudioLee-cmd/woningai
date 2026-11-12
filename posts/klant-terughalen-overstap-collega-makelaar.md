@@ -5,7 +5,7 @@ date: "2026-05-25"
 excerpt: "Verloren een verkoopopdracht aan een collega-makelaar? Met de juiste 4 stappen haal je tot 1 op de 5 listings terug. Zo doe je het."
 image: "/images/blog/klant-terughalen-overstap-collega-makelaar.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Win-back", "Klantcommunicatie", "Makelaar"]
+tags: ["Klantcommunicatie"]
 cluster: "automatisering"
 ---
 

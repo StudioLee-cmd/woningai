@@ -5,7 +5,7 @@ excerpt: "De open huizen dag is je krachtigste verkoopmoment. Zo bereid je het v
 date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/open-huizen-dag-makelaar-maximaal-resultaat.png"
-tags: ["Makelaar", "Open Huizen", "Bezichtigingen"]
+tags: ["Bezichtigingen"]
 cluster: "automatisering"
 ---
 ## De open huizen dag: meer dan een open deur

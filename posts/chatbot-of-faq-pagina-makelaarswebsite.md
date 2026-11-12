@@ -5,7 +5,7 @@ date: "2026-06-28"
 excerpt: "Een FAQ-pagina beantwoordt vragen, een chatbot levert bezichtigingsaanvragen op. Ontdek wat je makelaarswebsite nodig heeft om bezoekers om te zetten."
 image: "/images/blog/chatbot-of-faq-pagina-makelaarswebsite.jpg"
 authorSlug: tim-van-der-lee
-tags: ["Chatbot", "FAQ", "Makelaarswebsite", "Leads"]
+tags: ["Chatbot", "Website", "Leads"]
 cluster: "chatbot"
 ---
 

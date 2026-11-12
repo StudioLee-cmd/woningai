@@ -5,7 +5,7 @@ date: "2026-07-15"
 excerpt: "Welke functies heeft een makelaar-chatbot echt nodig? Een eerlijke lijst van de vijf die tellen, van leads kwalificeren tot bezichtiging boeken."
 image: "/images/blog/wat-moet-makelaar-chatbot-kunnen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["AI chatbot", "Makelaar", "Leads"]
+tags: ["Chatbot", "Leads"]
 cluster: "chatbot"
 ---
 

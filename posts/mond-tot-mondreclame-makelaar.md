@@ -5,7 +5,7 @@ excerpt: "Doorverwijzingen zijn de meest waardevolle leads voor makelaars. Leer 
 date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mondreclame-makelaar.png"
-tags: ["mond-tot-mond", "makelaar", "marketing"]
+tags: ["Marketing", "Leads"]
 cluster: "branding"
 ---
 

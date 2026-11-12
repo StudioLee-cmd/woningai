@@ -6,7 +6,7 @@ date: "2026-04-05"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/administratie-makelaar-automatiseren.jpg"
-tags: ["Administratie", "Makelaar", "Automatisering"]
+tags: ["Automatisering"]
 ---
 ## Een groot deel van je tijd gaat op aan papierwerk
 

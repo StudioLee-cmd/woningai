@@ -5,7 +5,7 @@ date: "2026-07-06"
 excerpt: "Antwoorddienst of voice AI voor je makelaarskantoor? De rekensom per gesprek, het verschil in opvolging en wanneer welke keuze rendeert."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/voice-ai-vs-antwoorddienst-makelaars-roi.jpg"
-tags: ["Voice AI", "Bereikbaarheid", "ROI"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

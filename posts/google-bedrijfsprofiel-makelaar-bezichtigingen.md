@@ -7,7 +7,7 @@ excerpt: "De meeste woningzoekenden beginnen hun zoektocht op Google. Een geopti
 image: "/images/blog/google-bedrijfsprofiel-makelaar-bezichtigingen.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["google bedrijfsprofiel", "makelaar", "lokale vindbaarheid"]
+tags: ["Google Bedrijfsprofiel"]
 cluster: "vindbaarheid"
 ---
 ## Waarom Google Bedrijfsprofiel essentieel is voor makelaars

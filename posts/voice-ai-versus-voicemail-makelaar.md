@@ -5,7 +5,7 @@ date: "2026-07-13"
 excerpt: "Voicemail registreert een gemiste oproep, een voice AI handelt hem af. Zo stappen makelaars over en vangen ze elke beller op, ook tijdens bezichtigingen."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/voice-ai-versus-voicemail-makelaar.jpg"
-tags: ["Voice AI", "Bereikbaarheid", "Makelaars"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

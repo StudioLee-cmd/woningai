@@ -5,7 +5,7 @@ excerpt: "Elke niet-opgevolgd lead is een gemiste verkoop. Ontdek hoe makelaars 
 date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-makelaar-automatisch.png"
-tags: ["Makelaar", "Leadopvolging", "Automatisering"]
+tags: ["Leadopvolging"]
 cluster: "automatisering"
 ---
 

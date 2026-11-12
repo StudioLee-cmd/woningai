@@ -5,7 +5,7 @@ excerpt: "Je online reputatie bepaalt of verkopers jou kiezen als makelaar. Leer
 date: "2026-03-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-reputatie-makelaar.png"
-tags: ["online reputatie", "makelaar", "reviews"]
+tags: ["Reviews", "Reputatie"]
 cluster: "reviews"
 ---
 Een huiseigenaar die wil verkopen, googelt "makelaar [stad]." Ze zien drie kantoren. Een heeft 60 reviews en 4,8 sterren. De ander heeft 5 reviews. De derde heeft een 3,2. Wie bellen ze?

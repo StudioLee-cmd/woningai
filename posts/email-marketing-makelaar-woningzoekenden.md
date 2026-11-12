@@ -6,7 +6,7 @@ excerpt: "De meeste woningzoekenden kopen niet bij het eerste contact. Met slimm
 image: "/images/blog/email-marketing-makelaar-woningzoekenden.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
-tags: ["email marketing", "makelaar", "leadnurturing"]
+tags: ["E-mail", "Automatisering"]
 cluster: "automatisering"
 ---
 

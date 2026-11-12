@@ -5,7 +5,7 @@ date: "2026-06-07"
 excerpt: "Ranken op 'makelaar [stad]' zonder dat Google je afstraft? Zo bouw je stadspagina's die echt lokaal zijn in plaats van dunne doorway-pages."
 image: "/images/blog/stadspaginas-makelaars-ranken-per-stad-zonder-spam.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Vindbaarheid", "Lokale SEO", "Makelaar"]
+tags: ["Vindbaarheid", "Lokale SEO"]
 cluster: "vindbaarheid"
 ---
 

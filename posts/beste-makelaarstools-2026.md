@@ -5,7 +5,7 @@ excerpt: "Welke software helpt jouw makelaarskantoor groeien? Een eerlijke verge
 date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beste-makelaarstools-2026.png"
-tags: ["Software", "Vergelijking", "Tools"]
+tags: ["Software", "Vergelijking"]
 cluster: "automatisering"
 ---
 

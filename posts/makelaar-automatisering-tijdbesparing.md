@@ -5,7 +5,7 @@ date: "2026-04-06"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/makelaar-automatisering-tijdbesparing.jpg"
-tags: ["Automatisering", "Makelaar", "Tijdbesparing"]
+tags: ["Automatisering"]
 ---
 ## De paradox van het makelaarsvak
 

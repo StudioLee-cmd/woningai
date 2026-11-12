@@ -5,7 +5,7 @@ date: "2026-05-03"
 excerpt: "Een concurrentieanalyse helpt je je makelaar-courtage en aanbod onderbouwen. Zo verzamel je in 30 minuten 6 lokale datapunten die je positionering scherpen."
 image: "/images/blog/concurrentieanalyse-makelaars-6-datapunten.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Concurrentieanalyse", "Marktonderzoek", "Strategie"]
+tags: []
 cluster: "branding"
 ---
 

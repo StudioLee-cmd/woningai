@@ -5,7 +5,7 @@ excerpt: "Goede woningfoto's verhogen kijkers met 60% en verkoopprijs met 3-5%. 
 date: "2026-04-23"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/woningfotografie-makelaar-6-keuzes.jpg"
-tags: ["Fotografie", "Makelaar", "Verkoop"]
+tags: ["Fotografie", "Verkoop"]
 cluster: "website"
 ---
 Twee identieke huizen, dezelfde straat, dezelfde vraagprijs. De ene staat 92 dagen te koop, de andere 14. Verschil? De foto's. Woningen met professionele foto's krijgen meer kijkers, verkopen sneller, en bereiken vaak een hogere verkoopprijs.

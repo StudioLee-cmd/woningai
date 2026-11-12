@@ -5,7 +5,7 @@ date: "2026-04-14"
 cluster: "website"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/woningfotografie-fouten-makelaars.jpg"
-tags: ["Woningfotografie", "Makelaar Tips", "Verkoop"]
+tags: ["Fotografie", "Verkoop"]
 ---
 ## De eerste indruk is een foto
 

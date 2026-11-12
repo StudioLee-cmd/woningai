@@ -5,7 +5,7 @@ excerpt: "Veel views, geen opdrachten? Ontdek de 5 Instagram Reel-formats die ma
 date: "2026-07-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/instagram-reels-makelaar-formats.jpg"
-tags: ["Instagram Reels", "Social Media", "Video", "Makelaar"]
+tags: ["Social Media"]
 cluster: "social-media"
 ---
 

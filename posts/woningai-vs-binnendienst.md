@@ -5,7 +5,7 @@ excerpt: "Waarom zou je tienduizenden euro's per jaar betalen aan extra kantooro
 date: "2026-01-25"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/woningai-vs-binnendienst.png"
-tags: ["Efficiëntie", "Besparingen", "Opschalen"]
+tags: ["Automatisering"]
 cluster: "automatisering"
 ---
 

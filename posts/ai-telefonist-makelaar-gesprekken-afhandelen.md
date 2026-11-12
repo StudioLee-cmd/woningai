@@ -5,7 +5,7 @@ date: "2026-07-23"
 excerpt: "Niet elk telefoontje hoef je zelf aan te nemen. Ontdek welke gesprekken een AI-telefonist voor je makelaarskantoor afhandelt en welke hij naar jou doorzet."
 image: "/images/blog/ai-telefonist-makelaar-gesprekken-afhandelen.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["Voice AI", "Bereikbaarheid", "Makelaar"]
+tags: ["Voice AI", "Bereikbaarheid"]
 cluster: "voice-ai"
 ---
 

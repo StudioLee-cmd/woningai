@@ -6,7 +6,7 @@ date: "2026-04-12"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/open-huis-vs-individuele-bezichtiging-no-shows.jpg"
-tags: ["No-shows", "Bezichtigingen", "Groei"]
+tags: ["No-shows", "Bezichtigingen"]
 ---
 ## Twee aanpakken, verschillende no-show percentages
 

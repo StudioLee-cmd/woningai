@@ -6,7 +6,7 @@ date: "2026-04-10"
 cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/woningpaginas-seo-makelaar-individuele-listings.jpg"
-tags: ["Vindbaarheid", "Makelaar", "SEO"]
+tags: ["Vindbaarheid"]
 ---
 ## Waarom elke woning een eigen pagina verdient
 

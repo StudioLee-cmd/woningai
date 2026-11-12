@@ -5,7 +5,7 @@ excerpt: "Goede woningfoto's verkopen sneller. Ontdek hoe je als makelaar met be
 date: "2026-03-13"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/woningfotografie-makelaar-meer-bezichtigingen.png"
-tags: ["Fotografie", "Verkoop", "Marketing"]
+tags: ["Fotografie", "Verkoop"]
 cluster: "website"
 ---
 

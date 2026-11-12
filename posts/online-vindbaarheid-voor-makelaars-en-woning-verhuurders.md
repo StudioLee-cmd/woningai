@@ -4,7 +4,7 @@ excerpt: "Wie een woning zoekt of aanbiedt, gaat online. Makelaars en verhuurder
 date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-vindbaarheid-voor-makelaars-en-woning-verhuurders.png"
-tags: ["Vindbaarheid", "Google", "Makelaars", "Verhuur"]
+tags: ["Vindbaarheid", "Google"]
 cluster: "vindbaarheid"
 ---
 ## Wie een woning zoekt, gaat naar Google

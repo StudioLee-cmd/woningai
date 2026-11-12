@@ -5,7 +5,7 @@ date: "2026-07-27"
 excerpt: "Overstappen naar een nieuw CRM zonder je lopende verkoopopdrachten kwijt te raken. Een plan van 30 dagen, met parallel draaien als vangnet."
 image: "/images/blog/crm-migratie-makelaar-30-dagen-dataverlies.jpg"
 authorSlug: "tim-van-der-lee"
-tags: ["CRM", "Automatisering", "Makelaar"]
+tags: ["CRM", "Automatisering"]
 cluster: "automatisering"
 ---
 

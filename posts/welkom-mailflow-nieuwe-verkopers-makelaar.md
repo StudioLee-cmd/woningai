@@ -5,7 +5,7 @@ excerpt: "Zet nieuwe verkopers met een welkom-mailflow van 4 mails om in tevrede
 date: "2026-06-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/welkom-mailflow-nieuwe-verkopers-makelaar.jpg"
-tags: ["Automatisering", "E-mail", "Klantcommunicatie", "Makelaar"]
+tags: ["Automatisering", "E-mail"]
 cluster: "automatisering"
 ---
 

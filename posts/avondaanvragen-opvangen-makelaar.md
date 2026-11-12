@@ -5,7 +5,7 @@ excerpt: "Avondaanvragen komen binnen als jouw kantoor dicht is. Zo vang je ze a
 date: "2026-07-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/avondaanvragen-opvangen-makelaar.jpg"
-tags: ["Chatbot", "Leads", "Bereikbaarheid", "Makelaar"]
+tags: ["Chatbot", "Leads"]
 cluster: "chatbot"
 ---
 

@@ -5,7 +5,7 @@ date: "2026-07-17"
 excerpt: "Reviews van kopers en verkopers blijven vaak dagen onbeantwoord. Zo reageer je met AI-templates binnen een uur, professioneel en zonder dat het je tijd kost."
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-respons-automatiseren-makelaar.jpg"
-tags: ["Reviews", "Automatisering", "Makelaar"]
+tags: ["Reviews", "Automatisering"]
 cluster: "reviews"
 ---
 

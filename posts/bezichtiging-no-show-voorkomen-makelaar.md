@@ -5,7 +5,7 @@ date: "2026-04-11"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/bezichtiging-no-show-voorkomen-makelaar.jpg"
-tags: ["No-shows", "Bezichtigingen", "Groei"]
+tags: ["No-shows", "Bezichtigingen"]
 ---
 ## Het frustrerende patroon van lege bezichtigingen
 

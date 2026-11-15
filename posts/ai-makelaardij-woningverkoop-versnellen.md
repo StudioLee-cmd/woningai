@@ -111,7 +111,7 @@ De tijdsbesparing is enorm — en de kwaliteit is consistent.
 
 AI vervangt de makelaar niet — het versterkt elke stap van het verkoopproces. Van betere foto's tot slimmere opvolging, van snellere teksten tot data-gedreven prijsadvies. De makelaar die AI omarmt, verkoopt sneller, bereikt meer kopers en bespaart uren per week.
 
-Met [WoningAI](/) helpen we makelaars om AI in te zetten voor fotografie, lead-opvolging en marketing. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [WoningAI](/) helpen we makelaars om AI in te zetten voor fotografie, lead-opvolging en marketing. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Plan een [gratis adviesgesprek](https://cal.com/studiolee) en ontdek hoe AI jouw makelaardij kan versnellen.
 

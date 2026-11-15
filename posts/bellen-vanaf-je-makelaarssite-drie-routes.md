@@ -105,4 +105,4 @@ Iemand die op je nummer klikt heeft de moeilijkste stap al gezet. Hij is van kij
 
 Test daarom vanavond zelf wat er gebeurt als je op je eigen nummer tikt. Kies daarna één route die past bij je volume, zorg dat er altijd iets komt, en laat elk gesprek als aanvraag in je systeem landen.
 
-Bij WoningAI zetten we die eerste lijn op met jouw vragen erin en koppelen we elke aanvraag met bron aan je opvolging, zodat je [geen oproepen meer missen als makelaar](/voice-ai) niet als belofte maar als meting terugziet. Wat dat kost staat op onze [tarieven WoningAI](/tarieven). Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet meetbaar beter zichtbaar in Ahrefs, dan krijg je je geld terug.
+Bij WoningAI zetten we die eerste lijn op met jouw vragen erin en koppelen we elke aanvraag met bron aan je opvolging, zodat je [geen oproepen meer missen als makelaar](/voice-ai) niet als belofte maar als meting terugziet. Wat dat kost staat op onze [tarieven WoningAI](/tarieven).

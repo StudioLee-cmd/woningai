@@ -84,6 +84,4 @@ Je hoeft niet elke maand handmatig campagnes te bedenken. Met een geautomatiseer
 
 Bij WoningAI helpen we makelaars met het opzetten van seizoensgerichte marketing die het hele jaar door resultaat levert. Alles voor slechts 15 minuten per maand van jouw tijd.
 
-Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
-
 Vraag een [gratis AI-scan](/gratis-scan) aan en ontdek hoe je jouw seizoensstrategie kunt versterken.

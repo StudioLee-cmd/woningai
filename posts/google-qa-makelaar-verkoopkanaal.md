@@ -81,6 +81,6 @@ Zoek je kantoor en je belangrijkste diensten op zoals een klant dat zou doen, op
 
 Je profiel staat dag en nacht online, ook als jij op bezichtiging bent. Het verschil met vroeger is dat het nu niet meer voorleest wat jij hebt ingetypt, maar navertelt wat het over je kan vinden. Zorg dus dat er iets te vinden is.
 
-Wil je weten hoe compleet jouw Google Bedrijfsprofiel nu scoort? Doe de gratis [AI-scan voor makelaars](/gratis-scan) en zie meteen waar je vindbaarheid leads laat liggen. Wij van WoningAI bouwen je lokale aanwezigheid op met content en profielbeheer die Google gelooft, en we werken met een Groei-of-Geld-Terug Garantie. Jij verkoopt woningen, wij regelen de rest.
+Wil je weten hoe compleet jouw Google Bedrijfsprofiel nu scoort? Doe de gratis [AI-scan voor makelaars](/gratis-scan) en zie meteen waar je vindbaarheid leads laat liggen. Jij verkoopt woningen, wij regelen de rest.
 
 <p style="background-color: rgba(31, 58, 95, 0.08); border-radius: 8px; padding: 12px 16px; margin: 28px 0;"><strong>Lees ook:</strong> <a href="/blog/google-posts-makelaars-post-types">Google Posts voor makelaars: 8 post-types die werken</a> →</p>

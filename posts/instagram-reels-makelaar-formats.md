@@ -88,6 +88,6 @@ Juist daar lekt bij veel makelaars de winst weg: de interesse is er, maar het be
 
 Terug naar die woningtour met 3.100 views en nul aanvragen. Met de juiste aanpak was dat een ander verhaal geweest: een net-verkocht-reveal die de twijfelende verkoper overtuigt, een sterke hook die de kijker vasthoudt, en een opvolging die de interesse meteen omzet in een afspraak. Niet meer views als doel, maar meer opdrachten op de plank.
 
-Benieuwd waar jouw kantoor nu leads laat liggen tussen social media en opvolging? Doe de [gratis ai scan voor makelaars](/gratis-scan) en je ziet binnen een paar minuten welke van deze formats en flows jou het meeste opleveren. We werken met een Groei-of-Geld-Terug Garantie, dus je weet zeker dat je investering rendement oplevert. Jij verkoopt woningen, wij regelen de rest.
+Benieuwd waar jouw kantoor nu leads laat liggen tussen social media en opvolging? Doe de [gratis ai scan voor makelaars](/gratis-scan) en je ziet binnen een paar minuten welke van deze formats en flows jou het meeste opleveren. Jij verkoopt woningen, wij regelen de rest.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/tiktok-voor-makelaars-woningtour-bezichtiging" class="text-dark fw-semibold">TikTok voor makelaars: van woningtour naar bezichtiging</a> →</p>

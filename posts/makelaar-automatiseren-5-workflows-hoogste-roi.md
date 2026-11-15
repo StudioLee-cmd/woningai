@@ -85,6 +85,6 @@ Wat zoiets concreet kost en oplevert voor jouw kantoor, hangt af van je volume e
 
 ## Klaar om te beginnen bij de juiste workflow?
 
-Je hoeft niet alles tegelijk te automatiseren. Je hoeft alleen te beginnen bij de workflow die jou vandaag het meeste oplevert. Wij van WoningAI richten het volledige systeem voor je in en werken met een **Groei-of-Geld-Terug Garantie**: zie je geen resultaat, dan krijg je je investering terug.
+Je hoeft niet alles tegelijk te automatiseren. Je hoeft alleen te beginnen bij de workflow die jou vandaag het meeste oplevert.
 
 Jij verkoopt woningen, wij regelen de rest. Plan een vrijblijvende [gratis ai scan voor makelaars](/gratis-scan) en ontdek met welke workflow jij het snelste rendement pakt.

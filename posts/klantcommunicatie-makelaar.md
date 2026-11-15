@@ -85,8 +85,6 @@ Investeer in je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-makelaar-b
 
 Geen tijd om al deze communicatiemomenten zelf te beheren? Met een managed service besteed je slechts **15 minuten per maand** aan een kort gesprek. Communicatiestrategieën, [email marketing](/blog/email-marketing-makelaar-woningzoekenden), online zichtbaarheid — het wordt voor je opgepakt.
 
-Onze Groei-of-Geld-Terug Garantie geldt vanaf Managed Groei Pro: word je binnen 6 maanden niet beter zichtbaar dan bij de start, dan krijg je je geld terug. Zichtbaarheid meten we bij SEO in Ahrefs en bij video en advertenties in views.
-
 [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe betere klantcommunicatie je meer verkooptransacties oplevert.
 
 ## Conclusie

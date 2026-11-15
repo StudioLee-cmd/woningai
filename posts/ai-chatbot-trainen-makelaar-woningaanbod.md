@@ -69,4 +69,4 @@ Ten derde: kies bronnen die zichzelf bijhouden. Hoe meer de bot uit je live syst
 
 Een chatbot trainen op je woningaanbod is geen datawetenschap. Het is vier keuzes op een rij: laat hem je website lezen, koppel hem aan je CRM zodat beschikbaarheid en prijs altijd kloppen, geef hem je kantoorkennis als documenten, en scherp hem maandelijks aan op basis van echte gesprekken. Doe je dat, dan heb je een [24/7 chatbot voor makelaars](/chatbot) die avondaanvragen omzet in bezichtigingen in plaats van in verwarring.
 
-Bij WoningAI richten we dit volledig voor je in, inclusief de koppeling met je aanbod en onze Groei-of-Geld-Terug Garantie. Benieuwd wat er nu al uit jouw website te halen valt? Vraag de [gratis ai analyse voor makelaars](/gratis-scan) aan en je weet het binnen een paar minuten.
+Benieuwd wat er nu al uit jouw website te halen valt? Vraag de [gratis ai analyse voor makelaars](/gratis-scan) aan en je weet het binnen een paar minuten.

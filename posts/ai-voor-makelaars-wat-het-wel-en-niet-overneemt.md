@@ -96,6 +96,6 @@ En wat je in beide gevallen niet doet: alles tegelijk aanzetten. Eén proces dat
 
 AI voor makelaars is geen kwestie van hoeveel je aan kunt zetten. Het is een kwestie van waar je de streep zet. Alles wat herhaalt, bevestigt en vastlegt mag erover. Alles waar oordeel, geld en emotie samenkomen blijft aan jouw kant, en dat is precies waar jouw uren het meeste waard zijn.
 
-Weten waar die streep bij jouw kantoor ligt? Vraag een [gratis ai scan voor makelaars](/gratis-scan) aan, dan kijken we mee naar je huidige opvolging en benoemen we welke taken bij jou als eerste overdraagbaar zijn. Met de Groei-of-Geld-Terug Garantie van WoningAI loop je daarbij geen risico. Jij verkoopt woningen, wij regelen de rest.
+Weten waar die streep bij jouw kantoor ligt? Vraag een [gratis ai scan voor makelaars](/gratis-scan) aan, dan kijken we mee naar je huidige opvolging en benoemen we welke taken bij jou als eerste overdraagbaar zijn. Jij verkoopt woningen, wij regelen de rest.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/klantsegmentatie-makelaar-crm-kopers-verkopers-doorstromers" class="text-dark fw-semibold">Klantsegmentatie in je makelaar-CRM: 3 typen klanten</a> →</p></div></div></div>

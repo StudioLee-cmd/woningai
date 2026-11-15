@@ -112,7 +112,7 @@ Behandel elk contact als een potentiele klant — niet alleen voor dit huis.
 
 De open huizen dag is geen passief evenement — het is een actieve marketingcampagne die voorbereiding, executie en nazorg vereist. De makelaar die dit beheerst, verkoopt sneller en bouwt een kopersbestand op dat jaar na jaar waardevol is.
 
-Met [WoningAI](/) helpen we makelaars bij hun online presentatie en lead-opvolging. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [WoningAI](/) helpen we makelaars bij hun online presentatie en lead-opvolging. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je meer haalt uit je bezichtigingen.
 

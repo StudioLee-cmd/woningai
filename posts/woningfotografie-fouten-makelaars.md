@@ -59,4 +59,4 @@ Een professionele woningpresentatie kost minimaal moeite en levert maximaal resu
 
 Investeer in een goede camera of een vaste fotograaf, bouw een routinematig proces voor staging en nabewerking en communiceer je visuele kwaliteit op je [social media](/social-media). De foto's verkopen niet alleen de woning, ze verkopen jou als makelaar.
 
-Wil je weten hoe jouw makelaarskantoor online beter gevonden wordt? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen. Inclusief onze Groei-of-Geld-Terug Garantie.
+Wil je weten hoe jouw makelaarskantoor online beter gevonden wordt? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen.

@@ -84,4 +84,4 @@ Dan maak je één sterke stadspagina en stop je daar je energie in. Eén pagina 
 
 Stadspagina's die ranken kosten werk, maar het is werk dat zich jaren terugbetaalt in leads uit precies de steden waar jij actief bent. De kunst zit hem in echt zijn, niet in slim zijn.
 
-Wij van WoningAI bouwen je lokale vindbaarheid op met content die Google gelooft, en we werken met een **Groei-of-Geld-Terug Garantie**: zie je geen resultaat, dan krijg je je investering terug. Jij verkoopt woningen, wij regelen de rest. Vraag een [gratis seo scan voor makelaars](/gratis-scan) aan en ontdek op welke steden jij het snelste kunt ranken.
+Jij verkoopt woningen, wij regelen de rest. Vraag een [gratis seo scan voor makelaars](/gratis-scan) aan en ontdek op welke steden jij het snelste kunt ranken.

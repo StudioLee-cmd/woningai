@@ -65,4 +65,4 @@ Vraag tevreden verkopers na de verkoop om een [review](/reviews). "Prachtige fot
 
 Woningfotografie is geen bijzaak. Het is het verschil tussen een woning die maanden te koop staat en een woning die binnen twee weken wordt verkocht. Investeer in het proces en je levert betere resultaten voor je klanten.
 
-Wil je weten hoe jouw makelaarskantoor online beter kan presteren? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen. Inclusief onze Groei-of-Geld-Terug Garantie.
+Wil je weten hoe jouw makelaarskantoor online beter kan presteren? Vraag een [gratis scan](/gratis-scan) aan en ontdek waar je kansen liggen.

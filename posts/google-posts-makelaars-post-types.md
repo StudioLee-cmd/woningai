@@ -60,4 +60,4 @@ En de grootste: post niet alleen als je toevallig tijd hebt. Een profiel dat dri
 
 Google Posts zijn het dichtstbijzijnde dat er bestaat bij gratis advertentieruimte bovenaan Google, precies op het moment dat iemand een makelaar zoekt. Het enige wat ze vragen is regelmaat: een vaste dag, de juiste post-types, en een profiel dat er verzorgd uitziet. Wie dat volhoudt, wordt vaker gevonden dan de concurrent met het lege profiel, zonder er een euro advertentiebudget tegenaan te gooien.
 
-Wij van WoningAI bouwen je lokale vindbaarheid op met content die Google gelooft, van je Google Bedrijfsprofiel tot je [hoger in google komen als makelaar](/seo)-strategie, en we werken met een **Groei-of-Geld-Terug Garantie**: zie je geen resultaat, dan krijg je je investering terug. Jij verkoopt woningen, wij regelen de rest. Vraag een [gratis seo scan voor makelaars](/gratis-scan) aan en ontdek waar voor jou de snelste winst zit.
+Jij verkoopt woningen, wij regelen de rest. Vraag een [gratis seo scan voor makelaars](/gratis-scan) aan en ontdek waar voor jou de snelste winst zit.

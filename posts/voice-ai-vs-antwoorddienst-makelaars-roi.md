@@ -80,6 +80,6 @@ Bij een goede inrichting worden naam, nummer en gespreksinhoud direct in je klan
 
 Terug naar die trillende telefoon tijdens de bezichtiging. Beide oplossingen zorgen dat er wordt opgenomen, en dat is al winst. Maar een antwoorddienst koopt je een nette notitie, terwijl <a href="/voice-ai">voice ai voor makelaars</a> het gesprek afmaakt: vraag beantwoord, bezichtiging ingepland, opvolging gestart. Bij meer dan een paar gemiste oproepen per week wint de vaste prijs het bovendien van betalen per gesprek.
 
-Wil je weten hoeveel oproepen en leads jouw kantoor nu laat liggen? Vraag de <a href="/gratis-scan">gratis ai scan voor makelaars</a> aan, dan zie je het zwart op wit. Bij WoningAI werken we met een Groei-of-Geld-Terug Garantie, dus je weet zeker dat je investering rendement oplevert. Jij verkoopt woningen, wij regelen de rest.
+Wil je weten hoeveel oproepen en leads jouw kantoor nu laat liggen? Vraag de <a href="/gratis-scan">gratis ai scan voor makelaars</a> aan, dan zie je het zwart op wit. Jij verkoopt woningen, wij regelen de rest.
 
 <p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/meertalige-ai-telefonist-makelaars" class="text-dark fw-semibold">Meertalige AI-telefonist voor makelaars: NL/EN/Pools</a> →</p>

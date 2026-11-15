@@ -66,4 +66,4 @@ De no-show percentages zijn bij deze aanpak het laagst: kopers die naar het open
 
 Er is geen universeel antwoord. De juiste keuze hangt af van de woning, de markt en je klant. Test beide en meet de resultaten: hoeveel bezichtigingen, hoeveel no-shows, hoeveel biedingen.
 
-Wil je inzicht in hoe je je bezichtigingsproces kunt optimaliseren? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht en concrete stappen. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je inzicht in hoe je je bezichtigingsproces kunt optimaliseren? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt een helder overzicht en concrete stappen.

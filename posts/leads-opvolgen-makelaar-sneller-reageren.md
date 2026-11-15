@@ -58,4 +58,4 @@ Drie contactmomenten. Daarna stop je. Professioneel, niet opdringerig.
 
 Je hoeft niet meer te adverteren. Je hoeft alleen sneller te reageren dan je concurrenten. Dat is gratis en het levert direct meer opdrachten op.
 
-Wil je weten hoe snel je nu reageert en waar de kansen liggen? Vraag een [gratis scan](/gratis-scan) aan. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe snel je nu reageert en waar de kansen liggen? Vraag een [gratis scan](/gratis-scan) aan.

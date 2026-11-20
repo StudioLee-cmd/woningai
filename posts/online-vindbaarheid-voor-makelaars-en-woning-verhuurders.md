@@ -1,6 +1,6 @@
 ---
 title: "Online vindbaarheid voor makelaars en woning­verhuurders"
-excerpt: "Wie een woning zoekt of aanbiedt, gaat online. Makelaars en verhuurders die goed zichtbaar zijn in Google, trekken meer aanvragen — zonder advertentiebudget."
+excerpt: "Wie een woning zoekt of aanbiedt, gaat online. Makelaars en verhuurders die goed zichtbaar zijn in Google, trekken meer aanvragen, zonder advertentiebudget."
 date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-vindbaarheid-voor-makelaars-en-woning-verhuurders.png"
@@ -27,7 +27,7 @@ In een concurrerende markt maakt online zichtbaarheid het verschil tussen een vo
 
 ## Stap 2: Bouw aan reviews van tevreden klanten
 
-Een makelaar met 60 [reviews](/reviews) en 4,8 sterren wordt sneller benaderd dan een kantoor met 10 reviews. Koop- en huurtransacties zijn grote beslissingen — klanten willen bewijs.
+Een makelaar met 60 [reviews](/reviews) en 4,8 sterren wordt sneller benaderd dan een kantoor met 10 reviews. Koop- en huurtransacties zijn grote beslissingen, dus klanten willen bewijs.
 
 Vraag na elke succesvolle overdracht of verhuurstart automatisch om een review:
 
@@ -55,7 +55,7 @@ Elke pagina is een eigen kans om gevonden te worden op een relevante zoekopdrach
 
 Schrijf informatieve artikelen voor woningzoekenden en -aanbieders:
 
-- "Wat doet een makelaar precies — en wanneer heb je er een nodig?"
+- "Wat doet een makelaar precies, en wanneer heb je er een nodig?"
 - "Hoe werkt het proces van woning kopen stap voor stap?"
 - "Wat zijn de kosten van een makelaar bij verkoop?"
 - "Huurwoning zoeken in [stad]: zo doe je dat slim"

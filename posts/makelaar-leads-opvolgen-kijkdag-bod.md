@@ -11,7 +11,7 @@ tags: ["Leadopvolging"]
 
 Een echtpaar bezichtigt een huis op zaterdagochtend. Ze lopen rond, maken foto's, stellen vragen, lopen weer naar buiten. Op het tuinpad zegt de man tegen zijn vrouw: "Ja, ik vind 'm wel mooi, maar ik weet niet". Op dat moment is hun beslissing nog 50/50. Wat in de uren daarna gebeurt bepaalt of ze gaan bieden of niet.
 
-Krijg je dezelfde middag al een berichtje van je: "Wat vond jullie van de woning? Mocht je nog vragen hebben, laat het me weten" — dan blijf je top of mind. Krijgen ze niets? Dan gaan ze 's avonds praten met vrienden, eten ze samen, en op zondag denken ze al niet meer aan jouw woning.
+Krijg je dezelfde middag al een berichtje van je: "Wat vond jullie van de woning? Mocht je nog vragen hebben, laat het me weten". Dan blijf je top of mind. Krijgen ze niets? Dan gaan ze 's avonds praten met vrienden, eten ze samen, en op zondag denken ze al niet meer aan jouw woning.
 
 Onderzoek bevestigt dat: de helft van alle biedingen komt binnen 72 uur na de bezichtiging. De makelaar die in die 72 uur actief contact zoekt, krijgt drie keer vaker een bod dan de makelaar die wacht.
 
@@ -53,7 +53,7 @@ Goede feedback klinkt als:
 - "We zijn nog aan het kijken, dit was de derde van vier bezichtigingen"
 - "We vonden de prijs aan de hoge kant"
 
-Dit zijn allemaal koperklanten die niet "nee" zeggen, maar twijfelen. Twijfel is je beste bondgenoot — twijfel kun je wegnemen.
+Dit zijn allemaal koperklanten die niet "nee" zeggen, maar twijfelen. Twijfel is je beste bondgenoot, want twijfel kun je wegnemen.
 
 Slechte feedback klinkt als:
 
@@ -93,7 +93,7 @@ Heb je een week niets gehoord en denk je dat de klant nog steeds twijfelt? Tijd 
 
 Drie dingen die dit doet:
 
-1. **Geeft urgentie** zonder te liegen ("iemand anders heeft interesse" — als dat klopt!)
+1. **Geeft urgentie** zonder te liegen ("iemand anders heeft interesse", als dat klopt!)
 2. **Vraagt direct om een beslissing** zonder agressief te zijn
 3. **Geeft de optie tot afhaken** wat de klant ontspant
 
@@ -107,7 +107,7 @@ Voor mensen die echt twijfelen is een tweede bezichtiging vaak het kantelpunt. D
 
 Klanten die voor een tweede bezichtiging komen, brengen daarna vaak een bod uit. Het is je belangrijkste conversiemoment.
 
-## Automatische opvolging — wat wel en wat niet
+## Automatische opvolging: wat wel en wat niet
 
 Wat wel kun je automatiseren:
 
@@ -117,9 +117,9 @@ Wat wel kun je automatiseren:
 
 Wat NIET kun je automatiseren:
 
-- **Het feedbackgesprek zelf** — dit moet persoonlijk
-- **Het bezwaarwegnemen** — dit moet aansluiten bij wat de klant zei
-- **Het uiteindelijke "wil je bieden" gesprek** — dit is een mens-tot-mens moment
+- **Het feedbackgesprek zelf**: dit moet persoonlijk
+- **Het bezwaarwegnemen**: dit moet aansluiten bij wat de klant zei
+- **Het uiteindelijke "wil je bieden" gesprek**: dit is een mens-tot-mens moment
 
 Een [chatbot](/chatbot) op je website kan wel automatisch nieuwe leads opvangen voor woningen die de klant nog niet bezichtigd heeft. Voor ná-bezichtiging contact is automatisering een hulpmiddel, geen vervanging.
 
@@ -150,7 +150,7 @@ Realistisch zit de winst tussen 50 en 100 procent erbij. Voor de meeste makelaar
 
 Drie acties voor de komende zeven dagen:
 
-1. Bel binnen 24 uur na elke bezichtiging — geen uitzonderingen
+1. Bel binnen 24 uur na elke bezichtiging, zonder uitzonderingen
 2. Schrijf je vaste opvolgschema op (24u, 72u, 1 week)
 3. Pas je tweede contact aan op wat je hebt gehoord in het feedbackgesprek
 

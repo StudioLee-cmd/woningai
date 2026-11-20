@@ -3,7 +3,7 @@ export const siteDetails = {
     niche: 'Makelaars',
     siteUrl: 'https://www.woningai.nl/',
     metadata: {
-        title: 'WoningAI - AI voor makelaars',
+        title: 'WoningAI | AI voor makelaars',
         description: 'WoningAI helpt makelaars groeien met AI. Van automatische telefoonbeantwoording tot slimme planning & opvolging van leads.',
     },
     language: 'nl-NL',

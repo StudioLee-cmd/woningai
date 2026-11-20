@@ -9,7 +9,7 @@ tags: ["Response-tijd", "Leads"]
 cluster: "voice-ai"
 ---
 
-Wat makelaars empirisch al jaren weten: het leeuwendeel van alle bezichtigingsverzoeken op een Funda-listing komt 's avonds binnen, tussen 19:00 en 23:30. Mensen scrollen Funda na werk, na kinderen naar bed, bij ontspannen. Ze zien een woning, schieten interesse, sturen een bezichtigingsverzoek. En dan gaan ze ofwel naar de volgende woning of ze wachten af. Het makelaarskantoor dat binnen een uur reageert zit in de shortlist. Het kantoor dat tot maandagochtend wacht — 12 tot 60 uur later — is buitenspel. In diezelfde 60 uur hebben andere kantoren al bezichtigingen gepland, en de potentiële koper heeft zich al aan een andere makelaar gebonden.
+Wat makelaars empirisch al jaren weten: het leeuwendeel van alle bezichtigingsverzoeken op een Funda-listing komt 's avonds binnen, tussen 19:00 en 23:30. Mensen scrollen Funda na werk, na kinderen naar bed, bij ontspannen. Ze zien een woning, schieten interesse, sturen een bezichtigingsverzoek. En dan gaan ze ofwel naar de volgende woning of ze wachten af. Het makelaarskantoor dat binnen een uur reageert zit in de shortlist. Het kantoor dat tot maandagochtend wacht (12 tot 60 uur later) is buitenspel. In diezelfde 60 uur hebben andere kantoren al bezichtigingen gepland, en de potentiële koper heeft zich al aan een andere makelaar gebonden.
 
 Dit artikel legt uit waarom avond-respons zo doorslaggevend is, welke response-tijd-doel realistisch is (spoiler: 60 minuten, niet 5), en welke systemen nodig zijn om dat structureel te halen ondanks dat je team na 17:30 offline is.
 
@@ -21,11 +21,11 @@ Er zijn drie structurele redenen waarom avond-respons zoveel bepaalt bij makelaa
 
 **De concurrentie is intens vanwege beperkt woning-aanbod.** Bij populaire woningen (goede prijs, aantrekkelijk beeld, goede locatie) komen 15 tot 30 bezichtigingsverzoeken binnen het eerste etmaal. Jouw klant hoopt natuurlijk dat hun verzoek wordt opgevolgd, niet in een queue van 20 verdwijnt.
 
-**Koopbeslissingen zijn emotioneel — momentum telt.** Iemand die 's avonds enthousiast is over een woning en een mailbevestiging krijgt met "we bellen u maandag" voelt zich niet prioriteit. Tegen maandag is het enthousiasme afgekoeld, ze hebben andere woningen bekeken, en ze staan minder hard op de bezichtiging.
+**Koopbeslissingen zijn emotioneel, dus momentum telt.** Iemand die 's avonds enthousiast is over een woning en een mailbevestiging krijgt met "we bellen u maandag" voelt zich niet prioriteit. Tegen maandag is het enthousiasme afgekoeld, ze hebben andere woningen bekeken, en ze staan minder hard op de bezichtiging.
 
 ## Het doel: 60 minuten, niet 5
 
-In de literatuur over response-tijd wordt vaak de 5-minutenregel geciteerd (MIT 2007 onderzoek). Voor makelaars is 5 minuten echter niet realistisch — een persoonlijke menselijke reactie op een bezichtigingsverzoek kan niet binnen 5 minuten, daarvoor moet er agenda-context gecheckt worden.
+In de literatuur over response-tijd wordt vaak de 5-minutenregel geciteerd (MIT 2007 onderzoek). Voor makelaars is 5 minuten echter niet realistisch: een persoonlijke menselijke reactie op een bezichtigingsverzoek kan niet binnen 5 minuten, daarvoor moet er agenda-context gecheckt worden.
 
 Het realistische en effectieve doel is 60 minuten. Leads die binnen een uur een bevestigingscontact krijgen, converteren merkbaar vaker naar een daadwerkelijke bezichtiging dan leads die 24 uur wachten. Daarna daalt de conversie met elke volgende dag verder.
 
@@ -44,13 +44,13 @@ De bezichtigingsverzoek komt binnen via website-formulier of Funda. Een AI chatb
 - Drie voorgestelde bezichtigingstijden op basis van agenda-beschikbaarheid
 - Antwoord op direct relevante vragen (prijs, beschikbaarheid, staat van woning) als die op de klantenkaart staan
 
-Met deze bevestiging voelt de klant zich direct gezien. Ze hoeven geen andere makelaars meer te bellen "voor de zekerheid" — ze zitten al in jouw shortlist.
+Met deze bevestiging voelt de klant zich direct gezien. Ze hoeven geen andere makelaars meer te bellen "voor de zekerheid", want ze zitten al in jouw shortlist.
 
 Bekijk onze aanpak voor [een AI chatbot voor makelaarskantoren](/chatbot) voor hoe we deze bevestiging-flow integreren met je Realworks- of Basis-systeem.
 
 ### 2. AI telefonist voor telefonische bezichtigingsverzoeken
 
-Voor mensen die direct bellen (vooral oudere kopers, of bij de duurdere woningen), pakt een AI telefonist het gesprek aan in natuurlijk Nederlands. Hij voert het intake-gesprek, checkt beschikbaarheid, plant een voorlopige bezichtigingstijd en mailt jou de samenvatting. De klant ervaart dit als "ik heb direct een makelaar aan de telefoon gehad" — precies wat ze willen.
+Voor mensen die direct bellen (vooral oudere kopers, of bij de duurdere woningen), pakt een AI telefonist het gesprek aan in natuurlijk Nederlands. Hij voert het intake-gesprek, checkt beschikbaarheid, plant een voorlopige bezichtigingstijd en mailt jou de samenvatting. De klant ervaart dit als "ik heb direct een makelaar aan de telefoon gehad", precies wat ze willen.
 
 ### 3. Agenda-integratie per makelaar
 
@@ -64,7 +64,7 @@ Makelaarskantoren die dit drieluik hebben geïnstalleerd rapporteren na drie maa
 - **Conversie van verzoek naar bezichtiging** stijgt fors
 - **Aantal bezichtigingen per makelaar per week** stijgt merkbaar zonder extra leads
 - **Gewonnen verkoopopdrachten** (voor verkopers) stijgt vanwege snellere-responsreputatie
-- **Tijdwinst voor administratieve medewerker** — geen handmatige tellingen en bevestigingsmailtjes meer
+- **Tijdwinst voor administratieve medewerker**: geen handmatige tellingen en bevestigingsmailtjes meer
 
 In euro's, als rekenvoorbeeld: een makelaar met gemiddeld 5 verkopen per jaar (bij een gemiddelde commissie van 6.500 euro per pand) ziet in het eerste jaar merkbaar meer verkoopopdrachten binnenkomen. Investering: 200 tot 500 euro per maand aan chatbot + telefonist, 3.000 tot 6.000 setup. Terugverdientijd minder dan een pand.
 

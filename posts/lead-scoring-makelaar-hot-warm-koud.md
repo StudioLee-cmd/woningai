@@ -7,7 +7,7 @@ authorSlug: "tim-van-der-lee"
 image: "/images/blog/lead-scoring-makelaar-hot-warm-koud.jpg"
 tags: ["Lead scoring", "Conversie"]
 ---
-## Niet elke lead is een lead — waarom je ze moet rangschikken
+## Niet elke lead is een lead: waarom je ze moet rangschikken
 
 Maandagmorgen, je opent je e-mail. 14 nieuwe aanvragen sinds vrijdag: 6 via Funda, 4 via Jaap, 3 via je eigen website, 1 via een reactie op een Instagram-story. Sommige zijn van mensen die concreet hun woning willen verkopen binnen drie maanden. Andere zijn buurmeisjes die "even rondkijken wat hun huis nu waard is". Allebei tellen ze als lead, maar ze hebben geen seconde gelijk recht op jouw eerste telefoontje.
 
@@ -56,7 +56,7 @@ Een werkend intake-formulier voor verkoop-leads:
 
 Voor koop-leads vervang je adres door budget en gewenste regio. Een [AI-telefoniste die dezelfde vragen stelt](/voice-ai) doet dit voor binnenkomende telefoongesprekken zodat je ook daar gestructureerde scoredata hebt.
 
-## Per score een andere opvolging — wat je wanneer doet
+## Per score een andere opvolging: wat je wanneer doet
 
 De grootste fout in opvolging: alle leads hetzelfde behandelen. Een HOT-lead met een vrijblijvend e-mailtje vervolgen is verschrikkelijk. Een KOUD-lead direct bellen jaagt hem weg. Drie verschillende paden:
 
@@ -74,7 +74,7 @@ De grootste fout in opvolging: alle leads hetzelfde behandelen. Een HOT-lead met
 **KOUD-pad:**
 - E-mail bevestiging direct met een helpful resource (marktrapport, prijsschatter, etc.).
 - Maandelijkse nurture-mail met markt-update voor de regio en type woning.
-- Twee keer per jaar persoonlijk contactmoment (e-mail of WhatsApp) om te zien of er iets veranderd is. Snelheid blijft doorslaggevend voor HOT, maar nurture is wat KOUD-leads over 6 tot 18 maanden alsnog naar je toe brengt — lees [hoe snelheid en opvolging samen werken voor makelaars](/blog/leads-opvolgen-makelaar-sneller-reageren) voor de speed-kant van het verhaal.
+- Twee keer per jaar persoonlijk contactmoment (e-mail of WhatsApp) om te zien of er iets veranderd is. Snelheid blijft doorslaggevend voor HOT, maar nurture is wat KOUD-leads over 6 tot 18 maanden alsnog naar je toe brengt. Lees [hoe snelheid en opvolging samen werken voor makelaars](/blog/leads-opvolgen-makelaar-sneller-reageren) voor de speed-kant van het verhaal.
 
 ## Het wekelijkse leadoverleg: voorkom dat WARM-leads wegglippen
 

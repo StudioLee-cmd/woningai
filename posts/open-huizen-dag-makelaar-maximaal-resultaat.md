@@ -12,7 +12,7 @@ cluster: "automatisering"
 
 De landelijke open huizen dag trekt jaarlijks honderdduizenden bezoekers. Maar ook buiten de officiele data is een open huis een van de effectiefste verkooptools voor makelaars. Het trekt een groot publiek in een kort tijdsbestek en creert een gevoel van urgentie.
 
-Toch halen de meeste makelaars er niet het maximale uit. Ze openen de deur, delen flyers uit en wachten af. De slimme makelaar behandelt een open huis als een marketingevent — van voorbereiding tot nazorg.
+Toch halen de meeste makelaars er niet het maximale uit. Ze openen de deur, delen flyers uit en wachten af. De slimme makelaar behandelt een open huis als een marketingevent, van voorbereiding tot nazorg.
 
 ## Voorbereiding: de week ervoor
 
@@ -22,7 +22,7 @@ Een open huis is een podium. De woning moet er onberispelijk uitzien:
 - Schoon en opgeruimd (huur eventueel een schoonmaakbedrijf in)
 - Persoonlijke spullen weggehaald
 - Verse bloemen op tafel
-- Verlichting aan — ook overdag
+- Verlichting aan, ook overdag
 - Temperatuur aangenaam (verwarming of koeling)
 - Geurtje: vers brood, versgebakken koekjes of een subtiele geurkaars
 
@@ -99,18 +99,18 @@ Stuur een follow-up naar bezoekers die niet reageerden:
 
 ## Open huis als leadgenerator
 
-Een open huis levert niet alleen kopers voor deze woning op — het levert leads voor je hele portefeuille:
+Een open huis levert niet alleen kopers voor deze woning op, maar ook leads voor je hele portefeuille:
 - Bezoekers die deze woning te duur vinden, zijn wellicht geinteresseerd in een ander aanbod
 - Bezoekers die hun eigen huis willen verkopen, zijn potentiele aankoop-klanten
 - Buren die langskomen, overwegen misschien ook te verkopen
 
-Behandel elk contact als een potentiele klant — niet alleen voor dit huis.
+Behandel elk contact als een potentiele klant, niet alleen voor dit huis.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/open-huis-vs-individuele-bezichtiging-no-shows" class="text-dark fw-semibold">Open huis vs individuele bezichtiging: wat werkt tegen no-shows?</a> →</p></div></div></div>
 
 ## Conclusie
 
-De open huizen dag is geen passief evenement — het is een actieve marketingcampagne die voorbereiding, executie en nazorg vereist. De makelaar die dit beheerst, verkoopt sneller en bouwt een kopersbestand op dat jaar na jaar waardevol is.
+De open huizen dag is geen passief evenement. Het is een actieve marketingcampagne die voorbereiding, executie en nazorg vereist. De makelaar die dit beheerst, verkoopt sneller en bouwt een kopersbestand op dat jaar na jaar waardevol is.
 
 Met [WoningAI](/) helpen we makelaars bij hun online presentatie en lead-opvolging. Onze managed service kost slechts 15 minuten van je tijd per maand.
 

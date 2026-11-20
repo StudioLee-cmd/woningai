@@ -11,7 +11,7 @@ tags: ["Vindbaarheid", "Google"]
 
 Funda is de marktplaats waar woningen staan. Maar steeds meer woningzoekers beginnen hun zoektocht op Google: "makelaar [stad]", "huis kopen [wijk]", "wat is mijn huis waard". Als jij daar verschijnt met relevante content, trek je kopers en verkopers aan voordat ze op Funda zijn.
 
-Het verschil: op Funda concurreer je met elk makelaarskantoor. Op Google kun je domineren in jouw regio — als je de juiste strategie hebt.
+Het verschil: op Funda concurreer je met elk makelaarskantoor. Op Google kun je domineren in jouw regio, als je de juiste strategie hebt.
 
 ## Google Bedrijfsprofiel als fundament
 
@@ -20,7 +20,7 @@ Je Bedrijfsprofiel is je eerste zichtbaarheid in Google Maps. Vul het compleet i
 - **Categorie:** "Makelaar" primair
 - **Diensten:** Woningverkoop, aankoop, taxatie, verhuur, VvE-beheer
 - **Foto's:** Je kantoor, het team, recent verkochte woningen
-- **Posts:** Deel wekelijks een "net verkocht" bericht — het toont activiteit
+- **Posts:** Deel wekelijks een "net verkocht" bericht, want het toont activiteit
 
 ### Reviews van tevreden verkopers en kopers
 
@@ -35,7 +35,7 @@ Schrijf over wat woningzoekers googelen:
 - "Makelaar kiezen in [regio]: waar let je op?"
 - "Woningmarkt [stad]: trends en verwachtingen"
 
-Elke pagina die een lokale zoekvraag beantwoordt, is een magneet voor potentiële klanten. Zij vinden jouw expertise, bouwen vertrouwen op en nemen contact op — direct, zonder Funda-commissie.
+Elke pagina die een lokale zoekvraag beantwoordt, is een magneet voor potentiële klanten. Zij vinden jouw expertise, bouwen vertrouwen op en nemen contact op: direct, zonder Funda-commissie.
 
 ![Rij Nederlandse grachtenpanden bij gouden uur](/images/blog/seo-voor-makelaars-meer-woningzoekers-2.jpg)
 
@@ -62,7 +62,7 @@ Zorg dat je website technisch in orde is:
 
 ### Hoe snel levert SEO resultaat op voor makelaars?
 
-De eerste resultaten zie je na 2-3 maanden. Volledige impact na 6-12 maanden. SEO is een langetermijninvestering die compound groeit — elke maand wordt het sterker.
+De eerste resultaten zie je na 2-3 maanden. Volledige impact na 6-12 maanden. SEO is een langetermijninvestering die compound groeit: elke maand wordt het sterker.
 
 ### Kan ik SEO combineren met Funda?
 
@@ -72,4 +72,4 @@ Absoluut. Funda is je etalage, SEO is je eigen winkel. Samen bereik je meer woni
 
 SEO maakt je als makelaar minder afhankelijk van platforms en brengt woningzoekers direct naar jouw kantoor. Begin met je [Google](/seo) Bedrijfsprofiel, schrijf lokale content en bouw wijkpagina's.
 
-Investeer nu in je online zichtbaarheid en pluk de vruchten jarenlang. Benieuwd hoe WoningAI je online vindbaarheid automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt alles — jij verkoopt huizen.
+Investeer nu in je online zichtbaarheid en pluk de vruchten jarenlang. Benieuwd hoe WoningAI je online vindbaarheid automatiseert? Vraag een [gratis scan](/gratis-scan) aan. StudioLee regelt alles. Jij verkoopt huizen.

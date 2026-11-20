@@ -35,7 +35,7 @@ Voordelen:
 
 ### 1. Hypotheekadviseurs: je belangrijkste partner
 
-Elke koper heeft een hypotheek nodig. Elke hypotheekaanvraag begint met een woning zoeken. Als jij de makelaar bent die de hypotheekadviseur aanbeveelt — en andersom — heb je een constante stroom gekwalificeerde leads.
+Elke koper heeft een hypotheek nodig. Elke hypotheekaanvraag begint met een woning zoeken. Als jij de makelaar bent die de hypotheekadviseur aanbeveelt (en andersom), heb je een constante stroom gekwalificeerde leads.
 
 Maak afspraken concreet: deel elkaars visitekaartjes, verwijs actief en evalueer maandelijks hoeveel leads er over en weer gaan.
 
@@ -63,7 +63,7 @@ Registreer bij elke transactie welke partners betrokken waren en hoeveel leads v
 
 ## Waarom de beste makelaars altijd een netwerk hebben
 
-De succesvolste makelaars zijn niet degenen die het meest adverteren. Het zijn de makelaars die een netwerk hebben opgebouwd met hypotheekadviseurs, notarissen, stylisten en aannemers. Dat netwerk is hun concurrentievoordeel — het is wat hen onderscheidt van de makelaar die alleen op Funda vertrouwt. Elke partner in je netwerk is een kanaal dat leads oplevert zonder advertentiekosten. Begin vandaag met het versterken van je drie belangrijkste partnerrelaties.
+De succesvolste makelaars zijn niet degenen die het meest adverteren. Het zijn de makelaars die een netwerk hebben opgebouwd met hypotheekadviseurs, notarissen, stylisten en aannemers. Dat netwerk is hun concurrentievoordeel: het is wat hen onderscheidt van de makelaar die alleen op Funda vertrouwt. Elke partner in je netwerk is een kanaal dat leads oplevert zonder advertentiekosten. Begin vandaag met het versterken van je drie belangrijkste partnerrelaties.
 
 ## Hulp nodig?
 

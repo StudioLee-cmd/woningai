@@ -20,10 +20,10 @@ Google reviews zijn de meest zichtbare vorm van social proof. Ze verschijnen dir
 
 - **Vraag systematisch**: na elke succesvolle verkoop of aankoop
 - **Maak het makkelijk**: stuur een directe link naar je reviewpagina
-- **Timing**: vraag na de sleuteloverdracht — het moment van maximale tevredenheid
+- **Timing**: vraag na de sleuteloverdracht, het moment van maximale tevredenheid
 - **Reageer altijd**: bedank voor positieve reviews, reageer professioneel op negatieve
 
-Lees onze complete strategie voor [meer Google reviews als makelaar](/blog/meer-google-reviews-makelaarskantoor). Streef naar minimaal 50 reviews — dat is het punt waarop je een onbetwistbare reputatie hebt in je regio.
+Lees onze complete strategie voor [meer Google reviews als makelaar](/blog/meer-google-reviews-makelaarskantoor). Streef naar minimaal 50 reviews: dat is het punt waarop je een onbetwistbare reputatie hebt in je regio.
 
 ## Succesverhalen op je website
 
@@ -54,10 +54,10 @@ Gebruik social proof overal waar potentiële klanten je tegenkomen:
 - **E-mail**: vermeld je Google-score in je e-mailhandtekening
 - **Presentatie**: begin je waardebepaling met je trackrecord en klantquotes
 - **Social media**: deel regelmatig reviews, succesverhalen en "verkocht" berichten
-- **Google Bedrijfsprofiel**: houd je reviews actueel — lees hoe in onze [AI makelaardij gids](/blog/ai-makelaardij-woningverkoop-versnellen)
+- **Google Bedrijfsprofiel**: houd je reviews actueel en lees hoe in onze [AI makelaardij gids](/blog/ai-makelaardij-woningverkoop-versnellen)
 
 Elke touchpoint moet versterkt worden met bewijs van tevreden klanten. Consistentie is de sleutel.
 
 ## Conclusie
 
-Social proof is de meest overtuigende marketingvorm voor makelaars. Met actieve Google reviews, diepgaande succesverhalen en authentieke video-testimonials bouw je een reputatie die verkopers en kopers overtuigt. Begin met het systematisch verzamelen van reviews — de rest bouw je vanuit daar op. Wil je ontdekken hoe je social proof beter kunt inzetten? Vraag een [gratis scan](/gratis-scan) aan.
+Social proof is de meest overtuigende marketingvorm voor makelaars. Met actieve Google reviews, diepgaande succesverhalen en authentieke video-testimonials bouw je een reputatie die verkopers en kopers overtuigt. Begin met het systematisch verzamelen van reviews. De rest bouw je vanuit daar op. Wil je ontdekken hoe je social proof beter kunt inzetten? Vraag een [gratis scan](/gratis-scan) aan.

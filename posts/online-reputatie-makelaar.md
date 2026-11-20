@@ -20,8 +20,8 @@ Een woning verkopen is de grootste financiele transactie in iemands leven. Het [
 
 | Platform | Belang |
 |----------|--------|
-| Google | Zeer hoog — eerste zoekresultaat |
-| Funda | Hoog — sectoreigen platform |
+| Google | Zeer hoog, eerste zoekresultaat |
+| Funda | Hoog, sectoreigen platform |
 
 Je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-makelaar-bezichtigingen) is je belangrijkste digitale etalage.
 
@@ -51,7 +51,7 @@ In een markt waar elke makelaar dezelfde diensten biedt, is je reputatie je ster
 
 ## Reviews en je courtagepercentage
 
-Makelaars met meer dan 50 positieve reviews kunnen hogere courtage vragen. Verkopers betalen graag een half procent meer voor een makelaar die bewezen succesvol is. De reviews zijn het bewijs — "verkocht boven vraagprijs", "binnen twee weken verkocht", "uitstekende communicatie".
+Makelaars met meer dan 50 positieve reviews kunnen hogere courtage vragen. Verkopers betalen graag een half procent meer voor een makelaar die bewezen succesvol is. De reviews zijn het bewijs: "verkocht boven vraagprijs", "binnen twee weken verkocht", "uitstekende communicatie".
 
 Elke review is dus niet alleen een vertrouwenssignaal, maar ook een argument voor je tarief. Investeer structureel in het verzamelen van reviews en je zult merken dat prijsdiscussies afnemen.
 
@@ -59,7 +59,7 @@ Elke review is dus niet alleen een vertrouwenssignaal, maar ook een argument voo
 
 Op Funda worden je reviews prominent getoond bij je advertenties. Op Google bepalen ze of verkopers je bellen wanneer ze op zoek gaan naar een makelaar. Beide platforms versterken elkaar. Een sterke Funda-score trekt verkopers die al in de markt zijn. Een sterke Google-score trekt verkopers die nog orienterend zijn.
 
-Behandel elk platform serieus en reageer op elke review — positief of negatief. Consistentie over meerdere platforms heen bouwt het sterkste vertrouwen op.
+Behandel elk platform serieus en reageer op elke review, positief of negatief. Consistentie over meerdere platforms heen bouwt het sterkste vertrouwen op.
 
 ## Hulp nodig?
 

@@ -22,7 +22,7 @@ Niet elke zoeker is hetzelfde. Segmenteer je mailinglijst:
 
 - **Actieve zoekers**: mensen die recent een bezichtiging hebben aangevraagd of je kantoor hebben bezocht
 - **Orienterend**: mensen die je website hebben bezocht of een brochure hebben gedownload maar nog geen concrete stappen hebben gezet
-- **Verkopers**: mensen die hun woning willen verkopen — een heel andere doelgroep met andere behoeften
+- **Verkopers**: mensen die hun woning willen verkopen, een heel andere doelgroep met andere behoeften
 
 Elke groep krijgt andere content. Een actieve zoeker wil weten welke woningen er nieuw zijn. Een orienterende bezoeker wil tips over financiering. Een verkoper wil weten hoe je de beste prijs haalt.
 

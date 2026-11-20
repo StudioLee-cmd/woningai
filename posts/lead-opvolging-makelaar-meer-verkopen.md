@@ -13,7 +13,7 @@ De woningmarkt is competitief. Kopers reageren op meerdere woningen tegelijk, ve
 
 Toch laten veel makelaars leads liggen. Een bezichtigingsverzoek dat op vrijdagavond binnenkomt, wordt pas maandagochtend beantwoord. Een verkoper die via de website een waardebepaling aanvraagt, wacht 48 uur op een reactie.
 
-In die tijd heeft de koper een andere woning bezichtigd en de verkoper een andere makelaar gesproken. Leads in de vastgoedmarkt zijn kostbaar — elke gemiste reactie is potentieel duizenden euro's aan courtage.
+In die tijd heeft de koper een andere woning bezichtigd en de verkoper een andere makelaar gesproken. Leads in de vastgoedmarkt zijn kostbaar, want elke gemiste reactie is potentieel duizenden euro's aan courtage.
 
 ## De gouden 5 minuten na een aanvraag
 
@@ -49,10 +49,10 @@ Niet elke bezichtiging leidt direct tot een bod. Maar een koper die vandaag niet
 Effectieve warm-houd strategieën:
 
 - **Maandelijkse update**: nieuwe woningen die passen bij hun zoekcriteria
-- **Marktupdate**: "De gemiddelde prijs in [buurt] is met [X] procent gedaald — interessant voor jou?"
+- **Marktupdate**: "De gemiddelde prijs in [buurt] is met [X] procent gedaald. Interessant voor jou?"
 - **Persoonlijk bericht bij een nieuw aanbod**: "Dit huis komt morgen online, maar ik dacht meteen aan jou"
 
-Dit is geen spam — het is service. Een koper die zich persoonlijk geholpen voelt, koopt via jou.
+Dit is geen spam, maar service. Een koper die zich persoonlijk geholpen voelt, koopt via jou.
 
 ## Verkoper-leads: sneller schakelen dan de concurrent
 
@@ -71,7 +71,7 @@ Snelheid en professionaliteit winnen mandaten. Prijs komt op de tweede plaats.
 
 ## Meer mandaten zonder extra advertenties
 
-Betere [lead opvolging](/blog/makelaar-leads-opvolgen-kijkdag-bod) levert direct meer mandaten op. Je investeert al in Funda-plaatsingen, een website en misschien Google Ads. Die leads zijn er — je zet ze alleen niet allemaal om.
+Betere [lead opvolging](/blog/makelaar-leads-opvolgen-kijkdag-bod) levert direct meer mandaten op. Je investeert al in Funda-plaatsingen, een website en misschien Google Ads. Die leads zijn er. Je zet ze alleen niet allemaal om.
 
 Door je reactietijd te halveren en [automatische opvolging](/automatisering) in te zetten, zet je merkbaar meer verkoper-leads om in mandaten. Dat zijn extra verkopen per kwartaal zonder extra marketingkosten.
 

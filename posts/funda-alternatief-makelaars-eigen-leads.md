@@ -7,28 +7,28 @@ image: "/images/blog/funda-alternatief-makelaars-eigen-leads.jpg"
 tags: ["Leads"]
 cluster: "automatisering"
 ---
-Funda is fantastisch voor bereik — maar het maakt je ook afhankelijk. Elke lead loopt via hun platform, je betaalt per vermelding en je hebt nauwelijks controle over hoe je kantoor zich presenteert. Wat als je daarnaast ook zelf leads kunt genereren via je eigen kanalen?
+Funda is fantastisch voor bereik, maar het maakt je ook afhankelijk. Elke lead loopt via hun platform, je betaalt per vermelding en je hebt nauwelijks controle over hoe je kantoor zich presenteert. Wat als je daarnaast ook zelf leads kunt genereren via je eigen kanalen?
 
-Dat is geen toekomstmuziek. Steeds meer makelaars bouwen een eigen online aanwezigheid die Funda aanvult en op termijn deels vervangt. Het verschil: eigen leads zijn gratis, exclusief en bouwen aan jouw merk — niet dat van Funda.
+Dat is geen toekomstmuziek. Steeds meer makelaars bouwen een eigen online aanwezigheid die Funda aanvult en op termijn deels vervangt. Het verschil: eigen leads zijn gratis, exclusief en bouwen aan jouw merk, niet aan dat van Funda.
 
 ## Waarom afhankelijkheid van Funda risicovol is
 
 Funda heeft een monopoliepositie in de Nederlandse woningmarkt. Dat geeft hen macht over jouw zichtbaarheid en kosten:
 
-- **Stijgende kosten** — de vermelding-prijzen zijn de afgelopen jaren flink gestegen
-- **Geen exclusiviteit** — kopers zien ook je concurrent op dezelfde pagina
-- **Beperkte branding** — je kantoor presenteert zich binnen Funda's template
-- **Afhankelijkheid** — als Funda morgen de spelregels verandert, heb je een probleem
+- **Stijgende kosten**: de vermelding-prijzen zijn de afgelopen jaren flink gestegen
+- **Geen exclusiviteit**: kopers zien ook je concurrent op dezelfde pagina
+- **Beperkte branding**: je kantoor presenteert zich binnen Funda's template
+- **Afhankelijkheid**: als Funda morgen de spelregels verandert, heb je een probleem
 
 Dit betekent niet dat je Funda moet verlaten. Het betekent dat je niet 100% afhankelijk moet zijn.
 
 ## Strategie 1: Een converterende eigen website
 
-De meeste makelaar websites zijn digitale visitekaartjes — mooi, maar passief. Een website die leads genereert is anders:
+De meeste makelaar websites zijn digitale visitekaartjes: mooi, maar passief. Een website die leads genereert is anders:
 
 ### Woningaanbod met directe actie
 
-Toon je actuele aanbod met professionele foto's en plattegronden. Maar voeg aan elke woning een **"Plan een bezichtiging"** knop toe die direct een formulier opent — geen doorverwijzing naar Funda.
+Toon je actuele aanbod met professionele foto's en plattegronden. Maar voeg aan elke woning een **"Plan een bezichtiging"** knop toe die direct een formulier opent, zonder doorverwijzing naar Funda.
 
 ### Waardebepaling als leadmagneet
 
@@ -36,7 +36,7 @@ Bied een gratis online waardebepaling aan. Verkopers vullen hun adres en contact
 
 ### Buurt- en wijkinformatie
 
-Schrijf content over wijken in jouw werkgebied. "Wonen in [wijk]: alles wat je moet weten" trekt kopers die oriëntatie zoeken — en die hebben vaak nog geen makelaar.
+Schrijf content over wijken in jouw werkgebied. "Wonen in [wijk]: alles wat je moet weten" trekt kopers die oriëntatie zoeken, en die hebben vaak nog geen makelaar.
 
 ## Strategie 2: Google als leadkanaal
 
@@ -63,7 +63,7 @@ Instagram en Facebook zijn verrassend effectief voor makelaars:
 | Aspect | Funda | Eigen website |
 |---|---|---|
 | Kosten per lead | €15-50 (incl. vermelding) | €0 na investering |
-| Exclusiviteit | Nee — kopers zien concurrenten | Ja — 100% jouw merk |
+| Exclusiviteit | Nee, kopers zien concurrenten | Ja, 100% jouw merk |
 | Branding | Funda template | Volledig eigen huisstijl |
 | Data en inzicht | Beperkt | Volledig (Google Analytics) |
 | Afhankelijkheid | Hoog | Geen |

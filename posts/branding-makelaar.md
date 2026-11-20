@@ -11,7 +11,7 @@ cluster: "branding"
 
 De makelaarsbranche is competitief. In elke stad concurreren tientallen kantoren om dezelfde woningverkopers. Het verschil tussen een kantoor dat groeit en een dat stilstaat? Branding.
 
-Branding gaat niet over een mooi logo — het gaat over herkenning, vertrouwen en top-of-mind zijn wanneer iemand zijn huis wil verkopen.
+Branding gaat niet over een mooi logo. Het gaat over herkenning, vertrouwen en top-of-mind zijn wanneer iemand zijn huis wil verkopen.
 
 ## Waarom branding essentieel is voor makelaars
 
@@ -71,17 +71,17 @@ De beste branding komt van je klanten:
 
 Kies een focus die je onderscheidt:
 
-- **Luxe woningen** — premium positionering
-- **Starters** — toegankelijk en betrokken
-- **[Energielabel-advies](/blog/energielabel-woningverkoop-verduurzaming)** — duurzaamheid als expertise
-- **Beleggingspanden** — zakelijke expertise
+- **Luxe woningen**: premium positionering
+- **Starters**: toegankelijk en betrokken
+- **[Energielabel-advies](/blog/energielabel-woningverkoop-verduurzaming)**: duurzaamheid als expertise
+- **Beleggingspanden**: zakelijke expertise
 
 ## Branding-fouten die makelaars maken
 
-1. **Te breed positioneren** — alles voor iedereen is niets voor niemand
-2. **Funda als enige kanaal** — je bouwt aan Funda's merk, niet aan het jouwe
-3. **Geen reviews actief verzamelen** — je sterkste social proof onbenut
-4. **Inconsistente uitstraling** — website zegt iets anders dan Instagram
+1. **Te breed positioneren**: alles voor iedereen is niets voor niemand
+2. **Funda als enige kanaal**: je bouwt aan Funda's merk, niet aan het jouwe
+3. **Geen reviews actief verzamelen**: je sterkste social proof onbenut
+4. **Inconsistente uitstraling**: website zegt iets anders dan Instagram
 
 ## Laat je branding professioneel begeleiden
 

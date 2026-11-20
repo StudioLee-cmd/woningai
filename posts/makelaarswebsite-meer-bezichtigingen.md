@@ -13,7 +13,7 @@ cluster: "website"
 
 ## Waarom je website je belangrijkste verkoopkanaal is
 
-Woningzoekenden beginnen op [Funda](/blog/woningai-vs-binnendienst), maar ze bezoeken ook je website. Verkopers die een makelaar zoeken, googelen en bekijken je site. In beide gevallen is je website het scharnierpunt: het moment waarop een bezoeker besluit contact op te nemen — of niet.
+Woningzoekenden beginnen op [Funda](/blog/woningai-vs-binnendienst), maar ze bezoeken ook je website. Verkopers die een makelaar zoeken, googelen en bekijken je site. In beide gevallen is je website het scharnierpunt: het moment waarop een bezoeker besluit contact op te nemen, of niet.
 
 De meeste makelaarswebsites zien er professioneel uit maar converteren slecht. Ze tonen woningen en teamfoto's maar missen de elementen die bezoekers aanzetten tot actie.
 
@@ -33,27 +33,27 @@ Je website moet al deze stappen ondersteunen. De fout die veel makelaars maken: 
 
 **WhatsApp-knop op elke woningpagina**. Woningzoekenden willen snel een vraag stellen. WhatsApp is laagdrempelig en direct.
 
-**Terugbelverzoek**. Sommige bezoekers bellen liever niet zelf. "Wij bellen u terug — vul uw nummer in." Dit vangt een doelgroep die anders afhaakt.
+**Terugbelverzoek**. Sommige bezoekers bellen liever niet zelf. "Wij bellen u terug, vul uw nummer in." Dit vangt een doelgroep die anders afhaakt.
 
-**Waarschuwingsdienst**. "Ontvang als eerste nieuwe woningen in uw gewenste buurt." Dit levert emailadressen op van actieve zoekers — je warmste leads.
+**Waarschuwingsdienst**. "Ontvang als eerste nieuwe woningen in uw gewenste buurt." Dit levert emailadressen op van actieve zoekers: je warmste leads.
 
 ## Woningpaginas die verkopen
 
 Elke woningpagina moet meer doen dan foto's tonen:
 
-**[Professionele fotografie](/blog/woningfotografie-makelaar-meer-bezichtigingen)**. Dit is de basis — slechte foto's verliezen bezoekers direct.
+**[Professionele fotografie](/blog/woningfotografie-makelaar-meer-bezichtigingen)**. Dit is de basis, want slechte foto's verliezen bezoekers direct.
 
 **Buurtinformatie**. Scholen, winkels, parken, OV-verbindingen. Woningzoekenden kopen niet alleen een huis maar een buurt.
 
-**[Social proof](/blog/social-proof-makelaar-reviews-succesverhalen)**. Toon reviews op je woningpagina's: "Verkocht boven de vraagprijs — uitstekende begeleiding." Dit overtuigt verkopers om jou als makelaar te kiezen.
+**[Social proof](/blog/social-proof-makelaar-reviews-succesverhalen)**. Toon reviews op je woningpagina's: "Verkocht boven de vraagprijs, uitstekende begeleiding." Dit overtuigt verkopers om jou als makelaar te kiezen.
 
-**Duidelijke prijsinformatie**. Vraagprijs, servicekosten, bijzonderheden — transparantie wekt vertrouwen.
+**Duidelijke prijsinformatie**. Vraagprijs, servicekosten, bijzonderheden: transparantie wekt vertrouwen.
 
 ## Snelheid en mobiel
 
 **Snelheid**. Een website die langer dan drie seconden laadt, verliest de helft van de bezoekers. Optimaliseer je afbeeldingen en kies een snelle hosting.
 
-**Mobiel**. Het grootste deel van het zoekverkeer is mobiel. Je website moet perfect werken op een telefoon — grote knoppen, makkelijk scrollen, snel laden.
+**Mobiel**. Het grootste deel van het zoekverkeer is mobiel. Je website moet perfect werken op een telefoon: grote knoppen, makkelijk scrollen, snel laden.
 
 Test je website maandelijks op Google PageSpeed Insights en fix rode waarschuwingen.
 

@@ -9,7 +9,7 @@ tags: ["Fotografie", "Verkoop"]
 cluster: "website"
 ---
 
-Een woning wordt in de eerste 20 seconden beoordeeld. Niet bij de bezichtiging — op Funda. De hoofdfoto bepaalt of iemand doorklikt of doorscrollt. En toch presenteren veel makelaars woningen met foto's die er donker, rommelig of onprofessioneel uitzien. Het resultaat: minder klikken, minder bezichtigingen, langere verkooptijden.
+Een woning wordt in de eerste 20 seconden beoordeeld. Niet bij de bezichtiging, maar op Funda. De hoofdfoto bepaalt of iemand doorklikt of doorscrollt. En toch presenteren veel makelaars woningen met foto's die er donker, rommelig of onprofessioneel uitzien. Het resultaat: minder klikken, minder bezichtigingen, langere verkooptijden.
 
 In dit artikel lees je hoe je met betere woningfotografie meer bezichtigingen genereert en woningen sneller verkoopt.
 
@@ -29,13 +29,13 @@ De gouden regel: overdag fotograferen, bij voorkeur op een dag met wolken (geen 
 
 ### Compositie
 
-Elke kamer wordt gefotografeerd vanuit de hoek die de ruimte het grootst laat lijken — meestal vanuit een hoek bij de deur, op ooghoogte of iets lager. Een groothoeklens (maar niet te extreem — dat vervormt en misleidt) toont de volledige ruimte in één beeld.
+Elke kamer wordt gefotografeerd vanuit de hoek die de ruimte het grootst laat lijken, meestal vanuit een hoek bij de deur, op ooghoogte of iets lager. Een groothoeklens (maar niet te extreem, want dat vervormt en misleidt) toont de volledige ruimte in één beeld.
 
-De foto moet de kijker het gevoel geven dat ze de ruimte betreden. Niet een plattegrond, niet een detail — een uitnodiging om binnen te stappen.
+De foto moet de kijker het gevoel geven dat ze de ruimte betreden. Niet een plattegrond, niet een detail, maar een uitnodiging om binnen te stappen.
 
 ### Staging
 
-Een lege woning fotografeert slecht — het voelt koud en het is lastig om de schaal van ruimtes in te schatten. Een rommelige woning fotografeert nóg slechter. De ideale situatie is een opgeruimde, gestylede woning.
+Een lege woning fotografeert slecht: het voelt koud en het is lastig om de schaal van ruimtes in te schatten. Een rommelige woning fotografeert nóg slechter. De ideale situatie is een opgeruimde, gestylede woning.
 
 Staging hoeft niet duur te zijn. Vaak is het voldoende om persoonlijke spullen op te ruimen, oppervlakken leeg te maken, en een paar strategische accenten toe te voegen: verse bloemen op de eettafel, een stapel koffietafelboeken, nette handdoeken in de badkamer.
 
@@ -51,7 +51,7 @@ Staging hoeft niet duur te zijn. Vaak is het voldoende om persoonlijke spullen o
 - Alle lampen aan, gordijnen open
 - Toiletdeksels dicht, prullenbakken leeg
 - Geen auto's voor de deur (of de mooiste auto van de straat)
-- Begin met de buitenfoto — eerste indruk op Funda
+- Begin met de buitenfoto, de eerste indruk op Funda
 
 **Minimale fotoset per woning:**
 1. Buitenaanzicht (voorgevel, bij voorkeur schemering voor sfeer)
@@ -76,7 +76,7 @@ De middenweg: leer de basis, fotografeer zelf, en huur een professional in voor 
 
 Naast foto's verwachten kopers steeds vaker videotours en 360-graden beelden. Een korte walk-through video van 60-90 seconden geeft een veel beter beeld van de indeling en de sfeer dan foto's alleen.
 
-360-graden tours (via platforms als Matterport of Zillow 3D Home) laten kopers virtueel door de woning wandelen. Dit is vooral waardevol voor kopers die ver weg wonen en niet makkelijk kunnen bezichtigen — denk aan expats of doorstromers vanuit een andere provincie.
+360-graden tours (via platforms als Matterport of Zillow 3D Home) laten kopers virtueel door de woning wandelen. Dit is vooral waardevol voor kopers die ver weg wonen en niet makkelijk kunnen bezichtigen: denk aan expats of doorstromers vanuit een andere provincie.
 
 De investering is hoger (€300-€800 per woning voor een complete 3D-tour), maar het trekt serieuze kopers aan en filtert kijkers die alleen maar nieuwsgierig zijn.
 
@@ -84,7 +84,7 @@ De investering is hoger (€300-€800 per woning voor een complete 3D-tour), ma
 
 Goede foto's maken is stap één. Ze strategisch inzetten is stap twee:
 
-**Funda.** De eerste foto is je belangrijkste marketingmoment. Kies de foto die de meeste emotie oproept — vaak de buitengevel bij schemering of de woonkamer in vol daglicht. De volgorde van foto's moet logisch zijn: buiten → hal → woonkamer → keuken → slaapkamers → badkamer → tuin.
+**Funda.** De eerste foto is je belangrijkste marketingmoment. Kies de foto die de meeste emotie oproept, vaak de buitengevel bij schemering of de woonkamer in vol daglicht. De volgorde van foto's moet logisch zijn: buiten → hal → woonkamer → keuken → slaapkamers → badkamer → tuin.
 
 **Social media.** Deel je beste foto's op Instagram en Facebook. Één spectaculaire foto met de tekst "Nieuw in de verkoop: [adres]" genereert bereik en leads.
 
@@ -94,6 +94,6 @@ Lees ook ons artikel over [open huizen dagen maximaal benutten](/blog/open-huize
 
 ## Conclusie
 
-Woningfotografie is geen bijzaak — het is een van de belangrijkste factoren in het verkoopproces. Investeer in goede foto's, bereid elke shoot zorgvuldig voor, en zet je beelden strategisch in. Het verschil tussen een amateuristisch en een professioneel gepresenteerde woning kan duizenden euro's in verkoopprijs schelen — en weken in verkooptijd.
+Woningfotografie is geen bijzaak. Het is een van de belangrijkste factoren in het verkoopproces. Investeer in goede foto's, bereid elke shoot zorgvuldig voor, en zet je beelden strategisch in. Het verschil tussen een amateuristisch en een professioneel gepresenteerde woning kan duizenden euro's in verkoopprijs schelen, en weken in verkooptijd.
 
 Wil je hulp bij het versterken van je online presentatie als makelaar? Bekijk wat [WoningAI](/) voor je kan betekenen of [plan een gratis gesprek](/demo).

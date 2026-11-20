@@ -21,13 +21,13 @@ Labels lopen van A++++ (zeer zuinig) tot G (zeer onzuinig). Het verschil in ener
 
 Onderzoek van het Kadaster en diverse makelaarsorganisaties laat zien dat woningen met label A of beter gemiddeld 2-5% meer opbrengen dan vergelijkbare woningen met een laag label. Bij een woning van 400.000 euro is dat een verschil van 8.000 tot 20.000 euro.
 
-Daarnaast staan energiezuinige woningen korter te koop. Kopers die bewust zoeken naar een duurzame woning zijn vaak snelbeslissers — ze weten wat ze willen. Dit betekent minder bezichtigingen, snellere verkoop en minder onzekerheid voor de verkoper.
+Daarnaast staan energiezuinige woningen korter te koop. Kopers die bewust zoeken naar een duurzame woning zijn vaak snelbeslissers: ze weten wat ze willen. Dit betekent minder bezichtigingen, snellere verkoop en minder onzekerheid voor de verkoper.
 
 Als makelaar kun je dit actief benoemen in je [verkoopstrategie en online marketing](/blog/social-media-makelaars-bezichtigingen). Maak het energielabel onderdeel van je Funda-tekst en social media posts.
 
 ## Verduurzamingsadvies als extra dienst
 
-Niet elke woning heeft een goed energielabel. Maar dat is geen nadeel — het is een kans. Bied verkopers aan om voor de verkoop een verduurzamingsadvies te laten uitvoeren. Kleine ingrepen zoals LED-verlichting, radiatorfolie, tochtstrips en dak- of vloerisolatie kunnen het label met een of twee stappen verbeteren.
+Niet elke woning heeft een goed energielabel. Maar dat is geen nadeel. Het is een kans. Bied verkopers aan om voor de verkoop een verduurzamingsadvies te laten uitvoeren. Kleine ingrepen zoals LED-verlichting, radiatorfolie, tochtstrips en dak- of vloerisolatie kunnen het label met een of twee stappen verbeteren.
 
 De investering is vaak bescheiden (500-2.000 euro) maar het effect op de verkoopprijs en snelheid is significant. Werk samen met een energieadviseur die snel een maatwerkrapport kan opstellen.
 
@@ -35,7 +35,7 @@ Je kunt dit ook inzetten als unique selling point: "Bij ons krijgt elke verkoper
 
 ## Duurzame woningen in je marketing
 
-Maak energieprestatie een vast onderdeel van je woningpresentaties. Benoem het label prominent in de Funda-tekst, niet onderaan maar in de eerste alinea. "Deze energiezuinige woning (label A) heeft zonnepanelen en vloerverwarming — de maandelijkse energiekosten zijn slechts 60 euro."
+Maak energieprestatie een vast onderdeel van je woningpresentaties. Benoem het label prominent in de Funda-tekst, niet onderaan maar in de eerste alinea. "Deze energiezuinige woning (label A) heeft zonnepanelen en vloerverwarming, dus de maandelijkse energiekosten zijn slechts 60 euro."
 
 Concrete cijfers overtuigen meer dan vage claims. Als je de geschatte energiekosten per maand kunt benoemen, geef je kopers een tastbaar voordeel. Gebruik de energiefactuur of een indicatieve berekening op basis van het label.
 
@@ -55,6 +55,6 @@ Als makelaar kun je waarde toevoegen door kopers hierover te informeren. Een doc
 
 ## Conclusie
 
-Het energielabel is geen bijzaak meer — het is een verkoopargument. Makelaars die verduurzaming actief inzetten in hun advies en marketing, verkopen sneller en voor betere prijzen. Begin met het prominenter communiceren van energielabels en overweeg een verduurzamingsadvies als standaarddienst.
+Het energielabel is geen bijzaak meer. Het is een verkoopargument. Makelaars die verduurzaming actief inzetten in hun advies en marketing, verkopen sneller en voor betere prijzen. Begin met het prominenter communiceren van energielabels en overweeg een verduurzamingsadvies als standaarddienst.
 
 Wil je weten hoe je verduurzaming kunt inzetten in je makelaarspraktijk? Vraag een [gratis scan aan](/gratis-scan) en ontdek de mogelijkheden.

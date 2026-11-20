@@ -1,7 +1,7 @@
 ---
 title: "Administratie als makelaar automatiseren: minder papierwerk, meer bezichtigingen"
 seoTitle: "Administratie als makelaar automatiseren"
-excerpt: "Koopovereenkomsten, taxaties, NVM-registraties — de administratie van een makelaar is eindeloos. Zo automatiseer je het."
+excerpt: "Koopovereenkomsten, taxaties, NVM-registraties: de administratie van een makelaar is eindeloos. Zo automatiseer je het."
 date: "2026-04-05"
 cluster: "automatisering"
 authorSlug: "tim-van-der-lee"
@@ -12,7 +12,7 @@ tags: ["Administratie"]
 
 Als makelaar is je dag gevuld met bezichtigingen, acquisitiegesprekken en onderhandelingen. Maar tussendoor: contracten opmaken, taxatierapporten verwerken, NVM-registraties bijwerken, facturen versturen, dossiers ordenen.
 
-Gemiddeld besteedt een makelaar 15-20 uur per week aan administratie. Dat is bijna de helft van je werkweek — tijd die je niet besteedt aan klanten en deals.
+Gemiddeld besteedt een makelaar 15-20 uur per week aan administratie. Dat is bijna de helft van je werkweek: tijd die je niet besteedt aan klanten en deals.
 
 ## Waar zit de meeste tijdverspilling?
 
@@ -47,9 +47,9 @@ Zodra een deal is gesloten, genereert het systeem automatisch de courtage-factuu
 
 Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als makelaar.
 
-Een [AI chatbot](/chatbot) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+Een [AI chatbot](/chatbot) vangt automatisch vragen op en plant afspraken in, ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
 
-Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [AI telefonist](/voice-ai) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [AI telefonist](/voice-ai): we analyseren je huidige situatie en laten zien wat er mogelijk is.
 
 ## Conclusie
 

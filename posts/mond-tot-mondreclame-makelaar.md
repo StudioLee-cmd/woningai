@@ -32,7 +32,7 @@ Doorverwijzingen converteren veel beter dan koude leads. Ze zijn de heilige graa
 | Persoonlijke aandacht | Hoog |
 | Professionele fotografie | Gemiddeld-hoog |
 
-Het gaat niet alleen om het resultaat — het gaat om de [klantbeleving](/blog/klantbeleving-woningverkoop-bezichtiging) tijdens het hele verkoopproces.
+Het gaat niet alleen om het resultaat, maar ook om de [klantbeleving](/blog/klantbeleving-woningverkoop-bezichtiging) tijdens het hele verkoopproces.
 
 ## 4 strategieen
 
@@ -46,7 +46,7 @@ Het contactmoment na de overdracht is cruciaal. Stuur een persoonlijk bedankberi
 
 ### 3. Actief in de buurt
 
-Wees zichtbaar in de wijk. [Open huizen dagen](/blog/open-huizen-dag-makelaar-maximaal-resultaat) zijn niet alleen voor verkoop — ze zijn ook voor branding. Buren zien je professionaliteit en onthouden je wanneer zij willen verkopen.
+Wees zichtbaar in de wijk. [Open huizen dagen](/blog/open-huizen-dag-makelaar-maximaal-resultaat) zijn niet alleen voor verkoop, maar ook voor branding. Buren zien je professionaliteit en onthouden je wanneer zij willen verkopen.
 
 ### 4. Social media als trigger
 
@@ -56,11 +56,11 @@ Deel succesverhalen op [social media](/blog/social-media-makelaars-bezichtiginge
 
 Wanneer iemand zegt "neem die makelaar", googelt de ontvanger je naam. Sterke [Google reviews](/blog/meer-google-reviews-makelaarskantoor), professionele [woningfotografie](/blog/woningfotografie-makelaar-meer-bezichtigingen) op je website en een compleet [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-makelaar-bezichtigingen) bevestigen de aanbeveling.
 
-De offline doorverwijzing triggert online verificatie. Investeer in beide kanalen — ze versterken elkaar en vormen samen een onverslaanbare combinatie die je concurrenten moeilijk kunnen evenaren.
+De offline doorverwijzing triggert online verificatie. Investeer in beide kanalen, want ze versterken elkaar en vormen samen een onverslaanbare combinatie die je concurrenten moeilijk kunnen evenaren.
 
 ## Meten en verbeteren
 
-Vraag bij elke nieuwe verkoper: "Hoe heeft u ons gevonden?" Registreer doorverwijzingen structureel. Je zult ontdekken dat je beste klanten via mond-tot-mond komen — en dat bevestigt het belang van investeren in klantervaring boven advertenties. Bijkomend voordeel: doorverwezen verkopers hebben gemiddeld een hogere klanttevredenheid en verwijzen zelf weer vaker door. Zo ontstaat een vliegwieleffect.
+Vraag bij elke nieuwe verkoper: "Hoe heeft u ons gevonden?" Registreer doorverwijzingen structureel. Je zult ontdekken dat je beste klanten via mond-tot-mond komen, en dat bevestigt het belang van investeren in klantervaring boven advertenties. Bijkomend voordeel: doorverwezen verkopers hebben gemiddeld een hogere klanttevredenheid en verwijzen zelf weer vaker door. Zo ontstaat een vliegwieleffect.
 
 ## Hulp nodig?
 

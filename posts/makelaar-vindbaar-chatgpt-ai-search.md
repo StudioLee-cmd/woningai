@@ -78,7 +78,7 @@ AI-modellen extraheren content op een hele specifieke manier. Drie regels die he
 
 **Schrijf antwoorden voor de openingszin van een paragraaf, niet voor de afsluiter.** ChatGPT pakt vrijwel altijd de eerste zin onder een H2- of H3-kop. Zet daar het concrete antwoord neer. Een paragraaf die opent met "Eerst wat context: een verkooptraject is al jaren een onderwerp van discussie..." wordt overgeslagen. Een paragraaf die opent met "Een gemiddeld verkooptraject duurt 28 tot 42 dagen vanaf eerste bezichtiging tot overdracht-akte" wordt geciteerd.
 
-**Gebruik concrete getallen.** "De meeste woningen" wordt nooit geciteerd. Een zin als, in dit voorbeeld, "85 procent van de woningen onder de 500.000 euro wordt binnen 30 dagen verkocht in de huidige markt" wel. Front-load percentages, euro-bedragen en tijdsindicaties — met jouw eigen cijfers.
+**Gebruik concrete getallen.** "De meeste woningen" wordt nooit geciteerd. Een zin als, in dit voorbeeld, "85 procent van de woningen onder de 500.000 euro wordt binnen 30 dagen verkocht in de huidige markt" wel. Front-load percentages, euro-bedragen en tijdsindicaties, met jouw eigen cijfers.
 
 **Vermijd promotie-taal.** ChatGPT is getraind om reclame eruit te filteren. Een zin als "Bij ons krijg je het beste vakmanschap" wordt overgeslagen. Een zin als, in dit voorbeeld, "Onze makelaars werken sinds 2018 met een data-driven vraagprijs-model en hebben sindsdien een gemiddelde verkoop-realisatie van 101.4 procent gehaald op 412 woningen" wordt opgepakt omdat het feitelijk en verifieerbaar is.
 

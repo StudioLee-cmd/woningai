@@ -11,7 +11,7 @@ cluster: "automatisering"
 
 ## Het probleem dat makelaars miljoenen kost
 
-Een potentiële koper stuurt een bericht via Funda: "Ik wil graag een bezichtiging plannen." Het is donderdag 20:00. Je bent bij een bezichtiging. Je ziet het bericht vrijdagochtend, maar dan heb je drie taxaties. Tegen de tijd dat je reageert, is het vrijdagmiddag — en de koper heeft al een bezichtiging gepland bij je concurrent.
+Een potentiële koper stuurt een bericht via Funda: "Ik wil graag een bezichtiging plannen." Het is donderdag 20:00. Je bent bij een bezichtiging. Je ziet het bericht vrijdagochtend, maar dan heb je drie taxaties. Tegen de tijd dat je reageert, is het vrijdagmiddag, en de koper heeft al een bezichtiging gepland bij je concurrent.
 
 De makelaar die binnen 30 minuten reageert op een lead, heeft een veel grotere kans om die klant te winnen dan iemand die pas na een uur reageert.
 
@@ -32,7 +32,7 @@ Verkopers:
 
 ### 1. Directe bevestiging (binnen 1 minuut)
 
-Zodra een lead binnenkomt — via Funda, je website of social media — stuurt het systeem automatisch:
+Zodra een lead binnenkomt (via Funda, je website of social media), stuurt het systeem automatisch:
 
 "Bedankt voor je interesse in [adres]! Ik neem zo snel mogelijk contact met je op om een bezichtiging in te plannen. Heb je al specifieke vragen?"
 
@@ -43,7 +43,7 @@ Dit bericht:
 
 ### 2. Bezichtiging voorstellen (binnen 2 uur)
 
-Na de automatische bevestiging ontvang je een samenvatting van de lead. Zodra je beschikbaar bent, plan je de bezichtiging — of laat het systeem automatisch beschikbare tijdslots aanbieden.
+Na de automatische bevestiging ontvang je een samenvatting van de lead. Zodra je beschikbaar bent, plan je de bezichtiging, of laat het systeem automatisch beschikbare tijdslots aanbieden.
 
 ### 3. Nabellen na bezichtiging (24 uur)
 
@@ -79,7 +79,7 @@ Het verschil? Vaak simpelweg de snelheid en consistentie van je opvolging.
 
 ## Conclusie
 
-In vastgoed wint niet de beste makelaar — de snelste wint. Automatische lead-opvolging zorgt dat geen enkele potentiële koper of verkoper onbeantwoord blijft, ook buiten kantooruren.
+In vastgoed wint niet de beste makelaar, maar de snelste. Automatische lead-opvolging zorgt dat geen enkele potentiële koper of verkoper onbeantwoord blijft, ook buiten kantooruren.
 
 Met [WoningAI](/) automatiseer je je volledige lead-opvolging. Onze managed service kost slechts 15 minuten van je tijd per maand.
 

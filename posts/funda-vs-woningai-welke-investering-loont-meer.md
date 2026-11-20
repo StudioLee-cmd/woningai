@@ -8,11 +8,11 @@ tags: ["Tools", "Vergelijking"]
 cluster: "automatisering"
 ---
 
-Funda is het grootste woningplatform van Nederland. Elke makelaar staat erop. Maar Funda is een advertentiekanaal — geen groeistrategie. WoningAI pakt het anders aan.
+Funda is het grootste woningplatform van Nederland. Elke makelaar staat erop. Maar Funda is een advertentiekanaal, geen groeistrategie. WoningAI pakt het anders aan.
 
 ## Wat is Funda?
 
-Funda is de marktplaats waar woningzoekenden zoeken en makelaars woningen aanbieden. Je betaalt per object om een woning op het platform te plaatsen. Het is effectief — maar het bouwt geen eigen merk.
+Funda is de marktplaats waar woningzoekenden zoeken en makelaars woningen aanbieden. Je betaalt per object om een woning op het platform te plaatsen. Het is effectief, maar het bouwt geen eigen merk.
 
 ## Wat is WoningAI?
 
@@ -39,11 +39,11 @@ Lees ook: [AI voor makelaars: slimmer adverteren en meer bezichtigingen](/blog/a
 
 ## Conclusie
 
-Funda levert kijkers, WoningAI bouwt je bedrijf. Gebruik beide — en investeer in je eigen merk naast het platform.
+Funda levert kijkers, WoningAI bouwt je bedrijf. Gebruik beide, en investeer in je eigen merk naast het platform.
 
 ## Managed service: jij focust op woningen
 
-Met onze managed service hoef je zelf niets te doen. We houden alles draaiend — van je SEO en social media tot je reviews en AI-vindbaarheid. Je hebt alleen een maandelijks gesprek van 15 minuten nodig om op de hoogte te blijven. De rest doen wij.
+Met onze managed service hoef je zelf niets te doen. We houden alles draaiend, van je SEO en social media tot je reviews en AI-vindbaarheid. Je hebt alleen een maandelijks gesprek van 15 minuten nodig om op de hoogte te blijven. De rest doen wij.
 
 Vraag een [gratis scan](/gratis-scan) aan of [plan een adviesgesprek](https://www.studiolee.nl) om te ontdekken wat er mogelijk is.
 

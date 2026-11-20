@@ -22,7 +22,7 @@ Voor een makelaar is dit een no-brainer. Maar wat is "professioneel" in 2026? Wa
 
 ## Keuze 1: Pro-fotograaf vs zelf doen
 
-Bij een gemiddelde verkoopprijs van €400.000 levert 3 procent extra al €12.000 op. Een fotosessie van €350 verdient zich dus vele malen terug bij betere verkoop. Toch maakt een deel van de Nederlandse makelaars de foto's zelf. Soms goedkoper, vaak niet meetbaar slechter — maar met de huidige markt is dat steeds risicovoller.
+Bij een gemiddelde verkoopprijs van €400.000 levert 3 procent extra al €12.000 op. Een fotosessie van €350 verdient zich dus vele malen terug bij betere verkoop. Toch maakt een deel van de Nederlandse makelaars de foto's zelf. Soms goedkoper, vaak niet meetbaar slechter, maar met de huidige markt is dat steeds risicovoller.
 
 Wanneer zelf doen kan:
 

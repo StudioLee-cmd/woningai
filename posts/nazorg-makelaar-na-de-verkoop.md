@@ -19,10 +19,10 @@ Makelaars die investeren in nazorg zien het terug in hun cijfers: meer doorverwi
 
 Het eerste contact na de overdracht zet de toon:
 
-- **Dezelfde dag**: een felicitatieberichtje of kaartje — "Gefeliciteerd met jullie nieuwe huis!"
+- **Dezelfde dag**: een felicitatieberichtje of kaartje: "Gefeliciteerd met jullie nieuwe huis!"
 - **Na een week**: informeer hoe het gaat met verhuizen en inrichten
 - **Na een maand**: check in of alles bevalt en of ze nog vragen hebben over het huis
-- **Na een jaar**: "Een jaar geleden de sleutel gekregen — hoe bevalt het?"
+- **Na een jaar**: "Een jaar geleden de sleutel gekregen, hoe bevalt het?"
 
 Een persoonlijk bericht kost 2 minuten. Maar het effect is enorm: klanten voelen zich gewaardeerd en onthouden je als de makelaar die echt betrokken was.
 
@@ -62,7 +62,7 @@ Mensen verkopen gemiddeld elke 7-10 jaar hun huis. Als je het contact warm houdt
 - **Relevante informatie**: tips over verduurzaming, buurtnieuws of gemeentelijke plannen
 - **Persoonlijk contact**: een kerstkaart of een felicitatie bij een verhuisjubileum
 
-Dit is geen spam — het is waardevolle informatie die je klant helpt. En het houdt jou top-of-mind als ze ooit weer willen verkopen.
+Dit is geen spam. Het is waardevolle informatie die je klant helpt. En het houdt jou top-of-mind als ze ooit weer willen verkopen.
 
 ## Een nazorg-aanpak ontwikkelen
 
@@ -73,7 +73,7 @@ Dit is geen spam — het is waardevolle informatie die je klant helpt. En het ho
 5. **Jaar 1**: woningwaarde-update + jubileum
 6. **Jaarlijks**: marktupdate en contact houden
 
-Dit kun je grotendeels automatiseren met een CRM-systeem. Maar de persoonlijke touch — een handgeschreven kaart, een persoonlijk telefoontje — maakt het verschil.
+Dit kun je grotendeels automatiseren met een CRM-systeem. Maar de persoonlijke touch (een handgeschreven kaart, een persoonlijk telefoontje) maakt het verschil.
 
 De makelaars die nazorg serieus nemen, bouwen een netwerk dat jaar na jaar groeit. Elke tevreden klant levert gemiddeld 2-3 doorverwijzingen op over de jaren. Reken maar uit wat dat betekent voor je kantoor.
 

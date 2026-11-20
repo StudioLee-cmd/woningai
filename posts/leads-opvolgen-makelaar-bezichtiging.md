@@ -9,7 +9,7 @@ tags: ["Leads", "Leadopvolging"]
 ---
 ## De makelaar die het snelst belt, wint
 
-In de vastgoedmarkt is snelheid alles. Een potentiële koper die een bezichtiging aanvraagt, doet dat bij gemiddeld 2-3 makelaars tegelijk. De makelaar die het snelst reageert met een concreet voorstel — een datum, een tijd, een locatie — krijgt de bezichtiging. De rest krijgt een "ik heb al een afspraak."
+In de vastgoedmarkt is snelheid alles. Een potentiële koper die een bezichtiging aanvraagt, doet dat bij gemiddeld 2-3 makelaars tegelijk. De makelaar die het snelst reageert met een concreet voorstel (een datum, een tijd, een locatie) krijgt de bezichtiging. De rest krijgt een "ik heb al een afspraak."
 
 Toch reageren veel makelaars pas de volgende werkdag op aanvragen die 's avonds of in het weekend binnenkomen. Dat zijn de momenten waarop de meeste woningzoekers actief zijn op Funda en andere platforms.
 
@@ -23,7 +23,7 @@ Dat bericht houdt de koper warm tot je zelf kunt bellen. Het voorkomt dat hij on
 
 ## Na de bezichtiging: het conversie-moment
 
-De bezichtiging is geweest. De koper was enthousiast — maar je hoort niets meer. Dat is normaal: kopers hebben bedenktijd nodig en vergelijken met andere woningen. Zonder opvolging verdwijnt het enthousiasme.
+De bezichtiging is geweest. De koper was enthousiast, maar je hoort niets meer. Dat is normaal: kopers hebben bedenktijd nodig en vergelijken met andere woningen. Zonder opvolging verdwijnt het enthousiasme.
 
 - **Dezelfde avond:** "Leuk dat je langs was! Heb je nog vragen over [specifiek punt dat besproken werd]?"
 - **Na 2 dagen:** "Er is veel interesse in deze woning. Wil je een tweede bezichtiging plannen?"
@@ -33,7 +33,7 @@ De bezichtiging is geweest. De koper was enthousiast — maar je hoort niets mee
 
 ### Informatie als wapen
 
-Elke opvolgstap bevat waardevolle informatie: buurtstatistieken, energielabel details, nabije voorzieningen. Dat is geen verkooppraatje — het is service. Kopers die zich goed geïnformeerd voelen, nemen sneller een beslissing.
+Elke opvolgstap bevat waardevolle informatie: buurtstatistieken, energielabel details, nabije voorzieningen. Dat is geen verkooppraatje, maar service. Kopers die zich goed geïnformeerd voelen, nemen sneller een beslissing.
 
 ## Verkopende partij: de acquisitie-opvolging
 
@@ -45,7 +45,7 @@ Niet alleen kopers verdienen opvolging. Woningeigenaren die overwegen te verkope
 
 ## CRM als basis voor opvolging
 
-Een goed CRM-systeem (Customer Relationship Management) is onmisbaar voor makelaars. Het houdt bij welke leads in welke fase zitten, automatiseert berichten en herinnert je aan opvolgtaken. Zonder CRM glippen leads door de mazen — vooral in drukke perioden.
+Een goed CRM-systeem (Customer Relationship Management) is onmisbaar voor makelaars. Het houdt bij welke leads in welke fase zitten, automatiseert berichten en herinnert je aan opvolgtaken. Zonder CRM glippen leads door de mazen, vooral in drukke perioden.
 
 ## Wat levert betere opvolging op?
 
@@ -74,7 +74,7 @@ Ja, mits goed ingesteld. Een [AI-chatbot](/chatbot) kan 24/7 vragen beantwoorden
 
 ### Hoe voorkom ik dat ik te opdringerig overkom?
 
-Door waarde mee te sturen in elke opvolgstap. Informatie over de woning, de buurt of het aankoopproces — geen lege "heeft u al besloten?" berichten.
+Door waarde mee te sturen in elke opvolgstap. Informatie over de woning, de buurt of het aankoopproces, geen lege "heeft u al besloten?" berichten.
 
 <div class="container"><div class="row justify-content-center"><div class="col-lg-10 col-xl-8 mx-auto"><p class="lees-ook my-5 px-4 py-3 rounded-3 fs-6 text-dark" style="background-color: rgba(193, 255, 114, 0.18);"><strong class="text-dark">Lees ook:</strong> <a href="/blog/waardebepaling-aanvragen-verkoopopdrachten-makelaar" class="text-dark fw-semibold">Waardebepaling-aanvragen omzetten in verkoopopdrachten</a> →</p></div></div></div>
 
